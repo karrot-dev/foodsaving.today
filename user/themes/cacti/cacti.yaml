@@ -3,8 +3,8 @@ author: Foodsaving Today
 title_header: false
 home_profile: true
 infinite_scroll: true
-analytics: UA-YOURCODE
+analytics: UA-96483707-1
 social:
-    twitter: @getgrav
-    facebook: rockettheme
+    twitter: true
+    facebook: true
 
