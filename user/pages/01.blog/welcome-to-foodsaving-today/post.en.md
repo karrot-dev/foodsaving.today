@@ -16,3 +16,4 @@ https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-sur
 
 There are many people and projects trying to solve this now, with many different approaches - non-profit or profit, software or not, open source or proprietary, formal or informal, custom software or a patchwork of tools, community or business.
 
+That's all for now, but stay tuned...
