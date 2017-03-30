@@ -4,6 +4,8 @@ class: home
 profile: true
 ---
 
-This is a standard page. It could be an **about page** or a summary page that outlines your many gifts and talents that you intend to bring to the world of web development.
+News, information, announcements, and events related to foodsaving from around the world.
 
-This page has the header attribute `profile: true` that causes the bio information to be displayed at the top of the page.
+Initiated by [Nick Sellen](http://nicksellen.co.uk) with support from [yunity](https://yunity.org) and hopefully many more contributors to come.
+
+If you want to write a post, help with translation, or anything else you can email Nick at [foodsaving.today@nicksellen.co.uk](mailto:foodsaving.today@nicksellen.co.uk).
