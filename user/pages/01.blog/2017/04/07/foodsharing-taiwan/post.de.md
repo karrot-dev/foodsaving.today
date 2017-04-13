@@ -1,4 +1,3 @@
----
 title: 'Einführung: Foodsharing Taiwan'
 date: '12:00 07-04-2017'
 headline: Die Bewegung breitet sich
