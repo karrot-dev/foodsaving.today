@@ -1,6 +1,6 @@
 ---
-title: Willkommen bei Foodsaving heute!
-date: '11:00 30-03-2017'
+title: Willkommen bei Foodsaving Today!
+date: '11:01 30-03-2017'
 headline: Es beginnt...
 disqus: true
 taxonomy:
