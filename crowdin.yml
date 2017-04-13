@@ -1,5 +1,5 @@
 files:
   - source: /user/pages/**/post.en.md
-    translation: '%original_path%/post.%two_letters_code%.md'
+    translation: /%original_path%/post.%two_letters_code%.md
   - source: /user/pages/**/page.en.md
-    translation: '%original_path%/page.%two_letters_code%.md'
+    translation: /%original_path%/page.%two_letters_code%.md
