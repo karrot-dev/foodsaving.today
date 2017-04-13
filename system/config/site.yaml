@@ -17,6 +17,9 @@ summary:
   delimiter: ===                            # The summary delimiter
 
 redirects:
+  # moved to date-based url structure
+  '/blog/welcome-to-foodsaving-today': '/blog/2017/03/30/welcome-to-foodsaving-today'
+  '/blog/foodsharing-taiwan': '/blog/2017/04/07/foodsharing-taiwan'
 #  '/redirect-test': '/'                         # Redirect test goes to home page
 #  '/old/(.*)': '/new/$1'                        # Would redirect /old/my-page to /new/my-page
 
