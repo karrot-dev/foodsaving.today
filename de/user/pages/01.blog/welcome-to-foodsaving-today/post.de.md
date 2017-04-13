@@ -1,7 +1,7 @@
 ---
-title: Welcome to Foodsaving Today!
+title: Willkommen bei Foodsaving heute!
 date: '11:00 30-03-2017'
-headline: It begins...
+headline: Es beginnt...
 disqus: true
 taxonomy:
   category: blog
@@ -10,10 +10,10 @@ taxonomy:
   author: nicksellen
 ---
 
-Today we launch a new website! The purpose is to share news, information, announcements, events from round the world about foodsaving. To share and inspire.
+Heute starten wir eine neue Website! Der Zweck ist, News, Informationen, Ankündigungen, Ereignisse aus rund um die Welt über Foodsaving zu teilen. Zu teilen und zu inspirieren.
 
-If you don't know anything about foodsaving: the aim is to prevent food from going to waste (try [this introduction](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) from The Guardian).
+Wenn du nicht nichts über Foodsaving weißt: Ziel ist es, die verhindern, dass Lebensmittel verschwenden (versuchen Sie [ diese Einführung](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) von The Guardian).
 
-There are many people and projects trying to solve this now, with many different approaches - non-profit or profit, software or not, open source or proprietary, formal or informal, custom software or a patchwork of tools, community or business.
+Es gibt viele Menschen und Projekte, die versuchen, diese jetzt mit verschiedenen Ansätzen - Non-Profit- oder Gewinn, Software zu lösen oder nicht, open Source oder proprietär, formell oder informell, Individualsoftware oder ein Patchwork von Werkzeugen, Gemeinschaft oder Geschäft.
 
-That's all for now, but stay tuned...
+Das ist alles für jetzt, aber bleiben Sie dran...
