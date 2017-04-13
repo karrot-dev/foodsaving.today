@@ -7,7 +7,7 @@ sitemap:
     priority: 1.03
 
 content:
-    items: @self.children
+    items: @self.descendants
     order:
         by: date
         dir: desc
