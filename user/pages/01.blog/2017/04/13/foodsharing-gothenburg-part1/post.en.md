@@ -16,15 +16,13 @@ In this four-part series of blogposts I will describe:
 - how we organize and build community
 - our strategies for the future
 
-Hopefully this can be useful to other places getting started now or in the process,
-but most of all, I hope we can start exchanging some experiences.
+Hopefully this can be useful to other places getting started now or in the process, but most of all, I hope we can start exchanging some experiences.
 
 We can start that on [yunity’s slack group](https://slackin.yunity.org/), in the __#foodsharing-worldwide__ channel.
 
 ## How it started
 
-The food sharing initiative in Gothenburg, Sweden started undeniably because of [Foodsharing](https://foodsharing.de) in Germany.
-Nothing similar had ever existed here, to the best of my knowledge, and from my experience as a dumpster diver and knowing the number of people doing it here (Facebook groups with its thousands of members), I was surprised that no one had ever thought of organizing such a thing in the city.
+The food sharing initiative in Gothenburg, Sweden started undeniably because of [Foodsharing](https://foodsharing.de) in Germany. Nothing similar had ever existed here, to the best of my knowledge, and from my experience as a dumpster diver and knowing the number of people doing it here (Facebook groups with its thousands of members), I was surprised that no one had ever thought of organizing such a thing in the city.
 
 Perhaps it was just a matter of revealing to people what I had just discovered in my latest visit to Berlin in 2015, when I did a tour with Foodsharing as part of the conference on Solidarity Economy (Solikon).
 
