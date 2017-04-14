@@ -19,7 +19,7 @@ In this four-part series of blogposts I will describe:
 
 Hopefully this can be useful to other places getting started now or in the process, but most of all, I hope we can start exchanging some experiences.
 
-We can start that on [yunity’s slack group](https://slackin.yunity.org/), in the **#foodsharing-worldwide** channel.
+We can start that on [yunity’s slack group](https://slackin.yunity.org/), in the **#foodsaving-worldwide** channel.
 
 ## How it started
 
