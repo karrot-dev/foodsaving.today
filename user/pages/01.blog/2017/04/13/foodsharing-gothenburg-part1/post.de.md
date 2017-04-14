@@ -18,7 +18,7 @@ In this four-part series of blogposts I will describe:
 
 Hopefully this can be useful to other places getting started now or in the process, but most of all, I hope we can start exchanging some experiences.
 
-We can start that on [yunity’s slack group](https://slackin.yunity.org/), in the __#foodsharing-worldwide__ channel.
+We can start that on [yunity’s slack group](https://slackin.yunity.org/), in the **#foodsaving-worldwide** channel.
 
 ## How it started
 
@@ -40,8 +40,7 @@ As you may have noticed, the name of the initiative is solidarity fridge (Solida
 
 We did not have any partnership with any shop, so the fridge was mainly filled sporadically by dumpster divers, until our very first foodsaver, a guy working at a medium-sized supermarket, heard about the initiative and managed to convince his boss. We started rescuing bread (huge sacks, so up to this day we still drowning on bread sometimes, since we’re not able to give them all away) and after some months we started rescuing all kinds of foods.
 
-![](/images/DSC03790.jpg)
-_Second fridge and food share point we put up on a library. Food for thought: literature on sharing_
+![](/images/DSC03790.jpg) *Second fridge and food share point we put up on a library. Food for thought: literature on sharing*
 
 We have already four solidarity fridges spread around the city (including one at a city library!), but very few partnerships yet. This has been one of the main challenges that I will describe in one of the following posts. Right now we are working hard on preparing the ground to scale up the foodsharing model to the many other neighbourhoods, which includes the work of building community, attracting engaged people, showing what the idea is about, how it works, and finding important and strategic actors that support us on this, including city officials.
 
