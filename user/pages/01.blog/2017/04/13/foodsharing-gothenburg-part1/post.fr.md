@@ -1,12 +1,13 @@
 ---
-title: "Foodsharing Gothenburg - Part One"
-date: 12:00 13-04-2017
+title: Foodsharing Gothenburg - Part One
+date: '12:00 13-04-2017'
 headline: How foodsharing in Gothenburg began
 disqus: true
 taxonomy:
-    category: blog
-    tag: [grav]
-    author: bruno
+  category: blog
+  tag:
+    - grav
+  author: bruno
 ---
 
 In this four-part series of blogposts I will describe:
@@ -30,11 +31,9 @@ But presenting an idea, as great as it is, and getting people involved in it is 
 
 So, some many months after I presented Foodsharing for the first time at a local conference, after creating a Facebook group and a Wordpress website, things started to happen when I contacted an acquaintance of mine who would know the place for the first solidarity fridge. The place, called Transition Workshop, hosts a DYI bike repair workshop and other like-minded initiatives, like a Hackerspace. A perfect place to start!
 
-![](/images/homescroll_02a.jpg)
-_Olle, the veteran dumpster diver who jumped onboard the project and inaugurated together with me the first solidarity fridge and food share point._
+![](/images/homescroll_02a.jpg) *Olle, the veteran dumpster diver who jumped onboard the project and inaugurated together with me the first solidarity fridge and food share point.*
 
-![](/images/P1130002.jpg)
-_Many times we are able to fill up the whole fridge!_
+![](/images/P1130002.jpg) *Many times we are able to fill up the whole fridge!*
 
 As you may have noticed, the name of the initiative is solidarity fridge (Solidariskt Kylskåp, in Swedish), and for whatever reason that is the name that stuck in people’s mouths. In the beginning, I was calling it Foodsharing and our Facebook group still has both names, but somehow it made more sense for people by putting the emphasis on the fridge, because that was our starting point.
 
@@ -45,4 +44,3 @@ We did not have any partnership with any shop, so the fridge was mainly filled s
 We have already four solidarity fridges spread around the city (including one at a city library!), but very few partnerships yet. This has been one of the main challenges that I will describe in one of the following posts. Right now we are working hard on preparing the ground to scale up the foodsharing model to the many other neighbourhoods, which includes the work of building community, attracting engaged people, showing what the idea is about, how it works, and finding important and strategic actors that support us on this, including city officials.
 
 Foodsharing, in my conception, is all about grassroots engagement and empowering people to act collectively against food waste and towards a new culture of widescale sharing, but we need to face many challenges in order to achieve that. Next post will be about these challenges, from the Gothenburg/Swedish perspective.
-
