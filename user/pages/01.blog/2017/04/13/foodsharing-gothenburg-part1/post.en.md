@@ -24,7 +24,7 @@ We can start that on [yunity’s slack group](https://slackin.yunity.org/), in t
 
 The food sharing initiative in Gothenburg, Sweden started undeniably because of [Foodsharing](https://foodsharing.de) in Germany. Nothing similar had ever existed here, to the best of my knowledge, and from my experience as a dumpster diver and knowing the number of people doing it here (Facebook groups with its thousands of members), I was surprised that no one had ever thought of organizing such a thing in the city.
 
-Perhaps it was just a matter of revealing to people what I had just discovered in my latest visit to Berlin in 2015, when I did a tour with Foodsharing as part of the conference on Solidarity Economy (Solikon).
+Perhaps it was just a matter of revealing to people what I had just discovered in my latest visit to Berlin in 2015, when I did a tour with Foodsharing as part of the conference on Solidarity Economy ([Solikon](http://solikon2015.org/)).
 
 But presenting an idea, as great as it is, and getting people involved in it is never that simple, as I’ve been learning in this awesome journey as a food waste activist. I’m probably not the best at this community-building thing, in the sense of being able to captivate people about an idea or project, but I discovered that a good way to go is by actually making stuff happen and show openness for people to participate.
 
