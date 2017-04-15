@@ -10,11 +10,11 @@ taxonomy:
   author: bruno
 ---
 
-In this four-part series of blogposts I will describe:
+In dieser vierteiligen Serie von Blogposts werde ich beschreiben:
 
-- how foodsharing in Gothenburg began
-- the main challenges we’re facing
-- how we organize and build community
+- wie begann Foodsharing in Göteborg
+- die wichtigsten Herausforderungen, vor denen, die wir stehen
+- wie wir Gemeinschaft aufbauen und organisieren
 - our strategies for the future
 
 Hopefully this can be useful to other places getting started now or in the process, but most of all, I hope we can start exchanging some experiences.
