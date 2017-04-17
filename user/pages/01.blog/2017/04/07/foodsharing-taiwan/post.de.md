@@ -1,5 +1,5 @@
 ---
-title: 'Introducing: Foodsharing Taiwan'
+title: 'Wir stellen vor: foodsharing Taiwan'
 date: '12:00 07-04-2017'
 headline: The movement spreads
 disqus: true
