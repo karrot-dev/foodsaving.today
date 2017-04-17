@@ -7,7 +7,7 @@ taxonomy:
   category: blog
   tag:
     - grav
-  author: stefan
+  author: Stefan
 ---
 
 ![](/images/fstaiwan.jpg)
@@ -22,6 +22,6 @@ Im Sommer 2016 haben wir auch einen öffentlichen Kühlschrank bei einem Café a
 
 ![](/images/Foodhub1.jpg)
 
-Durch den Kühlschrank bekommen wir viel Aufmerksamkeit und haben einige Interviews an Zeitungen, Zeitschriften und sogar TV-Sendungen gegeben. Und so haben uns einige Leute kontaktiert und ihre Mithilfe angeboten. Sogar ein Unternehmen hat angeboten, Kühlschränke zu spenden. Thus we were able to cooperate with a group of students and set up another fridge on campus early in 2017.
+Durch den Kühlschrank bekommen wir viel Aufmerksamkeit und haben einige Interviews an Zeitungen, Zeitschriften und sogar TV-Sendungen gegeben. Und so haben uns einige Leute kontaktiert und ihre Mithilfe angeboten. Sogar ein Unternehmen hat angeboten, Kühlschränke zu spenden. So konnten wir mit einer Gruppe Studenten zusammenarbeiten und konnten einen weiteren Kühlschrank Anfang 2017 am Campus aufbauen.
 
-The [facebook page](https://www.facebook.com/foodsharingtaiwan/) has about 1200 likes at the moment and the pick-ups continue. We hope to make the concept of foodsharing more popular in Taiwan, find more cooperation with food retailers and set up fridges all over Taiwan. Hopefully lots more to come-stay tuned!
+Die [facebook Seite](https://www.facebook.com/foodsharingtaiwan/) hat momentan etwa 1200 Likes und die Abholungen gehen weiter. Wir hoffen das foodsharing Konzept in Taiwan weiter verbreiten zu können, weitere Kooperationen mit Lebensmittelbetrieben zu finden und mehr Kühlschränke in ganz Taiwan einrichten zu können. Hoffentlich kommt noch viel mehr - bleib mit dran!
