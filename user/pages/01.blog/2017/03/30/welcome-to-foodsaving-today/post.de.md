@@ -10,10 +10,10 @@ taxonomy:
   author: nicksellen
 ---
 
-Heute starten wir eine neue Website! Der Zweck ist, News, Informationen, Ankündigungen, Ereignisse aus rund um die Welt über Foodsaving zu teilen. Zu teilen und zu inspirieren.
+Heute starten wir eine neue Website! Um Neuigkeiten, Informationen, Ankündigungen, Ereignisse über Foodsaving aus aller Welt zu verbreiten. Zu teilen und zu inspirieren.
 
-Wenn du nicht nichts über Foodsaving weißt: Ziel ist es, die verhindern, dass Lebensmittel verschwenden (versuchen Sie [ diese Einführung](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) von The Guardian).
+Wenn du noch nicht nichts über Foodsaving weißt: Wir wollen erreichen, dass weniger Lebensmittel weggeworfen werden (schau mal auf [ diese Einführung](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) von The Guardian).
 
-Es gibt viele Menschen und Projekte, die versuchen, diese jetzt mit verschiedenen Ansätzen - Non-Profit- oder Gewinn, Software zu lösen oder nicht, open Source oder proprietär, formell oder informell, Individualsoftware oder ein Patchwork von Werkzeugen, Gemeinschaft oder Geschäft.
+Es gibt viele Menschen und Projekte, die versuchen eben das mit verschiedenen Ansätzen zu lösen - Non-Profit oder Gewinn, mit Software oder ohne, open Source oder proprietär, formell oder informell, Individualsoftware oder ein Patchwork von Werkzeugen, Gemeinschaft oder Geschäft.
 
-Das ist alles für jetzt, aber bleiben Sie dran...
+Das ist alles für jetzt, aber bleib mit dran...
