@@ -1,7 +1,7 @@
 ---
 title: 'Wir stellen vor: foodsharing Taiwan'
 date: '12:00 07-04-2017'
-headline: The movement spreads
+headline: Die Bewegung wächst
 disqus: true
 taxonomy:
   category: blog
@@ -12,9 +12,9 @@ taxonomy:
 
 ![](/images/fstaiwan.jpg)
 
-Foodsharing Taiwan was founded in late 2015. Inspired by [foodsharing](https://foodsharing.de) in Germany we thought, that something similar might work in Taiwan as well.
+foodsharing Taiwan wurde Ende 2015 gegründet. Inspiriert von [foodsharing](https://foodsharing.de) in Deutschland dachten wir uns, dass das auch ähnlich in Taiwan funktionieren könnte.
 
-We basically started with contacting a bunch of bakeries in Taipei to ask them, if they were generally willing to let us pick up some of their surplus bread. At the same time we created a [facebook page](https://www.facebook.com/foodsharingtaiwan/) and group to organise the pick-ups and held a kick-off meeting to gather interested people.
+Wir haben dann erst einige Bäckereien in Taipei kontaktiert und gefragt, ob sie denn Interesse daran hätten, dass wir das überschüssige Brot abholen kommen. At the same time we created a [facebook page](https://www.facebook.com/foodsharingtaiwan/) and group to organise the pick-ups and held a kick-off meeting to gather interested people.
 
 We finally found a bakery and a restaurant who offered us to pick up their surplus food daily. As required we set up a legal arrangement in accordance with Taiwanese law and designed our own foodsharing IDs, so that people can identify themselves as foodsharing members. People get their IDs at meetups, where they sign the legal arrangement.
 
