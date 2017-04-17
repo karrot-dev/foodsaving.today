@@ -14,9 +14,9 @@ taxonomy:
 
 foodsharing Taiwan wurde Ende 2015 gegründet. Inspiriert von [foodsharing](https://foodsharing.de) in Deutschland dachten wir uns, dass das auch ähnlich in Taiwan funktionieren könnte.
 
-Wir haben dann erst einige Bäckereien in Taipei kontaktiert und gefragt, ob sie denn Interesse daran hätten, dass wir das überschüssige Brot abholen kommen. Zur gleichen Zeit haben wir eine [foodsharing](https://foodsharing.de) Facebook Gruppe und eine Gruppe um Abholungen zu organisieren und haben ein Startschuss-Meeting abgehalten um interessierte Leute daran teilhaben zu lassen.
+Wir haben dann erst einige Bäckereien in Taipei kontaktiert und gefragt, ob sie denn Interesse daran hätten, dass wir das überschüssige Brot abholen kommen. Zur gleichen Zeit haben wir eine [Facebook Seite](https://www.facebook.com/foodsharingtaiwan/) sowie eine Gruppe um Abholungen zu organisieren erstellt und haben ein Startschuss-Meeting abgehalten um interessierte Leute daran teilhaben zu lassen.
 
-Dann haben wir endlich eine Bäckerei und ein Restaurant gefunden, die uns angeboten haben, dass wir täglich das überschüssige Essen abholen können. Damit alles mit rechten Dingen zugeht, haben wir eine legale Reglung im Einklang mit dem taiwanesischem Gesetz eingerichtet und eigene foodshaving IDs gestaltet, damit sich die Leute als foodsaving Mitglied ausweisen können. Diese IDs bekommen die Leute bei Treffen, wenn sie die Rechtsvereinbarung unterschreiben.
+Dann haben wir endlich eine Bäckerei und ein Restaurant gefunden, die uns angeboten haben, dass wir täglich das überschüssige Essen abholen können. Damit alles mit rechten Dingen zugeht, haben wir eine rechtliche Regelung im Einklang mit dem taiwanesischen Gesetz erstellt und eigene foodsharing Ausweise gestaltet, damit sich die Leute als foodsharing Mitglied ausweisen können. Diese IDs bekommen die Leute bei Treffen, wenn sie die Rechtsvereinbarung unterschreiben.
 
 Im Sommer 2016 haben wir auch einen öffentlichen Kühlschrank bei einem Café aufgebaut, nahe an den Läden, wo wir das Essen abholen. Der Kühlschrank wurde uns von einem Freund gesponsert und der Cafébesitzer war so großzügig die Stromrechnungen zu übernehmen.
 
