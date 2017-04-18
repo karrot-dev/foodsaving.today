@@ -13,17 +13,17 @@ taxonomy:
 Das erwartet euch in der vierteiligen Blogpost Serie:
 
 - wie foodsharing in Gothenburg begann
-- die wichtigsten Herausforderungen, vor denen, die wir stehen
-- wie wir Gemeinschaft aufbauen und organisieren
-- our strategies for the future
+- die wichtigsten Herausforderungen, vor denen wir stehen
+- wie wir die Gemeinschaft aufbauen und organisieren
+- unsere Strategien für die Zukunft
 
-Hopefully this can be useful to other places getting started now or in the process, but most of all, I hope we can start exchanging some experiences.
+Das ist hoffentlich für andere Orte hilfreich, die foodsharing starten wollen oder gerade dabei sind; und ganz besonders hoffe ich, dass wir Erfahrungen austauschen können.
 
-We can start that on [yunity’s slack group](https://slackin.yunity.org/), in the **#foodsaving-worldwide** channel.
+Das funktioniert in unserer [yunity slack Gruppe](https://slackin.yunity.org/) im **#foodsaving-worldwide** Kanal.
 
-## How it started
+## Wie alles begann
 
-The food sharing initiative in Gothenburg, Sweden started undeniably because of [Foodsharing](https://foodsharing.de) in Germany. Nothing similar had ever existed here, to the best of my knowledge, and from my experience as a dumpster diver and knowing the number of people doing it here (Facebook groups with its thousands of members), I was surprised that no one had ever thought of organizing such a thing in the city.
+Die foodsharing Initivative in Gothenburg, Schweden begann zweifellos wegen [foodsharing](https://foodsharing.de) aus Deuschland. Nothing similar had ever existed here, to the best of my knowledge, and from my experience as a dumpster diver and knowing the number of people doing it here (Facebook groups with its thousands of members), I was surprised that no one had ever thought of organizing such a thing in the city.
 
 Perhaps it was just a matter of revealing to people what I had just discovered in my latest visit to Berlin in 2015, when I did a tour with Foodsharing as part of the conference on Solidarity Economy ([Solikon](http://solikon2015.org/)).
 
