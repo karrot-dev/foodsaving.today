@@ -23,7 +23,7 @@ Das funktioniert in unserer [yunity slack Gruppe](https://slackin.yunity.org/) i
 
 ## Wie alles begann
 
-Die foodsharing Initivative in Gothenburg, Schweden begann zweifellos wegen [foodsharing](https://foodsharing.de) aus Deuschland. Nothing similar had ever existed here, to the best of my knowledge, and from my experience as a dumpster diver and knowing the number of people doing it here (Facebook groups with its thousands of members), I was surprised that no one had ever thought of organizing such a thing in the city.
+Die foodsharing Initivative in Gothenburg, Schweden begann zweifellos wegen [foodsharing](https://foodsharing.de) aus Deuschland. Es gab hier vorher nichts dergleichen, soweit ich weiß, und aus meiner Erfahrung im Mülltauchen und dass ich die Anzahl der Leute hier kannte (facebook Gruppen mit tausenden Mitgliedern), war ich überrascht, dass bis jetzt noch niemand daran gedacht hat, so etwas in der Stadt zu organisieren.
 
 Perhaps it was just a matter of revealing to people what I had just discovered in my latest visit to Berlin in 2015, when I did a tour with Foodsharing as part of the conference on Solidarity Economy ([Solikon](http://solikon2015.org/)).
 
