@@ -1,18 +1,18 @@
 ---
-title: Foodsharing Gothenburg - Part One
+title: foodsharing Gothenburg - Teil eins
 date: '12:00 13-04-2017'
-headline: How foodsharing in Gothenburg began
+headline: Der Beginn von foodsharing Gothenburg
 disqus: true
 taxonomy:
   category: blog
   tag:
     - grav
-  author: bruno
+  author: Bruno
 ---
 
-In dieser vierteiligen Serie von Blogposts werde ich beschreiben:
+Das erwartet euch in der vierteiligen Blogpost Serie:
 
-- wie begann Foodsharing in Göteborg
+- wie foodsharing in Gothenburg begann
 - die wichtigsten Herausforderungen, vor denen, die wir stehen
 - wie wir Gemeinschaft aufbauen und organisieren
 - our strategies for the future
