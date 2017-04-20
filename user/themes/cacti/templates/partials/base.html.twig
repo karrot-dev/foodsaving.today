@@ -25,6 +25,12 @@
 </head>
 <body>
 
+    {% if uri.environment != site.production_uri_environment %}
+      <div class="not-production-banner">
+        This is the <strong>{{ uri.environment }}</strong> version of the site. Do not share etc...
+      </div>
+    {% endif %}
+
     {% include 'partials/navigation.html.twig' %}
 
     <section id="wrapper">
