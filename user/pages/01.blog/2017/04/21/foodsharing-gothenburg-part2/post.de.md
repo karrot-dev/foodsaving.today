@@ -16,9 +16,9 @@ Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooper
 
 Aber uns ist auch aufgefallen, dass manche einfach Angst vor dem foodsharing Modell haben und davor dass sie eventuell verantwortlich gemacht werden, falls doch jemand krank wird. Was in der Realität sehr unwahrscheinlich ist, da die Lebensmittel immer von der Gemeinschaft kontrolliert werden und die beteiligten Personen immer die nötigen Vorsichtsmaßnahmen ergreifen um die Sicherheit der Lebensmittel zu gewährleisten.
 
-One of the solutions worked by german-speaking Foodsharing and by Foodsharing Edinburgh (and probably in other places that I’m not aware of) is to write a legal agreement between food savers and the donating companies, exempting the latter from any liability.
+Im deutschprachigen foodsharing Raum und auch bei foodsharing Edinburg (und wahrscheinlich bei anderen von denen ich nichts weiß) ist der Lösungsansatz Rechtsvereinbarungen zwischen den Foodsavern und den spendenden Betrieben zu unterzeichnen, sodass die Betriebe von jeglicher Verantwortung befreit werden.
 
-![](greenwashwillys.jpg) *While rescuing some food, we came across a greenwashing propaganda by a big supermarket chain, about how good they are in reducing food waste. They choose only to work with established charities, to which they donate about 0,8% of their total waste. They were not interested in cooperating with us.*
+![](greenwashwillys.jpg) Während einer Lebensmittelrettungsaktion sind wir auf die Greenwashing Propaganda einer größeren Supermarktkette gestoßen. Sie prahlen damit, wie wenig sie wegschmeißen. Dabei arbeiten sie nur mit etablierten Wohlfahrtseinrichtungen, denen sie etwa 0,8% ihrer Lebensmittelabfälle spenden. Sie hatten kein Interesse mit uns zu kooperieren
 
 That is one solution to be discussed here in Gothenburg, but it needs to be combined with better communication regarding the cooperation that we propose when we contact stores, such as improving our website and handing out informative broschures to dispell any doubts and fears.
 
