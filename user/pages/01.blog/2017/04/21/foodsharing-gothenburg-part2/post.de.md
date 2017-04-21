@@ -28,11 +28,11 @@ Es gibt keine Ausrede mehr, mit der man das Verschwenden von essbaren Lebensmitt
 
 ![](nyamatraddare.jpg) Langsam aber stetig wächst die Anzahl der foodsaver. Das foodsaving tool von yunity hat die Sache vereinfacht
 
-Another challenge that we’ve had, which I personally think is more fun to deal with, is making people understand that we are not providing them a charity service, and that we actually need them to participate in this process and to engage themselves.
+Eine weitere, aber meines Erachtens angenehmere, Herausfordung ist Menschen zu erklären, dass wir keine Wohlfahrtsorganisation sind, die ihnen einen Dienst bietet, sondern, dass wir davon abhängig sind, dass die Menschen selbst mitmachen.
 
-It is already clear for most of them that we are non-profit. Less clear though is that people can contribute and actually be actors of change. This is basically something that requires time to communicate and meet people, mainly the public who started coming to our first fridge where now we have regular distributions.
+Für die meisten ist es klar, dass wir nicht Gewinn orientiert arbeiten. Weniger klar ist jedoch, dass man einfach mitmachen und einen Wandel mitgestalten kann. Um das zu vermitteln braucht man Zeit und muss die Leute persönlich treffen. Ein guter Ort ist dafür der erste öffentliche Kühlschrank, an dem es jetzt regelmäßig Verteilungen gibt.
 
-Some people may not have the time or even the conditions (mental or physical hindrances) to help out anyhow, so just the fact that they can come to the fridge and get some food that otherwise would have been thrown away is perfectly fine.
+Manche Menschen haben keine Zeit oder andere Einschränkungen und können so selbst nicht helfen. Deswegen ist es gut, dass man einfach zum Kühlschrank kommen kann um sich Lebensmittel zu holen, die andernfalls weggeschmissen worden wären.
 
 Other people are willing to participate, but bringing them in is also a matter of making it easy for them to participate. Barriers for entry should be low. The more, the merrier.
 
