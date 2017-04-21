@@ -26,7 +26,7 @@ Persönlich mag ich diese Strategie: Sich bemühen alle Zweifel auszulöschen un
 
 Es gibt keine Ausrede mehr, mit der man das Verschwenden von essbaren Lebensmitteln noch rechtfertigen kann!! Und der Kampf lohnt sich. Wir haben tatsächlich schon gesehen, dass unsere Hartnäckigkeit dazu geführt hat, dass der Supermarkt angefangen hat Lebensmittel einer anderen, mehr etablierten NGO zu spenden.
 
-![](nyamatraddare.jpg) Langsam aber stetig wächst die Anzahl der foodsaver. Das foodsaving tool von yunity hat die Sache vereinfacht
+![](nyamatraddare.jpg) Langsam aber stetig wächst die Anzahl der foodsaver. Das foodsaving tool von yunity hat die Sache vereinfacht.
 
 Eine weitere, aber meines Erachtens angenehmere, Herausfordung ist Menschen zu erklären, dass wir keine Wohlfahrtsorganisation sind, die ihnen einen Dienst bietet, sondern, dass wir davon abhängig sind, dass die Menschen selbst mitmachen.
 
