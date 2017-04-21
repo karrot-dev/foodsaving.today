@@ -1,16 +1,16 @@
 ---
-title: About
+title: Über uns
 class: home
 profile: true
 ---
 
-News, information, stories, announcements, and events related to foodsaving from around the world.
+Neuigkeiten, Informationen, Geschichten, Ankündigungen und Events über foodsharing aus der ganzen Welt.
 
-Created by the **#foodsaving-worldwide** project within [yunity](https://yunity.org) with the help from contributors from around the world :)
+Erstellt von dem **#foodsaving-worldwide** Projekt von [yunity](https://yunity.org) mit Hilfe von Menschen aus der ganzen Welt. :)
 
-If you want to help you can...
+Wenn Du helfen willst, kannst du ...
 
-## Write a post
+## einen Blogpost schreiben
 
 We love posts! The best way is to join [slack](http://slackin.yunity.org/) and find us in the **#foodsaving-today** channel.
 
