@@ -35,11 +35,11 @@ Nun, einige Monate nachdem ich foodsharing zum ersten mal auf einer örtlichen K
 
 ![](/images/P1130002.jpg) *Wir konnten den ganzen Kühlschrank oft bis oben hin füllen!*
 
-Wie du vielleicht bemerkt hast, der Name der Initiative ist "Solidarity fridge" (Gemeinschaftskühlschrank oder "Solidariskt Kylskåp" auf Schwedisch) und das ist aus irgendeinem Grund der Name, der in den Köpfen der Leute hängen geblieben ist. In the beginning, I was calling it Foodsharing and our Facebook group still has both names, but somehow it made more sense for people by putting the emphasis on the fridge, because that was our starting point.
+Wie du vielleicht bemerkt hast, der Name der Initiative ist "Solidarity fridge" (Gemeinschaftskühlschrank oder "Solidariskt Kylskåp" auf Schwedisch) und das ist aus irgendeinem Grund der Name, der in den Köpfen der Leute hängen geblieben ist. Anfangs nannte ich es foodsharing und unsere facebook Gruppe hat noch beide Namen, aber irgendwie ergibt es doch mehr Sinn, den Kühlschrank ins Rampenlicht zu rücken, das war ja unser Startpunkt.
 
-We did not have any partnership with any shop, so the fridge was mainly filled sporadically by dumpster divers, until our very first foodsaver, a guy working at a [medium-sized supermarket](https://www.hemkop.se/Butiker/Hemkop-Goteborg-Masthuggstorget/), heard about the initiative and managed to convince his boss. We started rescuing bread (huge sacks, so up to this day we still drowning on bread sometimes, since we’re not able to give them all away) and after some months we started rescuing all kinds of foods.
+Wir hatten keine Kooperation mit irgendeinem Betrieb, deswegen wurde der Kühlschrank sporadisch von den Mülltauchern befüllt, bis unser allererster Foodsaver, ein Mann, der bei [medium-sized supermarket](https://www.hemkop.se/Butiker/Hemkop-Goteborg-Masthuggstorget/) arbeitet, von unsere Initiative gehört hat und seinen Boss überzeugt hat. Wir fingen an Brot zu retten (gigantische Säcke, bis heute ertrinken wir noch manchmal in Brot, da wir es noch nicht schaffen, alles wegzugeben) und einige Monate später haben wir dann alle Arten an Lebensmitteln gerettet.
 
-![](/images/DSC03790.jpg) *Second fridge and food share point we put up on a library. Food for thought: literature on sharing*
+![](/images/DSC03790.jpg) *Der zweite Kühlschrank und Fair-Teiler, in einer Bücherei. Essen für's Denken: Literatur beim Teilen*
 
 We have already four solidarity fridges spread around the city (including one at a city library!), but very few partnerships yet. This has been one of the main challenges that I will describe in one of the following posts. Right now we are working hard on preparing the ground to scale up the foodsharing model to the many other neighbourhoods, which includes the work of building community, attracting engaged people, showing what the idea is about, how it works, and finding important and strategic actors that support us on this, including city officials.
 
