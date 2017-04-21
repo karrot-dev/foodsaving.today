@@ -12,16 +12,16 @@ Wenn Du helfen willst, kannst du ...
 
 ## einen Blogpost schreiben
 
-We love posts! The best way is to join [slack](http://slackin.yunity.org/) and find us in the **#foodsaving-today** channel.
+Wir lieben Posts! Am besten kommst du uns auf [slack](http://slackin.yunity.org/) besuchen und findest uns im **#foodsaving-today** Channel.
 
-## Translate posts
+## Posts übersetzen
 
-It's really important to share our knowledge around the world and if you can help with translations that would be great!
+Es ist echt wichtig unser Wissen und Erfahrungen mit der ganzen Welt zu teilen. Wenn Du übersetzen kannst, ist das klasse!
 
-You can help out at [crowdin.com/project/foodsavingtoday](https://crowdin.com/project/foodsavingtoday).
+Du kannst uns genau hier helfen: [crowdin.com/project/foodsavingtoday](https://crowdin.com/project/foodsavingtoday).
 
-Currently we're targeting English and German, but happy to add more languages if you can help out with translations.
+Momentan fokussieren wir Englisch und Deutsch, aber wir freuen uns immer mehr Sprachen hinzuzufügen, wenn Du uns dabei helfen willst.
 
-## Get in touch
+## Kontakt aufnehmen
 
-You can find us in [slack](http://slackin.yunity.org/) **#foodsaving-today** channel.
+Du findest uns im [slack](http://slackin.yunity.org/) **#foodsaving-today** Channel.
