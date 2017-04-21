@@ -1,7 +1,7 @@
 ---
-title: Foodsharing Gothenburg - Part Two
+title: Foodsharing Göteborg - Teil zwei
 date: '12:00 21-04-2017'
-headline: Main practical challenges
+headline: Aktuelle Schwierigkeiten bei der Umsetzung
 disqus: true
 taxonomy:
   category: blog
