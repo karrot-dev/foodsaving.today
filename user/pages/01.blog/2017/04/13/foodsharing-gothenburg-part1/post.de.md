@@ -31,11 +31,11 @@ Aber eine Idee vorzustellen, wie toll sie auch sein mag, und Leute mit an Board 
 
 Nun, einige Monate nachdem ich foodsharing zum ersten mal auf einer örtlichen Konferenz vorgestellt habe, nach Erstellen der [Facebook Gruppe](https://www.facebook.com/groups/solidarisktkylskap/) und einer [Wordpress Webseite](http://solikyl.se/), ist endlich etwas passiert, als ich einen Bekannten kontaktiert habe, der einen Ort für den ersten Gemeinschaftskühlschrank kennen könnte. Dieser Ort, der [Transition Workshop](http://omverkstan.se/), beherbergt eine DIY Fahrradwerkstatt und andere ähnlich gesinnte Initiativen, wie einen Hackerspace. Der perfekte Ort zum Starten!
 
-![](/images/homescroll_02a.jpg) *Olle, the veteran dumpster diver who jumped onboard the project and inaugurated together with me the first solidarity fridge and food share point.*
+![](/images/homescroll_02a.jpg) *Olle, der altgediente Mülltaucher, der beim Projekt mit dabei ist und mit mir den ersten Geminschaftskühlschrank und Fair-Teiler eingeweiht hat.*
 
-![](/images/P1130002.jpg) *Many times we are able to fill up the whole fridge!*
+![](/images/P1130002.jpg) *Wir konnten den ganzen Kühlschrank oft bis oben hin füllen!*
 
-As you may have noticed, the name of the initiative is solidarity fridge (Solidariskt Kylskåp, in Swedish), and for whatever reason that is the name that stuck in people’s mouths. In the beginning, I was calling it Foodsharing and our Facebook group still has both names, but somehow it made more sense for people by putting the emphasis on the fridge, because that was our starting point.
+Wie du vielleicht bemerkt hast, der Name der Initiative ist "Solidarity fridge" (Gemeinschaftskühlschrank oder "Solidariskt Kylskåp" auf Schwedisch) und das ist aus irgendeinem Grund der Name, der in den Köpfen der Leute hängen geblieben ist. In the beginning, I was calling it Foodsharing and our Facebook group still has both names, but somehow it made more sense for people by putting the emphasis on the fridge, because that was our starting point.
 
 We did not have any partnership with any shop, so the fridge was mainly filled sporadically by dumpster divers, until our very first foodsaver, a guy working at a [medium-sized supermarket](https://www.hemkop.se/Butiker/Hemkop-Goteborg-Masthuggstorget/), heard about the initiative and managed to convince his boss. We started rescuing bread (huge sacks, so up to this day we still drowning on bread sometimes, since we’re not able to give them all away) and after some months we started rescuing all kinds of foods.
 
