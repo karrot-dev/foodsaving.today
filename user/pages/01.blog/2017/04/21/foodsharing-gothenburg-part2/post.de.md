@@ -36,4 +36,4 @@ Manche Menschen haben keine Zeit oder andere Einschränkungen und können so sel
 
 Andere wollen mitmachen, aber man muss darauf achten, dass man den Menschen das Mitwirken leicht macht. Der Einstieg sollte weitestgehend ohne Hindernisse stattfinden. Je mehr, desto besser.
 
-Gerade in diesem Kontext war das foodsaving tool von yunity sehr nützlich. In the next post I will present the kind of tools we have been using here in Gothenburg and discuss how they’ve helped us in creating community and networks, while prototyping a way to organize on a larger scale to reduce food waste while sharing.
+Gerade in diesem Kontext war das foodsaving tool von yunity sehr nützlich. Im nächsten Blogeintrag werde ich ein paar Tools vorstellen, die wir hier in Göteborg eingesetzt haben und erläutern inwiefern sie uns geholfen haben eine Gemeinschaft und ein Netzwerk zu formen. Welches wiederum als Vorlage für die organisierte, auf Teilen basierte Reduktion von Lebensmittelverschwendung im großen Maßstab dienen kann.
