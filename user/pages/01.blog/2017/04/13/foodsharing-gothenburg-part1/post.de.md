@@ -12,7 +12,7 @@ taxonomy:
 
 Das erwartet euch in der vierteiligen Blogpost Serie:
 
-- wie foodsharing in Gothenburg begann
+- wie foodsharing in Göteborg begann
 - die wichtigsten Herausforderungen, vor denen wir stehen
 - wie wir die Gemeinschaft aufbauen und organisieren
 - unsere Strategien für die Zukunft
@@ -23,7 +23,7 @@ Das funktioniert in unserer [yunity slack Gruppe](https://slackin.yunity.org/) i
 
 ## Wie alles begann
 
-Die foodsharing Initivative in Gothenburg, Schweden begann zweifellos wegen [foodsharing](https://foodsharing.de) aus Deuschland. Es gab hier vorher nichts dergleichen, soweit ich weiß, und aus meiner Erfahrung im Mülltauchen und dass ich die Anzahl der Leute hier kannte (facebook Gruppen mit tausenden Mitgliedern), war ich überrascht, dass bis jetzt noch niemand daran gedacht hat, so etwas in der Stadt zu organisieren.
+Die foodsharing Initivative in Göteborg, Schweden begann zweifellos wegen [foodsharing](https://foodsharing.de) aus Deuschland. Es gab hier vorher nichts dergleichen, soweit ich weiß, und aus meiner Erfahrung im Mülltauchen und dass ich die Anzahl der Leute hier kannte (facebook Gruppen mit tausenden Mitgliedern), war ich überrascht, dass bis jetzt noch niemand daran gedacht hat, so etwas in der Stadt zu organisieren.
 
 Vielleicht musste man den Leuten einfach zeigen, was auch ich bei meinem letzten Besuch in Berlin 2015 entdeckt habe, als ich mit foodsharing eine Tour als Teil der Konferenz von Solidarity Economy ([Solikon](http://solikon2015.org/)) gemacht habe.
 
@@ -43,4 +43,4 @@ Wir hatten keine Kooperation mit irgendeinem Betrieb, deswegen wurde der Kühlsc
 
 Wir haben jetzt vier Gemeinschaftskühlschränke in der ganzen Stadt verteilt (einschließlich der bei der Bücherei) aber sehr wenige Kooperationen. Das war eine der größeren Herausforderungen, die ich dann in den nächsten Posts beschreiben werde. Momentan arbeiten wir hart daran, die Basis zu errichten, das foodsharing Modell auf die ganzen anderen Regionen auszuweiten. Das heißt eine Gemeinschaft bilden, engagierte Leute anlocken, die Idee vorstellen, wie alles funktioniert und wichtige strategische Akteure finden, die uns dabei unterstützen, einschließlich Stadtbeamte.
 
-foodsharing ist meiner Auffassung nach ein Basispunkt für Engagement und um Leute zu ermutigen sich gemeinsam gegen die Lebensmittelverschwendung einzusetzen und in Richtung einer neuen Kultur des allgemeinen Teilens zu handeln. Aber wir werden noch viele Herausforderungen meistern müssen, um das zu erreichen. Unser nächster Post geht um eben diese Herausforderungen aus der Gothenburg/Schweden Perspektive.
+foodsharing ist meiner Auffassung nach ein Basispunkt für Engagement und um Leute zu ermutigen sich gemeinsam gegen die Lebensmittelverschwendung einzusetzen und in Richtung einer neuen Kultur des allgemeinen Teilens zu handeln. Aber wir werden noch viele Herausforderungen meistern müssen, um das zu erreichen. Unser nächster Post geht um eben diese Herausforderungen aus der Göteborg/Schweden Perspektive.
