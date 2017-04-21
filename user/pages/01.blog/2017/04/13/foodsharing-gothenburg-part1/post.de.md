@@ -35,7 +35,7 @@ Nun, einige Monate nachdem ich foodsharing zum ersten mal auf einer örtlichen K
 
 ![](/images/P1130002.jpg) *Wir konnten den ganzen Kühlschrank oft bis oben hin füllen!*
 
-Wie du vielleicht bemerkt hast, der Name der Initiative ist "Solidarity fridge" (Gemeinschaftskühlschrank oder "Solidariskt Kylskåp" auf Schwedisch) und das ist aus irgendeinem Grund der Name, der in den Köpfen der Leute hängen geblieben ist. In the beginning, I was calling it Foodsharing and our Facebook group still has both names, but somehow it made more sense for people by putting the emphasis on the fridge, because that was our starting point.
+Wie du vielleicht bemerkt hast, der Name der Initiative ist "Solidarity fridge" (Gemeinschaftskühlschrank oder "Solidariskt Kylskåp" auf Schwedisch) und das ist aus irgendeinem Grund der Name, der in den Köpfen der Leute hängen geblieben ist. Anfangs nannte ich es foodsharing und unsere facebook Gruppe hat noch beide Namen, aber irgendwie ergibt es doch mehr Sinn, den Kühlschrank ins Rampenlicht zu rücken, das war ja unser Startpunkt.
 
 We did not have any partnership with any shop, so the fridge was mainly filled sporadically by dumpster divers, until our very first foodsaver, a guy working at a [medium-sized supermarket](https://www.hemkop.se/Butiker/Hemkop-Goteborg-Masthuggstorget/), heard about the initiative and managed to convince his boss. We started rescuing bread (huge sacks, so up to this day we still drowning on bread sometimes, since we’re not able to give them all away) and after some months we started rescuing all kinds of foods.
 
