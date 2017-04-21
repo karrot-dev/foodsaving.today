@@ -12,7 +12,7 @@ taxonomy:
 
 Am schwierigsten ist momentan wahrscheinlich der Aufbau weiterer Kooperationen mit Supermärkten bzw. Lebensmittelläden. Entweder haben sie zu viel Angst wegen der Lebensmittelrichtlinien, oder es gibt für sie keinen Anreiz ihre Lebensmittelverschwendung zu reduzieren bzw. ist das für sie keine Priorität.
 
-Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooperationen nicht) und kleinere Läden sind der Sache eher positiv eingestellt, aber an die großen Ketten muss man sehr sachte rangehen. Was alle gemeinsam haben ist, dass ignorieren und ausweichen und ab und an wird man auch direkt angelogen: "Bei uns wird nichts weggeschmissen". Das ist jedoch unmöglich für einen Supermarkt, egal wie sehr sie es zu verhindern versuchen.
+Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooperationen nicht) und kleinere Läden sind der Sache eher positiv eingestellt, aber an die großen Ketten muss man sehr sachte rangehen. Was alle gemeinsam haben ist, dass sie ignorieren und ausweichen und ab und an wird man auch direkt angelogen: "Bei uns wird nichts weggeschmissen". Das ist jedoch unmöglich für einen Supermarkt, egal wie sehr er es zu verhindern versucht.
 
 Aber uns ist auch aufgefallen, dass manche einfach Angst vor dem foodsharing Modell haben und davor dass sie eventuell verantwortlich gemacht werden, falls doch jemand krank wird. Was in der Realität sehr unwahrscheinlich ist, da die Lebensmittel immer von der Gemeinschaft kontrolliert werden und die beteiligten Personen immer die nötigen Vorsichtsmaßnahmen ergreifen um die Sicherheit der Lebensmittel zu gewährleisten.
 
