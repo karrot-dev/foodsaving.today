@@ -1,5 +1,5 @@
 ---
-title: Foodsharing Göteborg - Teil zwei
+title: foodsharing Göteborg - Teil zwei
 date: '12:00 21-04-2017'
 headline: Aktuelle Schwierigkeiten bei der Umsetzung
 disqus: true
@@ -12,9 +12,9 @@ taxonomy:
 
 Am schwierigsten ist momentan wahrscheinlich der Aufbau weiterer Kooperationen mit Supermärkten bzw. Lebensmittelläden. Entweder haben sie zu viel Angst wegen der Lebensmittelrichtlinien, oder es gibt für sie keinen Anreiz ihre Lebensmittelverschwendung zu reduzieren bzw. ist das für sie keine Priorität.
 
-Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooperationen nicht) und kleinere Läden sind der Sache eher positiv eingestellt, aber an die großen Ketten muss man sehr sachte rangehen. Their most common strategy is to ignore and avoid, and sometimes we even heard outright lies, like “we don’t have any food waste”, an impossibility for any supermarket regardless how good they are at preventing it.
+Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooperationen nicht) und kleinere Läden sind der Sache eher positiv eingestellt, aber an die großen Ketten muss man sehr sachte rangehen. Was alle gemeinsam haben ist, dass ignorieren und ausweichen und ab und an wird man auch direkt angelogen: "Bei uns wird nichts weggeschmissen". Das ist jedoch unmöglich für einen Supermarkt, egal wie sehr sie es zu verhindern versuchen.
 
-But we also noticed that some of them are just afraid of the foodsharing model and that they might be held responsible in case someone gets sick, which in practice we know that the risk is very low, because the food is always community-controlled and the people involved take the precautions necessary to guarantee food safety.
+Aber uns ist auch aufgefallen, dass manche einfach Angst vor dem foodsharing Modell haben und davor dass sie eventuell verantwortlich gemacht werden, falls doch jemand krank wird. Was in der Realität sehr unwahrscheinlich ist, da die Lebensmittel immer von der Gemeinschaft kontrolliert werden und die beteiligten Personen immer die nötigen Vorsichtsmaßnahmen ergreifen um die Sicherheit der Lebensmittel zu gewährleisten.
 
 One of the solutions worked by german-speaking Foodsharing and by Foodsharing Edinburgh (and probably in other places that I’m not aware of) is to write a legal agreement between food savers and the donating companies, exempting the latter from any liability.
 
