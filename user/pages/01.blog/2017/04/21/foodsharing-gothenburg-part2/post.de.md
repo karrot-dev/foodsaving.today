@@ -10,9 +10,9 @@ taxonomy:
   author: bruno
 ---
 
-Perhaps the greatest challenge at the moment is to get more stores and supermarkets to cooperate. Either they are too afraid because of food safety regulations, or they simply do not have incentives and do not prioritize reducing their waste.
+Am schwierigsten ist momentan wahrscheinlich der Aufbau weiterer Kooperationen mit Supermärkten bzw. Lebensmittelläden. Entweder haben sie zu viel Angst wegen der Lebensmittelrichtlinien, oder es gibt für sie keinen Anreiz ihre Lebensmittelverschwendung zu reduzieren bzw. ist das für sie keine Priorität.
 
-This is obviously not true in all cases (otherwise we would not have the cooperations we have today), and small stores are more positive, but dealing with big commercial chains is more sensitive. Their most common strategy is to ignore and avoid, and sometimes we even heard outright lies, like “we don’t have any food waste”, an impossibility for any supermarket regardless how good they are at preventing it.
+Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooperationen nicht) und kleinere Läden sind der Sache eher positiv eingestellt, aber an die großen Ketten muss man sehr sachte rangehen. Their most common strategy is to ignore and avoid, and sometimes we even heard outright lies, like “we don’t have any food waste”, an impossibility for any supermarket regardless how good they are at preventing it.
 
 But we also noticed that some of them are just afraid of the foodsharing model and that they might be held responsible in case someone gets sick, which in practice we know that the risk is very low, because the food is always community-controlled and the people involved take the precautions necessary to guarantee food safety.
 
