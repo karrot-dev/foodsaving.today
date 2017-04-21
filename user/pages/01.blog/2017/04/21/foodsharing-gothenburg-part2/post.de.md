@@ -22,11 +22,11 @@ Im deutschprachigen foodsharing Raum und auch bei foodsharing Edinburg (und wahr
 
 Das ist eine Lösung, die man hier in Göteborg noch diskutieren wird. Dabei muss aber auch eine bessere Kommunikation, mit einer verbesserten Website und Infobroschüren, stattfinden, um den interessanten Betrieben jegliche Zweifel und Ängste zu nehmen.
 
-Persönlich mag ich diese Strategie: Sich bemühen alle Zweifel auszulöschen und dabei feststellen, ob diese legitim waren oder doch nur schlechte Ausreden. If the latter, then we should escalate and even engage in some public action of shaming, if necessary. We are, after all, offering them a service that will make them save some money in garbage disposal, guaranteeing that food that will be dealt with correctly and that they will not be liable for any misfortune.
+Persönlich mag ich diese Strategie: Sich bemühen alle Zweifel auszulöschen und dabei feststellen, ob diese legitim waren oder doch nur schlechte Ausreden. Falls das letztere zutrifft sollten wird auf jeden Fall weitermachen und wenn nötig, auch öffentlich anprangern. Denn immerhin bieten wir ihnen einen Dienst an, der sie Kosten für die Müllentsorgung einsparen lässt. Und dabei sorgen wir auch dafür, dass mit den Lebensmittel korrekt umgegangen wird und dass sie im Fall der Fälle nicht zur Verantwortung gezogen werden können.
 
-There is no excuse for wasting perfectly good food anymore!! And the fight is worth it. We have indeed some evidence that our nagging in one case made the supermarket start donating food to some other more established charity organizations.
+Es gibt keine Ausrede mehr, mit der man das Verschwenden von essbaren Lebensmitteln noch rechtfertigen kann!! Und der Kampf lohnt sich. Wir haben tatsächlich schon gesehen, dass unsere Hartnäckigkeit dazu geführt hat, dass der Supermarkt angefangen hat Lebensmittel einer anderen, mehr etablierten Ngo zu spenden.
 
-![](nyamatraddare.jpg) *Slowly but steadly the number of foodsavers is growing. The foodsaving tool by yunity has made things easier in this sense*
+![](nyamatraddare.jpg) Langsam aber stetig wächst die Anzahl der foodsaver. Das foodsaving tool von yunity hat die Sache vereinfacht
 
 Another challenge that we’ve had, which I personally think is more fun to deal with, is making people understand that we are not providing them a charity service, and that we actually need them to participate in this process and to engage themselves.
 
