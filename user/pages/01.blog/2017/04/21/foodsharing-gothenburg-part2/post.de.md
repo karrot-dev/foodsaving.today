@@ -34,6 +34,6 @@ Für die meisten ist es klar, dass wir nicht Gewinn orientiert arbeiten. Weniger
 
 Manche Menschen haben keine Zeit oder andere Einschränkungen und können so selbst nicht helfen. Deswegen ist es gut, dass man einfach zum Kühlschrank kommen kann um sich Lebensmittel zu holen, die andernfalls weggeschmissen worden wären.
 
-Other people are willing to participate, but bringing them in is also a matter of making it easy for them to participate. Barriers for entry should be low. The more, the merrier.
+Andere wollen mitmachen, aber man muss darauf achten, dass man den Menschen das Mitwirken leicht macht. Der Einstieg sollte weitestgehend ohne Hindernisse stattfinden. Je mehr, desto besser.
 
-In this sense, the foodsaving tool developed by yunity has been useful. In the next post I will present the kind of tools we have been using here in Gothenburg and discuss how they’ve helped us in creating community and networks, while prototyping a way to organize on a larger scale to reduce food waste while sharing.
+Gerade in diesem Kontext war das foodsaving tool von yunity sehr nützlich. In the next post I will present the kind of tools we have been using here in Gothenburg and discuss how they’ve helped us in creating community and networks, while prototyping a way to organize on a larger scale to reduce food waste while sharing.
