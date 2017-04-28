@@ -2,4 +2,6 @@ vendor
 tmp
 cache
 backup
-logs
+logs/*
+
+!*/KEEP_THIS_DIRECTORY
