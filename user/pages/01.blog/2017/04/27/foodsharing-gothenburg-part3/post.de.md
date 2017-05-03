@@ -1,7 +1,7 @@
 ---
-title: Foodsharing Göteborg - Teil 3
+title: foodsharing Göteborg - Teil 3
 date: '12:00 07-04-2017'
-headline: Tools to connect and to organize
+headline: Tools für Organisation und Kommunikation
 disqus: true
 taxonomy:
   category: blog
