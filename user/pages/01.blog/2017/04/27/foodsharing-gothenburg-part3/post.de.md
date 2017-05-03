@@ -10,7 +10,7 @@ taxonomy:
   author: Bruno
 ---
 
-This is probably the most abstract part, comparing to the hands-on activity of rescuing and sharing food, but also the one I’m most passionate about. I've always been very enthusiastic about the level and scale of organization that networks, with no formal hierarchies, can achieve by using digital platforms.
+Das ist wahrscheinlich der eher theoretische Teil, verglichen verglichen mit den praktischen Aktivitäten des Essenrettens und -teilens, aber trotzdem mag ich diesen Teil am Liebsten. Ich war schon immer sehr enthusiastisch was die Art und Menge der Organisation angeht, die, ohne formelle Hierarchien, Verbindung schafft durch die digitale Plattform.
 
 It is especially important that this can happen without a for-profit company controlling the platform and setting the framework of how people can interact, which is usually the case for tech companies of the so-called sharing economy.
 
