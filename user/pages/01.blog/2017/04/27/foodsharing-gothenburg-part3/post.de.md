@@ -12,11 +12,11 @@ taxonomy:
 
 Das ist wahrscheinlich der eher theoretische Teil, verglichen verglichen mit den praktischen Aktivitäten des Essenrettens und -teilens, aber trotzdem mag ich diesen Teil am Liebsten. Ich war schon immer sehr enthusiastisch was die Art und Menge der Organisation angeht, die, ohne formelle Hierarchien, Verbindung schafft durch die digitale Plattform.
 
-It is especially important that this can happen without a for-profit company controlling the platform and setting the framework of how people can interact, which is usually the case for tech companies of the so-called sharing economy.
+Es ist besonders wichtig, dass wir eine Plattform haben, die nicht von einer Profit-Unternehmen kontrolliert wird und die keine Bedingungen stellt, wie die Leute miteinander interagieren, was normalerweise der Fall bei Technologie Unternehmen der sogenannten Sharing Economy ist.
 
-Real sharing, however, can take place in a platform built and controlled by the community, by a movement and the people who use it.
+Wahres Teilen findet dann doch eher auf einer Plattform statt, von der Gemeinschaft gebaut und kontrolliert, von einer Bewegung und den Leuten, die sie nutzen.
 
-One example here in Sweden is the ride-sharing platform [skjutsgruppen.nu](http://skjutsgruppen.nu/), but another famous one, which most of the readers on this blog know about, is [foodsharing.de](https://foodsharing.de/). When I began foodsaving in Gothenburg I thought that we could start using foodsharing’s platform, but it was not possible for a number of reasons: the fact it is not open-source yet (as I understood, developers think the code is still not good enough to be released yet) and that it’s available only to the German-speaking public.
+Ein Beispiel aus Schweden ist die Mitfahrgelegenheitsplattform [skjutsgruppen.nu](http://skjutsgruppen.nu/), ein anderes Bekanntes, das wahrscheinlich die meisten Leser dieses Blogs kennen, ist [foodsharing.de](https://foodsharing.de/). When I began foodsaving in Gothenburg I thought that we could start using foodsharing’s platform, but it was not possible for a number of reasons: the fact it is not open-source yet (as I understood, developers think the code is still not good enough to be released yet) and that it’s available only to the German-speaking public.
 
 However, you do not need a whole platform to start organizing food-rescuing where you live. The most common way to start organizing with your peers and reaching out to people interested is by creating a Facebook group.
 
