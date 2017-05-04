@@ -16,15 +16,15 @@ Es ist besonders wichtig, dass wir eine Plattform haben, die nicht von einer Pro
 
 Wahres Teilen findet dann doch eher auf einer Plattform statt, von der Gemeinschaft gebaut und kontrolliert, von einer Bewegung und den Leuten, die sie nutzen.
 
-Ein Beispiel aus Schweden ist die Mitfahrgelegenheitsplattform [skjutsgruppen.nu](http://skjutsgruppen.nu/), ein anderes Bekanntes, das wahrscheinlich die meisten Leser dieses Blogs kennen, ist [foodsharing.de](https://foodsharing.de/). When I began foodsaving in Gothenburg I thought that we could start using foodsharing’s platform, but it was not possible for a number of reasons: the fact it is not open-source yet (as I understood, developers think the code is still not good enough to be released yet) and that it’s available only to the German-speaking public.
+Ein Beispiel aus Schweden ist die Mitfahrgelegenheitsplattform [skjutsgruppen.nu](http://skjutsgruppen.nu/), ein anderes Bekanntes, das wahrscheinlich die meisten Leser dieses Blogs kennen, ist [foodsharing.de](https://foodsharing.de/). Als ich mit foodsharing in Göteburg began, dachte ich, wir könnten die foodsharing Plattform nutzen, was aber aus einigen Gründen nicht funktionierte: Es ist noch nicht open-source (soweit ich weiß denken die Entwickler, dass der Code noch nicht gut genug ist, um ihn zu veröffentlichen) und nur für deutschsprachige Länder verfügbar.
 
-However, you do not need a whole platform to start organizing food-rescuing where you live. The most common way to start organizing with your peers and reaching out to people interested is by creating a Facebook group.
+Trotzdem, man braucht keine komplette, neue Plattform um eine Lebensmittelretter-Organisation aufzubauen, wo man lebt. Der gängigste Weg sich mit Gleichgesinnten auszutauschen und Leute zu erreichen die Interesse haben, ist durch eine facebook Gruppe.
 
-Of course, there is a number of inconvenient things about Facebook – besides the shadiest fact that it collects your personal data, your views and preferences in order to sell them to whomever wants to target people as consumers or voters, it is not the most appropriate tool for sharing food and coordinating the work of foodsavers. Things will also tend to pass unnoticed in its timeline.
+Natürlich gibt es einige Nachteile an facebook - ganz neben dem dubiosen Tatsachen, dass es all unsere persönlichen Daten sammelt, Klicks und Likes um sie Leuten zu verkaufen, die uns als Konsumenten oder Wähler einplanen, ist es nicht das geeignetste Werkzeug um Essen zu retten und Foodsaver zu organisieren. Und natürlich können so manche Dinge einfach unbemerkt untergehen.
 
-Facebook’s biggest and perhaps only advantage is the number of people there, meaning it’s easier to do some “marketing” and try to reach out to a wider public.
+Der wohl größte, vielleicht auch einzige Vorteil an facebook ist die Anzahl der Leute, die es nutzen. Also es ist einfacher "Marketing" zu betreiben und ein größeres Publikum zu bekommen.
 
-However, to communicate and organize Solikyl (foodsharing in Gothenburg) it turned out better to create [our own forum](http://omverkstan.se/forum/categories/solikyl). On top of that, we put up a website ([solikyl.se](http://solikyl.se/)), first as a Wordpress blog and later registering the domain name. The website was also an important source of information about the project and the foodsaving idea in Gothenburg, as well as the way for people to contact us.
+Es hat sich aber als besser erwiesen [unser eigenes Forum](http://omverkstan.se/forum/categories/solikyl) zu erschaffen, um Solikyl (foodsharing in Göteburg) zu organisieren. On top of that, we put up a website ([solikyl.se](http://solikyl.se/)), first as a Wordpress blog and later registering the domain name. The website was also an important source of information about the project and the foodsaving idea in Gothenburg, as well as the way for people to contact us.
 
 ![](fstool.png) *yunity's foodsaving tool*
 
