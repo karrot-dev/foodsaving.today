@@ -24,13 +24,13 @@ Natürlich gibt es einige Nachteile an facebook - ganz neben dem dubiosen Tatsac
 
 Der wohl größte, vielleicht auch einzige Vorteil an facebook ist die Anzahl der Leute, die es nutzen. Also es ist einfacher "Marketing" zu betreiben und ein größeres Publikum zu bekommen.
 
-Es hat sich aber als besser erwiesen [unser eigenes Forum](http://omverkstan.se/forum/categories/solikyl) zu erschaffen, um Solikyl (foodsharing in Göteburg) zu organisieren. Außerdem haben wir eine Website errichtet ([solikyl.se](http://solikyl.se/)), erst als einen Wordpress Blog, dann mit der Registration des Domänen Namens. The website was also an important source of information about the project and the foodsaving idea in Gothenburg, as well as the way for people to contact us.
+Es hat sich aber als besser erwiesen [unser eigenes Forum](http://omverkstan.se/forum/categories/solikyl) zu erschaffen, um Solikyl (foodsharing in Göteburg) zu organisieren. Außerdem haben wir eine Website errichtet ([solikyl.se](http://solikyl.se/)), erst als einen Wordpress Blog, dann mit der Registration des Domänen Namens. Die Website war auch eine wichtige Quelle für Infos über das Projekt und die foodsaving Idee in Göteburg, aber auch ein Weg um uns zu kontaktieren.
 
-![](fstool.png) *yunity's foodsaving tool*
+![](fstool.png) *yunitys foodsaving Tool*
 
-Recently we have been able to test and use yunity's [foodsaving tool](https://foodsaving.world), which helps us coordinate more easily who is doing the pickups, when and where. Although it is still under development, it has the basic features that we need and it has worked fine so far!
+Momentan konnten wie yunitys [foodsaving tool](https://foodsaving.world) ausprobieren, was uns geholfen hat, Abholungen zu koodinieren. Obwohl es immer noch in der Entwicklung ist, hat es die Basics, die wir brauchen und das hat bis jetzt wunderbar geklappt!
 
-Another big advantage is that we could bring new people to participate in our regular pickups, which is actually a really important way to create engagement and make people feel a part of it. In the future, I hope that we can have the foodsaving tool integrated in our website, and further developed it to have a forum and chat options, and not least it would be awesome to have a functionality like the one in foodsharing, where people can share food in a peer-to-peer fashion.
+Ein weiterer großer Vorteil ist, dass wir neue Leute an unseren regulären Abholungen teilhaben lassen konnten, was ein sehr wichtiger Schritt ist, Engagement zu fördern und die Leute Teil von der Initiative werden zu lassen. Ich hoffe für die Zukunft, dass wie das foodsaving Tool in unsere Website integrieren können und, dann weiter entwickelt, ein Forum und Chat Optionen haben, und letztendlich wäre es genial eine Funktion wie foodsharing. de zu haben, wo Leute in Person "Essenskörbe" miteinander teilen.
 
 As grassroots food waste activists we do not have yet the human resources and connections to develop this software on our own here in Gothenburg, but thanks to work of like-minded people using open-source and collaborating on the internet, we can adopt new tools to achieve more efficient organization on a larger scale, and hopefully contribute to software development in the future as well.
 
