@@ -12,30 +12,30 @@ taxonomy:
 
 Das ist wahrscheinlich der eher theoretische Teil, verglichen verglichen mit den praktischen Aktivitäten des Essenrettens und -teilens, aber trotzdem mag ich diesen Teil am Liebsten. Ich war schon immer sehr enthusiastisch was die Art und Menge der Organisation angeht, die, ohne formelle Hierarchien, Verbindung schafft durch die digitale Plattform.
 
-It is especially important that this can happen without a for-profit company controlling the platform and setting the framework of how people can interact, which is usually the case for tech companies of the so-called sharing economy.
+Es ist besonders wichtig, dass wir eine Plattform haben, die nicht von einer Profit-Unternehmen kontrolliert wird und die keine Bedingungen stellt, wie die Leute miteinander interagieren, was normalerweise der Fall bei Technologie Unternehmen der sogenannten Sharing Economy ist.
 
-Real sharing, however, can take place in a platform built and controlled by the community, by a movement and the people who use it.
+Wahres Teilen findet dann doch eher auf einer Plattform statt, von der Gemeinschaft gebaut und kontrolliert, von einer Bewegung und den Leuten, die sie nutzen.
 
-One example here in Sweden is the ride-sharing platform [skjutsgruppen.nu](http://skjutsgruppen.nu/), but another famous one, which most of the readers on this blog know about, is [foodsharing.de](https://foodsharing.de/). When I began foodsaving in Gothenburg I thought that we could start using foodsharing’s platform, but it was not possible for a number of reasons: the fact it is not open-source yet (as I understood, developers think the code is still not good enough to be released yet) and that it’s available only to the German-speaking public.
+Ein Beispiel aus Schweden ist die Mitfahrgelegenheitsplattform [skjutsgruppen.nu](http://skjutsgruppen.nu/), ein anderes Bekanntes, das wahrscheinlich die meisten Leser dieses Blogs kennen, ist [foodsharing.de](https://foodsharing.de/). Als ich mit foodsharing in Göteburg began, dachte ich, wir könnten die foodsharing Plattform nutzen, was aber aus einigen Gründen nicht funktionierte: Es ist noch nicht open-source (soweit ich weiß denken die Entwickler, dass der Code noch nicht gut genug ist, um ihn zu veröffentlichen) und nur für deutschsprachige Länder verfügbar.
 
-However, you do not need a whole platform to start organizing food-rescuing where you live. The most common way to start organizing with your peers and reaching out to people interested is by creating a Facebook group.
+Trotzdem, man braucht keine komplette, neue Plattform um eine Lebensmittelretter-Organisation aufzubauen, wo man lebt. Der gängigste Weg sich mit Gleichgesinnten auszutauschen und Leute zu erreichen die Interesse haben, ist durch eine facebook Gruppe.
 
-Of course, there is a number of inconvenient things about Facebook – besides the shadiest fact that it collects your personal data, your views and preferences in order to sell them to whomever wants to target people as consumers or voters, it is not the most appropriate tool for sharing food and coordinating the work of foodsavers. Things will also tend to pass unnoticed in its timeline.
+Natürlich gibt es einige Nachteile an facebook - ganz neben dem dubiosen Tatsachen, dass es all unsere persönlichen Daten sammelt, Klicks und Likes um sie Leuten zu verkaufen, die uns als Konsumenten oder Wähler einplanen, ist es nicht das geeignetste Werkzeug um Essen zu retten und Foodsaver zu organisieren. Und natürlich können so manche Dinge einfach unbemerkt untergehen.
 
-Facebook’s biggest and perhaps only advantage is the number of people there, meaning it’s easier to do some “marketing” and try to reach out to a wider public.
+Der wohl größte, vielleicht auch einzige Vorteil an facebook ist die Anzahl der Leute, die es nutzen. Also es ist einfacher "Marketing" zu betreiben und ein größeres Publikum zu bekommen.
 
-However, to communicate and organize Solikyl (foodsharing in Gothenburg) it turned out better to create [our own forum](http://omverkstan.se/forum/categories/solikyl). On top of that, we put up a website ([solikyl.se](http://solikyl.se/)), first as a Wordpress blog and later registering the domain name. The website was also an important source of information about the project and the foodsaving idea in Gothenburg, as well as the way for people to contact us.
+Es hat sich aber als besser erwiesen [unser eigenes Forum](http://omverkstan.se/forum/categories/solikyl) zu erschaffen, um Solikyl (foodsharing in Göteburg) zu organisieren. Außerdem haben wir eine Website errichtet ([solikyl.se](http://solikyl.se/)), erst als einen Wordpress Blog, dann mit der Registration des Domänen Namens. Die Website war auch eine wichtige Quelle für Infos über das Projekt und die foodsaving Idee in Göteburg, aber auch ein Weg um uns zu kontaktieren.
 
-![](fstool.png) *yunity's foodsaving tool*
+![](fstool.png) *yunitys foodsaving Tool*
 
-Recently we have been able to test and use yunity's [foodsaving tool](https://foodsaving.world), which helps us coordinate more easily who is doing the pickups, when and where. Although it is still under development, it has the basic features that we need and it has worked fine so far!
+Momentan konnten wie yunitys [foodsaving tool](https://foodsaving.world) ausprobieren, was uns geholfen hat, Abholungen zu koodinieren. Obwohl es immer noch in der Entwicklung ist, hat es die Basics, die wir brauchen und das hat bis jetzt wunderbar geklappt!
 
-Another big advantage is that we could bring new people to participate in our regular pickups, which is actually a really important way to create engagement and make people feel a part of it. In the future, I hope that we can have the foodsaving tool integrated in our website, and further developed it to have a forum and chat options, and not least it would be awesome to have a functionality like the one in foodsharing, where people can share food in a peer-to-peer fashion.
+Ein weiterer großer Vorteil ist, dass wir neue Leute an unseren regulären Abholungen teilhaben lassen konnten, was ein sehr wichtiger Schritt ist, Engagement zu fördern und die Leute Teil von der Initiative werden zu lassen. Ich hoffe für die Zukunft, dass wie das foodsaving Tool in unsere Website integrieren können und, dann weiter entwickelt, ein Forum und Chat Optionen haben, und letztendlich wäre es genial eine Funktion wie foodsharing. de zu haben, wo Leute in Person "Essenskörbe" miteinander teilen.
 
-As grassroots food waste activists we do not have yet the human resources and connections to develop this software on our own here in Gothenburg, but thanks to work of like-minded people using open-source and collaborating on the internet, we can adopt new tools to achieve more efficient organization on a larger scale, and hopefully contribute to software development in the future as well.
+Als Basis-Foodwaste-Aktivisten haben wir noch nicht die menschlichen Ressourcen und Verbindungen um diese Software hier in Göteburg selbst zu entwickeln, aber dank der Arbeit Gleichgesinnter Open-source-Nutzer, die mit uns im Internet zusammenarbeiten, können wir neue Tools nutzen um uns in größerem Stil zu organisieren und hoffentlich bei der Software Entwicklung in Zukunft mithelfen können.
 
-This is certainly an advantage that the collaborative movement has compared to profit-seeking counterparts still working with a scarcity-based mentality of enclosing the knowledge and information commons. Collaboration works better!
+Das ist ein wesentlicher Pluspunkt den die gemeinschaftliche Bewegung hat verglichen mit den Profit-Suchenden Gegenspielern, die immer noch mit der mangelhaften Mentalität arbeiten gemeinschaftliches Wissen und Informationen anzukapseln. Zusammenarbeit funktioniert besser!
 
-yunity’s foodsaving tool, in particular, has been crucial in preparing the ground for expanding foodsaving in Gothenburg. And although a platform and digital tools might be necessary to build food-rescuing and sharing on a larger scale, they are not sufficient and other ingredients might be necessary.
+das yunity foodsaving Tool war ganz besonders wichtig um die Basis für die Ausweitung von foodsharing Göteburg zu errichten. Und obgleich eine Plattform und digitales Werkzeug nötig zu sein scheinen um eine Lebensmittel-Retter Plattform zu errichten und Teilen weiträumiger auszugestalten, reichen diese gar nicht aus und weitere Zutaten könnten nützlich sein.
 
-The next and final post will be about our strategies for the future of Solikyl, trying to reduce food waste and increase sharing as much as possible!
+Der nächste und letzte Post wird über unsere zukünftigen Strategien gehen von Solikyl, um die Lebensmittelverschwendung so gut es geht zu minimieren!
