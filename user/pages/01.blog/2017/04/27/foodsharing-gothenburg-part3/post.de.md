@@ -24,7 +24,7 @@ Natürlich gibt es einige Nachteile an facebook - ganz neben dem dubiosen Tatsac
 
 Der wohl größte, vielleicht auch einzige Vorteil an facebook ist die Anzahl der Leute, die es nutzen. Also es ist einfacher "Marketing" zu betreiben und ein größeres Publikum zu bekommen.
 
-Es hat sich aber als besser erwiesen [unser eigenes Forum](http://omverkstan.se/forum/categories/solikyl) zu erschaffen, um Solikyl (foodsharing in Göteburg) zu organisieren. On top of that, we put up a website ([solikyl.se](http://solikyl.se/)), first as a Wordpress blog and later registering the domain name. The website was also an important source of information about the project and the foodsaving idea in Gothenburg, as well as the way for people to contact us.
+Es hat sich aber als besser erwiesen [unser eigenes Forum](http://omverkstan.se/forum/categories/solikyl) zu erschaffen, um Solikyl (foodsharing in Göteburg) zu organisieren. Außerdem haben wir eine Website errichtet ([solikyl.se](http://solikyl.se/)), erst als einen Wordpress Blog, dann mit der Registration des Domänen Namens. The website was also an important source of information about the project and the foodsaving idea in Gothenburg, as well as the way for people to contact us.
 
 ![](fstool.png) *yunity's foodsaving tool*
 
