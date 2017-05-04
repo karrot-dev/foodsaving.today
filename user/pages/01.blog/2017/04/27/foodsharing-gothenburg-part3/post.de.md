@@ -34,8 +34,8 @@ Ein weiterer großer Vorteil ist, dass wir neue Leute an unseren regulären Abho
 
 Als Basis-Foodwaste-Aktivisten haben wir noch nicht die menschlichen Ressourcen und Verbindungen um diese Software hier in Göteburg selbst zu entwickeln, aber dank der Arbeit Gleichgesinnter Open-source-Nutzer, die mit uns im Internet zusammenarbeiten, können wir neue Tools nutzen um uns in größerem Stil zu organisieren und hoffentlich bei der Software Entwicklung in Zukunft mithelfen können.
 
-This is certainly an advantage that the collaborative movement has compared to profit-seeking counterparts still working with a scarcity-based mentality of enclosing the knowledge and information commons. Collaboration works better!
+Das ist ein wesentlicher Pluspunkt den die gemeinschaftliche Bewegung hat verglichen mit den Profit-Suchenden Gegenspielern, die immer noch mit der mangelhaften Mentalität arbeiten gemeinschaftliches Wissen und Informationen anzukapseln. Zusammenarbeit funktioniert besser!
 
-yunity’s foodsaving tool, in particular, has been crucial in preparing the ground for expanding foodsaving in Gothenburg. And although a platform and digital tools might be necessary to build food-rescuing and sharing on a larger scale, they are not sufficient and other ingredients might be necessary.
+das yunity foodsaving Tool war ganz besonders wichtig um die Basis für die Ausweitung von foodsharing Göteburg zu errichten. Und obgleich eine Plattform und digitales Werkzeug nötig zu sein scheinen um eine Lebensmittel-Retter Plattform zu errichten und Teilen weiträumiger auszugestalten, reichen diese gar nicht aus und weitere Zutaten könnten nützlich sein.
 
-The next and final post will be about our strategies for the future of Solikyl, trying to reduce food waste and increase sharing as much as possible!
+Der nächste und letzte Post wird über unsere zukünftigen Strategien gehen von Solikyl, um die Lebensmittelverschwendung so gut es geht zu minimieren!
