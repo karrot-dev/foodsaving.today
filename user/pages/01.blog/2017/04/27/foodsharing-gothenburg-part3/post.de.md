@@ -32,7 +32,7 @@ Momentan konnten wie yunitys [foodsaving tool](https://foodsaving.world) ausprob
 
 Ein weiterer großer Vorteil ist, dass wir neue Leute an unseren regulären Abholungen teilhaben lassen konnten, was ein sehr wichtiger Schritt ist, Engagement zu fördern und die Leute Teil von der Initiative werden zu lassen. Ich hoffe für die Zukunft, dass wie das foodsaving Tool in unsere Website integrieren können und, dann weiter entwickelt, ein Forum und Chat Optionen haben, und letztendlich wäre es genial eine Funktion wie foodsharing. de zu haben, wo Leute in Person "Essenskörbe" miteinander teilen.
 
-As grassroots food waste activists we do not have yet the human resources and connections to develop this software on our own here in Gothenburg, but thanks to work of like-minded people using open-source and collaborating on the internet, we can adopt new tools to achieve more efficient organization on a larger scale, and hopefully contribute to software development in the future as well.
+Als Basis-Foodwaste-Aktivisten haben wir noch nicht die menschlichen Ressourcen und Verbindungen um diese Software hier in Göteburg selbst zu entwickeln, aber dank der Arbeit Gleichgesinnter Open-source-Nutzer, die mit uns im Internet zusammenarbeiten, können wir neue Tools nutzen um uns in größerem Stil zu organisieren und hoffentlich bei der Software Entwicklung in Zukunft mithelfen können.
 
 This is certainly an advantage that the collaborative movement has compared to profit-seeking counterparts still working with a scarcity-based mentality of enclosing the knowledge and information commons. Collaboration works better!
 
