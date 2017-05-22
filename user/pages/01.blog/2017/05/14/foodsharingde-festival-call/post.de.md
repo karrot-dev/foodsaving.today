@@ -10,11 +10,11 @@ taxonomy:
   author: Janina, Bodhi
 ---
 
-Ihr wisst vielleicht schon, dass [foodsharing.de](https://foodsharing.de) auf vielen kommerziellen Festivals ist um dort Essen zu retten und um das Thema Lebensmittelverschwendung ins Bewusstsein zu rufen. Die kommende Festival Saison bietet viele Möglichkeiten für enthusiastische Foodsaver um mit uns zu kommen, um foodsharing bekanntzumachen und um jede Menge Essen zu retten. We're looking forward to your application for various music festivals throughout Germany!
+Ihr wisst vielleicht schon, dass [foodsharing.de](https://foodsharing.de) auf vielen kommerziellen Festivals ist um dort Essen zu retten und um das Thema Lebensmittelverschwendung ins Bewusstsein zu rufen. Die kommende Festival Saison bietet viele Möglichkeiten für enthusiastische Foodsaver um mit uns zu kommen, um foodsharing bekanntzumachen und um jede Menge Essen zu retten. Wir freuen uns auf Deine Bewerbung für die verschiedenen Musik Festivals in ganz Deutschland!
 
 ![](/images/summerstale_booth.JPG)
 
-In many cases the teams will be bigger this year (we'll get 15 to 25 tickets per festival) and that's why we look forward to working together with a lot of motivated foodsavers, who are **at least 18 years old**, who already **completed their trial pick-ups** and who **didn't commit any relevant violations**.
+Dieses Jahr werden einige Teams größer werden (wir bekommen teilweise 15 bis 25 Tickets pro Festival), deswegen wollen wir mit vielen motivierten Foodsavern zusammenarbeiten, die **mindestens 18 Jahre alt sind**, die bereits **drei Einführungsabholungen gemacht haben** und die **keine relevanten Verstöße haben**.
 
 We want to use the relaxed atmosphere on the festivals to tell people about foodsharing, because in these settings - far away from the stress of work and everyday life - many people are much more open to new ideas. On top of that, we always save huge amounts of provisions, which the people brought to the festival and don't want to carry home with them afterwards. A lot of times we can also save prepared food and ingredients from the food stands, so that we literally swim in a sea of food on the day after the festival.
 
