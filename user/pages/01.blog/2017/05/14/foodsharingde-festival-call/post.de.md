@@ -27,13 +27,13 @@ Der Teamgeist ist wahrscheinlich eine der besten Erfahrungen, wenn man mit foods
 
 Um Dich für ein Ticket zu bewerben, klicke einfach auf den Link für das Festival, das Dich interessiert und füll das jeweilige Formular aus. Die Festivals sind alle recht unterschiedlich und so auch die Anforderungen. Generell kann man sagen: Je größer das Festival, desto mehr ist zu tun. Aber auch auf den großen Festivals ist Zeit um Bands anzusehen oder Freunde zu treffen, es sollte nur beachtet werden, dass wir wegen foodsharing dort sind.
 
-* [Hurrikan (22.-26.6.)](https://goo.gl/forms/09YXg3oesiBkPstG2)
+* [Hurricane (22.-26.6.)](https://goo.gl/forms/09YXg3oesiBkPstG2)
 * [Southside (22.-26.6.)](https://goo.gl/forms/p1sl3bdgriUCVoo02)
-* [M’era Luna (11.-14.8.)](https://goo.gl/forms/wKwDYoYEiqXhvzRP2)
-* [Highfield (17.-21.8.)](https://goo.gl/forms/PHfsb6kiUseWxh6y1)
+* [M' Era Luna (11.-14.8.)](https://goo.gl/forms/wKwDYoYEiqXhvzRP2)
+* [Highfield (17.-21,8-.)](https://goo.gl/forms/PHfsb6kiUseWxh6y1)
 * [Chiemsee Summer (15.-20.8.)](https://goo.gl/forms/sWhxg0id3QPrqZEw1)
 
-We favor people, who can be there with us over the whole period of time indicated, as well as those, who can either come very early or stay very late. Especially at festivals that continue for more than three days there is the possibility for you to play a bigger part in setting up our stand or shutting it down, as well as in handling the loads and loads of food, that will be saved on the very last day. We also favor people, who don't have to drive hundreds of kilometers to reach the festival grounds, as well as those, who are ready to take on responsibilities before the festival even starts. We want to make sure that the people, who get the tickets are motivated and reliable, so offering to take on tasks will definitely increase your odds... ;)
+Wir bevorzugen Menschen, die während des ganzen Festivals mit uns da sein können, und auch die, die entweder sehr früh kommen oder sehr lange bleiben können. Besonders auf Festivals, die länger als drei Tage dauern, hast Du die Möglichkeit einen größeren Teil im Aufbau des Standes oder beim Abbau zu übernehmen, ebenso wie die Koordination des vielen, vielen Essens, das am allerletzten Tag gerettet wird. We also favor people, who don't have to drive hundreds of kilometers to reach the festival grounds, as well as those, who are ready to take on responsibilities before the festival even starts. We want to make sure that the people, who get the tickets are motivated and reliable, so offering to take on tasks will definitely increase your odds... ;)
 
 If more people apply than we have tickets to give out, we'll take above-mentioned criteria into account and make a weighted raffle. We'll try to respect your wishes, but we can't guarantee anything.
 
