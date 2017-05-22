@@ -33,11 +33,11 @@ Um Dich für ein Ticket zu bewerben, klicke einfach auf den Link für das Festiv
 * [Highfield (17.-21,8-.)](https://goo.gl/forms/PHfsb6kiUseWxh6y1)
 * [Chiemsee Summer (15.-20.8.)](https://goo.gl/forms/sWhxg0id3QPrqZEw1)
 
-Wir bevorzugen Menschen, die während des ganzen Festivals mit uns da sein können, und auch die, die entweder sehr früh kommen oder sehr lange bleiben können. Besonders auf Festivals, die länger als drei Tage dauern, hast Du die Möglichkeit einen größeren Teil im Aufbau des Standes oder beim Abbau zu übernehmen, ebenso wie die Koordination des vielen, vielen Essens, das am allerletzten Tag gerettet wird. We also favor people, who don't have to drive hundreds of kilometers to reach the festival grounds, as well as those, who are ready to take on responsibilities before the festival even starts. We want to make sure that the people, who get the tickets are motivated and reliable, so offering to take on tasks will definitely increase your odds... ;)
+Wir bevorzugen Menschen, die während des ganzen Festivals mit uns da sein können, und auch die, die entweder sehr früh kommen oder sehr lange bleiben können. Besonders auf Festivals, die länger als drei Tage dauern, hast Du die Möglichkeit einen größeren Teil im Aufbau des Standes oder beim Abbau zu übernehmen, ebenso wie die Koordination des vielen, vielen Essens, das am allerletzten Tag gerettet wird. Wir favorisieren auch eher Menschen, die keine hunderte von Kilometern fahren, um das Festival zu erreichen, und auch solche, die gerne etwas Verantwortung und Organisation in die Hand nehmen, bevor das Festival beginnt. Wir wollen sicherstellen, dass die Leute, die die Tickets bekommen, motiviert und zuverlässig sind, also anzubieten, Aufgaben zu übernehmen, wird definitiv Deine Chancen erhöhen... ;)
 
-If more people apply than we have tickets to give out, we'll take above-mentioned criteria into account and make a weighted raffle. We'll try to respect your wishes, but we can't guarantee anything.
+Falls sich mehr Leute bewerben, als Tickets vorhanden sind, nehmen wir die oben genannten Kriterien zur Hand und verteilen danach gewichtet. Wir versuchen Deine Wünsche zu berücksichtigen, aber wir können nichts garantieren.
 
-Deadline for the applications always is three weeks before the festival starts, so that the more detailed organization can still take place as relaxed as possible (Like: Who brings what? Who travels how? How do we communicate in the group?).
+Anmeldeschluss für die Bewerbungen ist immer drei Wochen vor dem Festival, damit die detailliertere Organisation immer noch stressfrei ablaufen kann. (Wie: Wer bringt was? Wer reist wie? Wie kommunizieren wir in der Gruppe?).
 
 We're looking forward to a nice, varied and productive festival season with you!
 
