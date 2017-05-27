@@ -1,7 +1,7 @@
 ---
-title: 'Mach mit: Mit foodsharing.de auf Musikfestivals fahren'
-date: '12:00 14-05-2017'
-headline: 'Lebensmittelretten mit Spaß und Musik'
+title: 'Mach mit: foodsharing.de auf kommerziellen Musik Festivals'
+date: '12:00 14.05.2017'
+headline: Essen retten mit Spaß und Musik
 disqus: true
 taxonomy:
   category: blog
@@ -10,42 +10,41 @@ taxonomy:
   author: Janina, Bodhi
 ---
 
-Wie ihr vielleicht wisst, ist [foodsharing.de](https://foodsharing.de) auf vielen kommerziellen Festivals mit dabei, um Lebensmittel zu retten und Menschen zu informieren. Auch für die kommende Festival-Saison freuen wir uns wieder sehr auf fröhliche und motivierte FoodsaverInnen, die Lust haben, die überregionale foodsharing Festival AG auf verschiedenen Festivals in Deutschland zu unterstützen.
+Ihr wisst vielleicht schon, dass [foodsharing.de](https://foodsharing.de) auf vielen kommerziellen Festivals ist um dort Essen zu retten und um das Thema Lebensmittelverschwendung ins Bewusstsein zu rufen. Die kommende Festival Saison bietet viele Möglichkeiten für enthusiastische Foodsaver um mit uns zu kommen, um foodsharing bekanntzumachen und um jede Menge Essen zu retten. Wir freuen uns auf Deine Bewerbung für die verschiedenen Musik Festivals in ganz Deutschland!
 
 ![](/images/summerstale_booth.JPG)
 
-Die Teams werden in diesem Jahr in vielen Fällen um einiges größer sein als in den Vorjahren (15-25 Tickets pro Festival), deswegen freuen wir uns auf eine Vielzahl an engagierten FoodsaverInnen, die **min. 18 Jahre alt** sind, ihre **Einführungsabholungen absolviert** haben, und gegen die **keine relevanten Verstoßmeldungen** vorliegen.
+Dieses Jahr werden einige Teams größer werden (wir bekommen teilweise 15 bis 25 Tickets pro Festival), deswegen wollen wir mit vielen motivierten Foodsavern zusammenarbeiten, die **mindestens 18 Jahre alt sind**, die bereits **drei Einführungsabholungen gemacht haben** und die **keine relevanten Verstöße haben**.
 
-Wir wollen die entspannte Festivalstimmung nutzen, um die Idee von foodsharing unter die Leute zu bringen, die hier - fernab vom Arbeits- und Alltagsstress - den Kopf frei haben und neuen Gedanken gegenüber oft aufgeschlossener sind. Außerdem retten wir Unmengen an Proviant, den die Festivalbesucher zuviel mitgebracht haben und nicht wieder mit nach Hause schleppen wollen. Oft lassen uns auch die Stände ihre überschüssigen Leckereien abholen; am letzten Abend inklusive der nicht verarbeiteten Zutaten, sodass wir am Tag nach dem Festival immer im Essen schwimmen!
+Wir wollen die entspannte Atmosphäre auf dem Festival nutzen um den Leuten von foodsharing zu erzählen, weil in dieser Umgebung - weit weg vom Arbeitsstress und vom alltäglichen Leben - die Meisten viel offener für neue Ideen sind. Außerdem retten wir immer gigantische Mengen an Proviant, den die Menschen auf das Festival bringen und am Ende nicht mehr nach Hause nehmen wollen. Oftmals können wir auch zubereitetes Essen und Zutaten von den Essensständen retten, wir schwimmen also buchstäblich in einem Meer aus Essen am Ende des Festivals.
 
-Du siehst also, es gibt viel zu tun! Dass der Spaß am Festival dabei nicht auf der Strecke bleiben soll ist natürlich klar, aber nichtsdestotrotz ist foodsharing auf Festivals vor allen Dingen ganz viel Engagement gegen Lebensmittelverschwendung: Gemeinsam mit einem Team ebenso motivierter FoodsaverInnen besetzt du den Infostand/Fairteiler, leistest Aufklärungsarbeit und läufst nachts, wenn die Stände schließen, nochmal zu Höchstformen auf, um das ganze gute Imbiss-Essen abzuholen und ggfls. direkt zu fairteilen. Danach fällst du glücklich und müde in deinen Schlafsack im foodsharing-Camp und bietest vielleicht am nächsten Vormittag schon wieder ein kostenloses Frühstück an.  
-Die Gruppenerfahrung ist sicherlich einer der schönsten Aspekte bei foodsharing auf Festivals, denn ein langes Wochenende gemeinsamer, sinnvoller Tätigkeit in teils chaotischen Umständen schweißt definitiv zusammen!
+Wie du siehst, es gibt eine Menge zu tun! Natürlich gibt es auch noch Zeit um einfach das Festival zu genießen, aber wir wollen einfach betonen, wenn Du mit foodsharing auf ein Festival gehst, der Fokus auf der Freiwilligenarbeit liegt: Zusammen mit einem Team voller motivierter Foodsaver steht ihr am Infostand/Fair-Teiler, erzählt Leuten von der Lebensmittelverschwendung, von unserer Arbeit, wie sie auch helfen können und nachts - wenn die Essensstände schließen - retten wir das ganze schon wunderbar zubereitete Essen auf dem Platz und fair-teilen es vielleicht sogar auch gleich danach schon wieder. Wenn das geschafft ist, fällst Du müde und glücklich in Deinen Schlafsack im foodsharing Camp und am nächsten Morgen gibt es womöglich schon wieder ein kostenloses Frühstück zum Vernaschen.  
+Der Teamgeist ist wahrscheinlich eine der besten Erfahrungen, wenn man mit foodsharing auf dem Festival ist: Ein langes Wochenende voller nützlicher Aktionen zusammen mit einer Gruppe gleichgesinnter Menschen unter manchmal chaotischen Umständen bringt uns definitiv näher!
 
-**Bitte sei dir im Klaren darüber, dass generell zusammen mit den anderen FoodsaverInnen im Crew-Camp übernachtet wird!** Wir machen das, um auf den großen, unübersichtlichen Geländen die Gruppe zusammen zu halten und im Falle des Falles schnell reagieren zu können, wenn irgendwo etwas gerettet werden kann. Außerdem stärkt es das oben bereits erwähnte Gruppenerleben und hat auf manchen Festivals sogar den Vorteil, dass man saubere Porzellan-Toiletten und Duschen zur Verfügung hat… ;)
+**Bitte beachte, dass alle Foodsaver zusammen im Crew Camp übernachten!** Wir haben diese generelle Regel eingeführt, weil Festivalgelände oft riesig und unübersichtlich sind. Es ist wichtig für die Gruppe, zusammenzubleiben, um flexibel und rechtzeitig auf Einsätze zu reagieren, wie Essen zu retten, ohne vorher alle zusammenrufen zu müssen - das passiert sogar recht häufig. Außerdem fördert das den schon oben genannten Teamgeist und auf manchem Festivals hat das campen im Crew Camp den Vorteil, dass es dort saubere Porzellantoiletten und Duschen für uns gibt... ;)
 
 ![](/images/appelflappen.jpg)
 
-Um dich für die Mitfahrt auf ein Festival zu bewerben, folge dem unten gelisteten Anmeldelink und fülle das jeweilige Formular aus. Die Festivals sind teilweise recht unterschiedlich, und so können es auch die Anforderungen sein. Generell gilt: Je größer ein Festival, desto mehr gibt es zu tun. Aber selbstverständlich kannst du auch auf den großen Festivals mal ein Konzert besuchen oder dich mit Freunden treffen. Es sollte nur klar sein, dass foodsharing der Fokus ist. 
+Um Dich für ein Ticket zu bewerben, klicke einfach auf den Link für das Festival, das Dich interessiert und füll das jeweilige Formular aus. Die Festivals sind alle recht unterschiedlich und so auch die Anforderungen. Generell kann man sagen: Je größer das Festival, desto mehr ist zu tun. Aber auch auf den großen Festivals ist Zeit um Bands anzusehen oder Freunde zu treffen, es sollte nur beachtet werden, dass wir wegen foodsharing dort sind.
 
 * [Hurricane (22.-26.6.)](https://goo.gl/forms/09YXg3oesiBkPstG2)
 * [Southside (22.-26.6.)](https://goo.gl/forms/p1sl3bdgriUCVoo02)
-* [M’era Luna (11.-14.8.)](https://goo.gl/forms/wKwDYoYEiqXhvzRP2)
-* [Highfield (17.-21.8.)](https://goo.gl/forms/PHfsb6kiUseWxh6y1)
+* [M' Era Luna (11.-14.8.)](https://goo.gl/forms/wKwDYoYEiqXhvzRP2)
+* [Highfield (17.-21,8-.)](https://goo.gl/forms/PHfsb6kiUseWxh6y1)
 * [Chiemsee Summer (15.-20.8.)](https://goo.gl/forms/sWhxg0id3QPrqZEw1)
 
-Es werden Menschen bevorzugt, die den gesamten Zeitraum vor Ort sein können bzw. schon sehr früh oder bis sehr spät dabei bleiben können. Gerade bei Festivals, die länger als drei Tage andauern, besteht die Möglichkeit sich vor Allem beim Aufbau bzw. beim Retten der vielen, vielen Lebensmittel, die am Abreisetag anfallen und die Tage dannach auf dem Gelände liegenbleiben, einzubringen. Außerdem werden natürlich Menschen bevorzugt, die nicht durch die halbe Republik fahren müssen, um zum Festival zu kommen, sowie solche, die schon im Vorfeld bereit sind Aufgaben und Verantwortung zu übernehmen. Da wir sichergehen wollen, zuverlässige und engagierte Leute als MitfahrerInnen zu haben, kannst du deine Chancen auf jeden Fall erhöhen, wenn du dazu deine Bereitschaft signalisiert… ;)
+Wir bevorzugen Menschen, die während des ganzen Festivals mit uns da sein können, und auch die, die entweder sehr früh kommen oder sehr lange bleiben können. Besonders auf Festivals, die länger als drei Tage dauern, hast Du die Möglichkeit einen größeren Teil im Aufbau des Standes oder beim Abbau zu übernehmen, ebenso wie die Koordination des vielen, vielen Essens, das am allerletzten Tag gerettet wird. Wir favorisieren auch eher Menschen, die keine hunderte von Kilometern fahren, um das Festival zu erreichen, und auch solche, die gerne etwas Verantwortung und Organisation in die Hand nehmen, bevor das Festival beginnt. Wir wollen sicherstellen, dass die Leute, die die Tickets bekommen, motiviert und zuverlässig sind, also anzubieten, Aufgaben zu übernehmen, wird definitiv Deine Chancen erhöhen... ;)
 
-Sollten sich mehr Menschen bewerben als wir HelferInnentickets von den Veranstaltern erhalten, werden die Tickets nach oben genannten Kriterien gewichtet verlost. Wir versuchen dabei deine Wünsche zu berücksichtigen, können aber für nichts garantieren.
+Falls sich mehr Leute bewerben, als Tickets vorhanden sind, nehmen wir die oben genannten Kriterien zur Hand und verteilen danach gewichtet. Wir versuchen Deine Wünsche zu berücksichtigen, aber wir können nichts garantieren.
 
-Anmeldeschluss ist jeweils 3 Wochen, bevor das Festival stattfindet, damit die Detailorganisation (Wer bringt was mit? Wer reist wie an? Wie kommunizieren wir untereinander?) noch möglichst entspannt ablaufen kann.
+Anmeldeschluss für die Bewerbungen ist immer drei Wochen vor dem Festival, damit die detailliertere Organisation immer noch stressfrei ablaufen kann. (Wie: Wer bringt was? Wer reist wie? Wie kommunizieren wir in der Gruppe?).
 
-Wir freuen uns sehr auf eine schöne, abwechslungsreiche Festival-Saison mit euch!
+Wir freuen uns schon auf eine schöne, bunte und produktive Festival Saison mit Dir!
 
 ![](/images/bodhi_essenfueralle.jpg)
 
-P.S: Abgesehen von den oben genannten, großen Festivals, ist foodsharing auch auf einigen kleineren vertreten. Da die wenigen Tickets dort aber meist schnell vergeben sind, führen wir sie in diesem Aufruf nicht an. Trotzdem kannst du dein Glück natürlich auch dort versuchen! Schau einfach in die Liste der Gruppen des Bezirks “foodsharing auf Festivals” bzw. folge [diesem Link](https://foodsharing.de/?page=groups&p=1432) und kontaktiere die Gruppen direkt, wenn du mitfahren möchtest.
+PS: Abgesehen von den oben genannten Festivals ist foodsharing auch auf kleineren Festivals vertreten. Da wir aber nur eine Handvoll Tickets für solche bekommen, sind diese meist sehr schnell verteilt, darum erwähnen wir sie nicht in diesem Aufruf. Trotzdem, wenn Du bei einem solchen Festival gerne dabei bist, versuch Dein Glück einfach: Auf foodsharing.de kannst du der Region 'foodsharing auf Festivals' beitreten und Dir die Liste der Arbeitsgruppen für diese Region anschauen, weil dort alle Festivals aufgelistet sind. [Dieser Link](https://foodsharing.de/?page=groups&p=1432) bringt Dich genau dorthin und dann kannst Du die Gruppen kontaktieren.
 
-P.P.S: Bei generellem Interesse, um eventuell als Springer spontan mit auf ein Festival zu fahren oder für Fragen aller Art gibt es die Gruppe “Öffentlichkeitsarbeit - Festivals Info”, der du natürlich auch sehr gern beitreten kannst: Geh einfach in die allgemeine Gruppenübersicht und tritt bei; der Zugang ist nicht beschränkt!
-[Hier ist der Direktlink](https://foodsharing.de/?page=groups).
+PPS: Es gibt außerdem die Gruppe 'Öffentlichkeitsarbeit - Festival Info' auf foodsharing.de, wo Du noch mehr generelle Infos bekommst. Wenn Tickets wieder plötzlich verfügbar sind, weil schon bestätigte Foodsaver krank werden oder einen Notfall haben, kündigen wir das auch dort an. Schau einfach auf die Liste der überregionalen Arbeitsgruppen und mach mit - der Zugang ist nicht beschränkt! Oder klick einfach auf [diesen Link](https://foodsharing.de/?page=groups).
 
-P.P.P.S: Die neu-strukturierte Festival AG freut sich darüber hinaus immer über Unterstützung bei der generellen Organisation! Wenn du zB ein Festival im Auge hast, das du gern ansprechen würdest, und/oder du bei der Koordination, Kommunikation und Dokumentation helfen möchtest, bewirb dich einfach bei der Gruppe “Festival Koordination” im Bezirk “foodsharing auf Festivals”, die du [hier](https://foodsharing.de/?page=groups&p=1432) findest.
+PPPS: Das neu strukturierte Festival Team freut sich immer über Unterstützung hinsichtlich der generellen Organisation! Wenn Du ein Festival kennst, das Du mit foodsharing erreichen willst, oder Du uns mit der gesamten Kommunikation und Dokumentation helfen willst, wende Dich bitte an die Gruppe 'Festival Koordination' in der Region 'foodsharing auf Festivals', die Du [hier](https://foodsharing.de/?page=groups&p=1432) findest.
