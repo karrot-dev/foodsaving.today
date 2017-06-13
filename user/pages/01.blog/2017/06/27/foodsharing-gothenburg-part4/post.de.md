@@ -28,13 +28,13 @@ Wir wissen, dass die Orte, an denen die Kühlschränke stehen nicht für die Leb
 
 Schlussendlich, wenn alle Teile des Puzzels zusammengebracht sind werden wir die Bedingungen, um Foodsharing in Gotheburg auf dezentralisierte Art und Weise zu vergrößern und ohne überwältigende Mengen an Arbeit für die Kerngruppe zu erfordern geschaffen haben.
 
-Solikyl wird nur die Werkzeuge bereitstellen (siehe auch [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), Wissen, Kontakte, Unterstützung usw. für lokale Nachbarschaften, die anfangen möchten Lebensmittel zu retten
+Solikyl wird nur die Werkzeuge bereitstellen (siehe auch [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), Wissen, Kontakte, Unterstützung usw. für lokale Nachbarschaften, die anfangen möchten Lebensmittel zu retten, die sonst im Müll gelandet wären. Auf eine Art und Weise, die das Teilen und Solidarität unterstützt.
 
 ![](fylldkyl.png)
 
-Let me give you an example about what creating a decentralized solidarity infrastructure means. Last time I was at the transition workshop, the place where our first and most “active” fridge is, I could observe people coming and going, not only to get some food, but also to leave stuff on their own account.
+Lass mich ein Beispiel geben was es heißt eine dezentralisierte, solidarische Infrastruktur aufzubauen. Letztes Mal, als ich am "transition-workshop" war, der Ort an dem unser erster und aktivster Kühlschrank steht, sah ich Menschen, die kamen und gingen. Nicht nur um einige Lebensmittel mitzunehmen, sondern auch um selber einiges dort zu lassen.
 
-One guy had just come from his dumpster-diving tour with some bread and sausages, while a woman came later with some snacks that were donated directly from a distributor, because the best-before date on these snacks had expired. I might have seen these people there before, but I did not know them, and they were not among the foodsavers who contacted us to pick up food at the store, using the foodsaving tool.
+Einer kam gerade von einer container tour mit eingem an Brot und Würsten während eine Frau später mit einigen Snacks kam, die von einem Betrieb gespendet worden waren, da ihr Mindesthalbarkeitsdatum abgelaufen war. I might have seen these people there before, but I did not know them, and they were not among the foodsavers who contacted us to pick up food at the store, using the foodsaving tool.
 
 What happens here is that this food sharing point, with the fridge, the shelves and the big IKEA boxes (yes, so Swedish...) where we have bread constituted a very basic infrastructure that people could use to engage in the act of sharing whatever food excess they have or find.
 
