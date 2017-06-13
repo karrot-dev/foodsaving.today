@@ -1,13 +1,13 @@
 ---
-title: Foodsharing Gothenburg - Part Four
+title: Foodsharing Göteborg - Teil 4
 date: '12:00 27-05-2017'
-headline: Strategies for the future
-disqus: true
+headline: Strategien für die Zukunft
+disqus: richtig
 taxonomy:
-  category: blog
+  category: Blog
   tag:
     - grav
-  author: bruno
+  author: Bruno
 ---
 
 In den vergangenen Beiträgen schrieb ich über Solikyl, die foodsharing Initiative in Gotheburg, über Schwierigkeiten und über die Computerprogramme, die wir nutzen um uns zu organisieren und auszutauschen. Dieser letzte Beitrag behandelt die Strategien und Visionen, die wir für die Zukunft haben.
@@ -42,4 +42,4 @@ There is no need for constant supervision of the fridge by any kind of formal or
 
 This is actually one of the most efficient ways we believe there is to fight food waste, and perhaps more importantly, this kind of model promotes real sharing and is open enough to empower people, giving them the tools and knowledge to be active agents of change, and not merely limiting them to be passive consumers or receivers of charity.
 
-I’m looking forward to read other contributions on this blog and to get to know more about similar initiatives in other cities!
+Ich freue mich über Beträge auf diesem Blog und bin interessiert über ähnliche Initiativen in anderen Städten zu lernen!
