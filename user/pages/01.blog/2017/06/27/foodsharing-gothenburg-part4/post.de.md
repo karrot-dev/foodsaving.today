@@ -28,7 +28,7 @@ Wir wissen, dass die Orte, an denen die Kühlschränke stehen nicht für die Leb
 
 Schlussendlich, wenn alle Teile des Puzzels zusammengebracht sind werden wir die Bedingungen, um Foodsharing in Gotheburg auf dezentralisierte Art und Weise zu vergrößern und ohne überwältigende Mengen an Arbeit für die Kerngruppe zu erfordern geschaffen haben.
 
-Solikyl will only provide the tools (see also [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), know-how, contacts, support, etc. for the local neighbourhood communities who want to start rescuing food that would have gone to waste, doing it in a way that behaviours of sharing and solidarity are encouraged.
+Solikyl wird nur die Software bereitstellen (siehe auch [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), Wissen, Kontakte, Unterstützung usw. für lokale Nachbarschaften, die anfangen möchten Lebensmittel zu retten
 
 ![](fylldkyl.png)
 
