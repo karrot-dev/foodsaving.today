@@ -28,7 +28,7 @@ Wir wissen, dass die Orte, an denen die Kühlschränke stehen nicht für die Leb
 
 Schlussendlich, wenn alle Teile des Puzzels zusammengebracht sind werden wir die Bedingungen, um Foodsharing in Gotheburg auf dezentralisierte Art und Weise zu vergrößern und ohne überwältigende Mengen an Arbeit für die Kerngruppe zu erfordern geschaffen haben.
 
-Solikyl wird nur die Software bereitstellen (siehe auch [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), Wissen, Kontakte, Unterstützung usw. für lokale Nachbarschaften, die anfangen möchten Lebensmittel zu retten
+Solikyl wird nur die Werkzeuge bereitstellen (siehe auch [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), Wissen, Kontakte, Unterstützung usw. für lokale Nachbarschaften, die anfangen möchten Lebensmittel zu retten
 
 ![](fylldkyl.png)
 
@@ -40,6 +40,6 @@ What happens here is that this food sharing point, with the fridge, the shelves 
 
 There is no need for constant supervision of the fridge by any kind of formal organization (a company, a charity or public authorities), which would be responsible for the giving and taking happening on this food sharing point. There is no need either for a boss, whether from a company or from a non-profit, to organize or dictate how these interactions are going to take place.
 
-This is actually one of the most efficient ways we believe there is to fight food waste, and perhaps more importantly, this kind of model promotes real sharing and is open enough to empower people, giving them the tools and knowledge to be active agents of change, and not merely limiting them to be passive consumers or receivers of charity.
+Dies ist einer der effizientesten Wege, denken wir, um die Lebensmittelverschwendung zu bekämpfen. Zusätzlich und vielleicht wichtiger fördert dieses Modell echtes Teilen und ist offen genug um Menschen zu ermächtigen: ihnen Werkzeuge und Wissen zu geben um aktive Vertreter des Wandels zu sein und sie nicht nur auf ein passives Konsumieren oder Annehmen von Almosen zu limitieren.
 
 Ich freue mich über Beträge auf diesem Blog und bin interessiert über ähnliche Initiativen in anderen Städten zu lernen!
