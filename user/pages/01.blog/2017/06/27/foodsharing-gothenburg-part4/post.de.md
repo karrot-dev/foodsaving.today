@@ -24,7 +24,7 @@ So far we got them on Facebook sharing groups and similar donation websites. Pla
 
 One particular strategy that we are working on is a partnership with the city. We are discussing the possibility of getting the discarded and working fridges from the waste stations and using the public spaces, like libraries, to place them. Some legal questions seem to be cleared now.
 
-We know that the places housing the fridges are not liable for food safety regarding foodsharing in their premises. We also know now that partners who donate are not liable for the food ending up at the fridges and food sharing points, so we are currently working on communication material to approach future partnership (see also [part 2](/blog/2017/04/21/foodsharing-gothenburg-part2)).
+Wir wissen, dass die Orte, an denen die Kühlschränke stehen nicht für die Lebensmittelsicherheit von Foodsharing auf ihren Grundstücken verantwortlich sind. We also know now that partners who donate are not liable for the food ending up at the fridges and food sharing points, so we are currently working on communication material to approach future partnership (see also [part 2](/blog/2017/04/21/foodsharing-gothenburg-part2)).
 
 Finally, when all the pieces of this puzzle are put together we will have the conditions to expand food sharing in Gothenburg in a more decentralized matter, which does not require an overwhelming amount of work from the core group.
 
