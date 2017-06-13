@@ -10,23 +10,23 @@ taxonomy:
   author: bruno
 ---
 
-On the previous posts I wrote about Solikyl, the foodsharing initiative in Gothenburg, about the challenges we face and the tools we use to connect and organize ourselves. This final post is all about the strategies and visions we have for the future.
+In den vergangenen Beiträgen schrieb ich über Solikyl, die foodsharing Initiative in Gotheburg, über Schwierigkeiten und über die Computerprogramme, die wir nutzen um uns zu organisieren und auszutauschen. Dieser letzte Beitrag behandelt die Strategien und Visionen, die wir für die Zukunft haben.
 
-The vision is obviously to spread solidarity fridges across the city, to get more food shops to cooperate and ultimately to minimize food waste considerably. But there are ways and ways to do it. There is neither a need to make a business out of it, nor to make it as a charity that targets the poorest, creating stigmatization barriers.
+Die Vision ist natürlich solidarische Kühlschränke in der Stadt zu verteilen um mehr Betriebe dazu zu bringen mit uns zu kooperieren und letzendlich die Lebensmittelverschwendung sichtbar einzudämmen. Doch es gibt Wege und Wege dies zu tun. Es gibt weder den Bedarf ein Geschäft daraus zu machen, noch es als Wohltätigkeitsorganisation für die Ärmsten aufzuziehen, dies zieht nur stigmatisierende Grenzen mit sich.
 
-From the very beginning we who organized this did not view this initiative as some kind of top-down non-profit or as a business model. In fact, you don’t need much money at all (all of our expenses have been paid so far with recycled bottles collected where the first solidarity fridge is). Of course, what you need is resources, the most important of them being people’s time, skills and commitment.
+Von Anfang an haben wir, die Organisierenden, diese Initiative nicht als eine von-oben-herab-Organisation oder als Geschäftsmodell gesehen. Eigentlich brauchen wir gar nicht so viel Geld (alle unserer Ausgaben haben wir bisher mit Pfandeinnahmen von unserem ersten solidarischen Kühlschrank gedeckt). Natürlich benötigen wir Ressourcen, die wichtigsten sind Zeit, Fähigkeiten und Engagement von Menschen.
 
-Things like fridges, used but fully functional, are also available to donation in this abundant and affluent society, so the question is finding them.
+Dinge wie z. B. Kühlschränke, benutzt und doch voll funktionsfähig, sind auch als Spende erhältlich in dieser im Überfluss schwimmenden Gesellschaft. Daher ist es nur eine Frage diese zu finden.
 
-So far we got them on Facebook sharing groups and similar donation websites. Places are also available, so the trick is to find the right places and talk to the right people who share similar values. Then how are we preparing the ground to do all of this on a larger scale?
+Bis jetzt bekamen wir diese über Facebook-sharing-Gruppen und ähnliche Spenden-Websites. Auch Orte gibt es genügend. Daher ist es nur eineFrage der Vernetzung - die richtigen Orte finden und mit den richtigen Leuten reden die ähnliche Werte teilen. Nun, wie bereiten wir die Grundlage um solche Dinge in größerem Maßstab zu tun?
 
-![](kortedala_solikyl4.jpg) *Bringing a solidarity fridge to a natural place for sharing, a library.*
+![](kortedala_solikyl4.jpg) *Solidarische Kühlschränke and Orten aufstellen, die eh schon auf das Teilen eingestellt sind; eine Bibliothek</p> 
 
-One particular strategy that we are working on is a partnership with the city. We are discussing the possibility of getting the discarded and working fridges from the waste stations and using the public spaces, like libraries, to place them. Some legal questions seem to be cleared now.
+Eine besondere Strategie ist, dass wir in Partnerschaft mit der Stadt arbeiten. Wir diskutieren die Möglichkeit die ausrangierten, noch funktionsfähigen Kuhlschränke von den Abfallstationen zu bekommen und diese an öffentliche Orte, wie Bibliotheken zu stellen. Einige legale Fragen scheinen nun geklärt zu sein.
 
-Wir wissen, dass die Orte, an denen die Kühlschränke stehen nicht für die Lebensmittelsicherheit von Foodsharing auf ihren Grundstücken verantwortlich sind. We also know now that partners who donate are not liable for the food ending up at the fridges and food sharing points, so we are currently working on communication material to approach future partnership (see also [part 2](/blog/2017/04/21/foodsharing-gothenburg-part2)).
+Wir wissen, dass die Orte, an denen die Kühlschränke stehen nicht für die Lebensmittelsicherheit von Foodsharing auf ihren Grundstücken verantwortlich sind. Ebenfalls wissen wir, dass Spenderbetriebe nicht für die Lebensmittel, die in den Kühlschränken und Foodsharing-points landen haftbar sind. Daher arbeiten wir derzeit an Kommunikationsmaterial um zukünftige Kooperationen anzusprechen (siehe auch [part 2](/blog/2017/04/21/foodsharing-gothenburg-part2)).
 
-Finally, when all the pieces of this puzzle are put together we will have the conditions to expand food sharing in Gothenburg in a more decentralized matter, which does not require an overwhelming amount of work from the core group.
+Schlussendlich, wenn alle Teile des Puzzels zusammengebracht sind werden wir die Bedingungen, um Foodsharing in Gotheburg auf dezentralisierte Art und Weise zu vergrößern und ohne überwältigende Mengen an Arbeit für die Kerngruppe zu erfordern geschaffen haben.
 
 Solikyl will only provide the tools (see also [part 3](/blog/2017/04/27/foodsharing-gothenburg-part3)), know-how, contacts, support, etc. for the local neighbourhood communities who want to start rescuing food that would have gone to waste, doing it in a way that behaviours of sharing and solidarity are encouraged.
 
