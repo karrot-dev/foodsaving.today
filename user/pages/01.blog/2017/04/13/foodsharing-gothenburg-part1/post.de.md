@@ -9,7 +9,6 @@ taxonomy:
     - grav
   author: Bruno
 ---
-
 Das erwartet euch in der vierteiligen Blogpost Serie:
 
 - wie foodsharing in Göteborg begann
