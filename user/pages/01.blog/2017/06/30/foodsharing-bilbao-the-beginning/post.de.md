@@ -15,9 +15,9 @@ Wir haben beschlossen eine [Facebook Gruppe](https://www.facebook.com/groups/185
 
 Joachims Ratschlag befolgend wagten wir den ersten Schritt: [Flyer übersetzen](https://drive.google.com/open?id=0B0c-rM4MZX0Xc1dzWHFvN2VHUEE&noprocess), [Betriebe ansprechen](https://drive.google.com/open?id=1IPgyuLC2Sjsz7vnXTh-D636wObI_kISLdsegsF9TU1U&noprocess), nach möglichen Fair-Teiler Orten suchen und einige Kontakte knüpfen, mögliche Orte kontaktieren, die Platz für Präsentationen, Workshops und das Bauen eines Fahrradanhängers bieten.
 
-![](workshop.jpg) *Janina in Recrea2, where we'd work on the bike trailer a week later.*
+![](workshop.jpg) *Janina in Recrea2, wo wir zwei Wochen später an dem Fahrradanhänger arbeiten.*
 
-Joachim had planned to come to Bilbao around the end of March, together with Janina, to kickstart the movement. [And they did so!](https://yunity.atlassian.net/wiki/display/FSINT/Kickstarting+foodsharing+Bilbao)
+Joachim plante Ende März mit Janina nach Bilbao zu kommen, um die Bewegung mit zu starten. [Und das haben sie gemacht!](https://yunity.atlassian.net/wiki/display/FSINT/Kickstarting+foodsharing+Bilbao)
 
 The first pickup ever took place at Panadería Buenos Aires a couple of days before their arrival, but once they arrived everything speed up: we organised an [intro meeting](https://www.facebook.com/events/183695715476690/) at [Bilbiko Kultur Etxea](https://www.facebook.com/bilbikokulturetxea/), we established a collaboration with [Ecorganic](https://www.facebook.com/pages/Ecorganic-Bilbao/1710629755857150) and started daily pick-ups (except for Sunday), we half-built the bike trailer at [Recrea2](https://www.facebook.com/Recrea2.Bilbao/), we made some contacts such as [Karmela squat](https://www.facebook.com/Karmela-1029527180427399/) or Álvaro, from [Nevera Solidaria](https://www.facebook.com/neverasolidaria/). It was a highly productive yet super relaxed fortnight. Thanks a lot guys!
 
