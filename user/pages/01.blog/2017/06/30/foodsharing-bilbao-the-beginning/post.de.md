@@ -1,17 +1,17 @@
 ---
-title: Foodsharing Bilbao - The Beginning
-date: '12:00 30-06-2017'
-headline: Inspiration, voice calls and a visit
+title: foodsharing Bilbao - der Anfang
+date: '12:00 13-04-2017'
+headline: Inspiration, Sprachnachrichten und ein Besuch
 disqus: true
 taxonomy:
   category: blog
   tag:
     - grav
-  author: unai
+  author: Unai
 ---
-Leire and I (Unai) had seen the power of Foodsharing Copenhagen and we wanted to give it a try here in Bilbao. Around the end of 2016 we set up a meeting at [Sarean](https://www.facebook.com/sareangunea/) that attracted two more people: Ione and Laura.
+Leire und ich (Unai) haben die Energie von foodsharing Kopenhagen gesehen und wollten das auch hier in Bilbao ausprobieren. Etwa Ende 2016 haben wir ein Meeting bei [Sarean](https://www.facebook.com/sareangunea/) arrangiert, das zwei weitere Leute angezogen hat: Ione und Laura.
 
-We agreed to create a [Facebook group](https://www.facebook.com/groups/1853289058224368/?ref=bookmarks), to invite people and to host a second meeting when more people were available. The second meeting never took place; instead, luckily enough Laura knew Joachim (from [yunity](https://www.yunity.org)) and he proposed us to join a series of [online meetings](https://drive.google.com/open?id=0B0c-rM4MZX0XdERVTy1IVUN0aVU&noprocess) where we got to know the basics about Foodsharing.
+Wir haben beschlossen eine [Facebook Gruppe](https://www.facebook.com/groups/1853289058224368/?ref=bookmarks) zu gründen, um Leute einzuladen und ein weiteres Meeting zu halten, sobald mehr Leute erreichbar sind. Das zweite Treffen hat nie stattgefunden; zum Glück aber kannte Laura Joachim (von [yunity](https://www.yunity.org)) und er hat vorgeschlagen, dass wir bei ein paar [Online Meetings](https://drive.google.com/open?id=0B0c-rM4MZX0XdERVTy1IVUN0aVU&noprocess) teilnehmen, wo wir die Basics von foodsharing kennenlernten.
 
 Following Joachim´s advice we took the first steps to get things moving: [translating flyers](https://drive.google.com/open?id=0B0c-rM4MZX0Xc1dzWHFvN2VHUEE&noprocess), [approaching stores](https://drive.google.com/open?id=1IPgyuLC2Sjsz7vnXTh-D636wObI_kISLdsegsF9TU1U&noprocess), thinking of potential Foodshare points and making some contacts, contacting potential places to hold presentations or contacting local workshops for space to build a bike trailer.
 
