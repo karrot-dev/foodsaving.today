@@ -13,7 +13,7 @@ Leire und ich (Unai) haben die Energie von foodsharing Kopenhagen gesehen und wo
 
 Wir haben beschlossen eine [Facebook Gruppe](https://www.facebook.com/groups/1853289058224368/?ref=bookmarks) zu gründen, um Leute einzuladen und ein weiteres Meeting zu halten, sobald mehr Leute erreichbar sind. Das zweite Treffen hat nie stattgefunden; zum Glück aber kannte Laura Joachim (von [yunity](https://www.yunity.org)) und er hat vorgeschlagen, dass wir bei ein paar [Online Meetings](https://drive.google.com/open?id=0B0c-rM4MZX0XdERVTy1IVUN0aVU&noprocess) teilnehmen, wo wir die Basics von foodsharing kennenlernten.
 
-Following Joachim´s advice we took the first steps to get things moving: [translating flyers](https://drive.google.com/open?id=0B0c-rM4MZX0Xc1dzWHFvN2VHUEE&noprocess), [approaching stores](https://drive.google.com/open?id=1IPgyuLC2Sjsz7vnXTh-D636wObI_kISLdsegsF9TU1U&noprocess), thinking of potential Foodshare points and making some contacts, contacting potential places to hold presentations or contacting local workshops for space to build a bike trailer.
+Joachims Ratschlag befolgend wagten wir den ersten Schritt: [Flyer übersetzen](https://drive.google.com/open?id=0B0c-rM4MZX0Xc1dzWHFvN2VHUEE&noprocess), [Betriebe ansprechen](https://drive.google.com/open?id=1IPgyuLC2Sjsz7vnXTh-D636wObI_kISLdsegsF9TU1U&noprocess), nach möglichen Fair-Teiler Orten suchen und einige Kontakte knüpfen, mögliche Orte kontaktieren, die Platz für Präsentationen, Workshops und das Bauen eines Fahrradanhängers bieten.
 
 ![](workshop.jpg) *Janina in Recrea2, where we'd work on the bike trailer a week later.*
 
