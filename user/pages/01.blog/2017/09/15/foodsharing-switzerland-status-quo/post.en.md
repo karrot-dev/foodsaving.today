@@ -54,3 +54,5 @@ I’m really proud of how things are going in our districts. We have a great tea
 
 Warmest regards, <br>
 Peter in the name of all the Swiss fellows
+
+<p><small>Photos by [Andrew Bossi](https://commons.wikimedia.org/wiki/User:Thisisbossi), [Schulerst](https://commons.wikimedia.org/wiki/User:Schulerst) and [MadGeographer](https://commons.wikimedia.org/wiki/User:MadGeographer).</small></p>
