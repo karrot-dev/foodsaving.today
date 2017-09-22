@@ -1,67 +1,62 @@
 ---
-title: Foodsharing Switzerland - The current Status Quo
-date: '12:00 15-09-2017'
-headline: As posted in the international working group on foodsharing.de
+title: "Foodsharing Switzerland - Der aktuelle Status Quo"
+date: 12:00 15-09-2017
+headline: Repost aus der foodsharing International AG auf foodsharing.de
 disqus: true
 taxonomy:
-  category: blog
-  tag:
-    - grav
-  author: peter
+    category: blog
+    tag: [grav]
+    author: peter
 ---
-Dear all, I’ve been asked to tell about the situation in Switzerland which I’ll gladly do. I’m not so sure what could be interesting, so [feel free to ask](mailto:peter.toennies@gmail.com) for more info.
 
-### First of all some random numbers
+Ihr Lieben
 
-* 1161 foodsavers, 20 ambassadors, 244 stores, 99 cooperations
-* 112.175kg saved food from 10.178 pick-ups
-* 12 ambassadors are active on a daily basis
-* 12 districts, 5 are actually active: Basel, Bern, Zurich, Luzern and Zug.
+Ich wurde gebeten, hier einmal den Status Quo der Schweiz zu erfassen. Mache ich natürlich gerne. Ich weiss nicht so genau, was alles interessant ist, daher [fragt gerne nach]((mailto:peter.toennies@gmail.com)).
+
+### Erst mal ein paar spröde Zahlen
+* 1161 Foodsaver, 20 Botschafter, 244 Betriebe, 99 laufende Kooperationen
+* 112.175,00 kg Lebensmittel gerettet bei 10178 Rettungs-Einsätzen
+* Tatsächlich aktiv sind meines Wissens nach 12 Botschafter.
+* Es gibt 12 Bezirke, von denen 5 tatsächlich aktiv sind. Basel, Bern, Zürich, Luzern und Zug.
 
 ![Bern](Bern.jpg)
 
-### How we are structured
+### Zur Struktur
+Wir haben in letzter Zeit die Bezirke vergrössert und kantonsweit (Kantone sind bei uns die "Bundesländer") organisiert. So haben wir eine grössere Abdeckung und recht klare Grenzen. Es gibt noch 6 weitere Kantone, die wir mit Aushilfsbotschaftern besetzt haben. So bekommen wir fast immer mit, wenn sich jemand anmeldet, jeder fühlt sich irgendwo zugehörig und wir können beim Aufbau neuer Gruppierungen helfen. Die grossen Bezirke sind gut für die Vernetzung und vermindern natürlich auch übermässige Administration.
 
-We recently enlarged the districts and are organized in our [cantons](https://en.wikipedia.org/wiki/Cantons_of_Switzerland), so we can cover more areas and have clearer borders. There are six more cantons with assistant ambassadors, that way we usually know when there’s a new sign-up, everybody belongs to some district and we can help build up new groups. The big districts are good for networking and decrease the annoying overhead of administration.
+Leider sind ein paar deutschsprachige Kantone und (bis auf Genf) alle (für mich) fremdsprachigen Kantone noch nicht abgedeckt. Im Grunde wäre es gerade in den Grenzgebieten eine gute Chance, polyglotte Foodsaver zu finden, aber leider weiss ich gar nicht so genau, wo und wie an der Übersetzung unserer Homepage gearbeitet wird. Rein theoretisch bestünden hier u. U. realistische Chancen auf den Einstieg ins Französische und Italienische. Das mal für den Hinterkopf.
 
-Sadly there are some cantons that aren’t covered by foodsharing, some German-speaking ones and (except Genf) all of the non-German-speaking ones. It would be easy to find polyglot foodsavers in the borderlands, but I don’t really know, where and how the translation of the website is going on. But just to keep it in mind: This could be a start for foodsharing in French and Italian language.
-
-### How we are organized
-
-We are small and most of us know each other. Switzerland isn’t big, so staying in contact is quite easy when necessary. Like in Germany we have a country-wide forum, but ours works and is used: Since we are not that many people that put pressure on the platform, in our case it doesn’t break. Furthermore we have the country-wide mailing address info@foodsharingschweiz.ch, which also is increasingly used by people from the surroundings, who want to get in contact. Our domain is [foodsharingschweiz.ch](https://foodsharingschweiz.ch/). Not very pretty, but, so far we couldn’t get foodsharing.ch. Apart from some more or less active facebook pages we also have a [page on the foodsharing.de wiki](https://wiki.foodsharing.de/Schweiz).
+### Zur Orga
+Wir sind recht klein und kennen uns gegenseitig in vielen Fällen. Das ganze Land ist nicht übermässig gross, weshalb ein Austausch generell machbar ist, so denn nötig. Wie in Deutschland haben wir auch ein Landesforum, welches bei uns aber klappt und auch genutzt wird. Sind halt nicht so schrecklich viele Leute drin, die die Homepage in die Knie zwingen.
+Neben den Bezirks-Adressen führen wir eine landesweite E-Mail-Adresse info@foodsharingschweiz.ch, welche auch immer reger für Kontaktanfragen aus unserem Umfeld genutzt wird. [www.foodsharingschweiz.ch]((https://foodsharingschweiz.ch/)) ist unsere offizielle Domain. Sehr unschön in meinen Augen, aber foodsharing.ch ist leider bisher nicht erwerbbar.
+Neben ein paar mehr oder weniger aktiven Facebook-Seiten haben wir dann noch [eine Wiki-Seite](https://wiki.foodsharing.de/Schweiz) anzubieten.
 
 ![Zug](Zug.jpg)
 
-### Our surroundings
+### Unser Umfeld
+Es gibt in der Schweiz ziemlich viele Einrichtungen, die sich mit unserer Thematik oder aber deutlich karitativerem Umgang mit Lebensmitteln widmen. Wir geben uns Mühe, uns mit diesen zu vernetzen. Auf unserer Karte seht Ihr einige auch eingetragen. Neue FS in diesen Regionen können wir so schnell zu Alternativen lotsen. Zudem können wir bei Anfragen von Firmen etc. in vielen Fällen schnell eine Lösungsmöglichkeit in deren Nähe aufzeigen.
 
-In Switzerland there are a lot of initiatives dedicated to our topic and even more charities handling food. We try to build a joint network with them and some are already listed on our map. This way we can show new foodsavers some alternatives in their regions quite easily. And we sometimes can find local solutions in case of companies requesting help from us.
+### Ein Vergleich zu Deutschland
+Im Grunde halten wir uns an das original Reglement. Oft besteht kein Bedarf das zu ändern. Die Fair-Teiler haben zum Teil strengere Regeln. Das kommunizieren wir dann gleich am FT selbst. Die Rechtevereinbarung ist vermutlich für uns auch nicht 100 % anwendbar. Es kann manchmal komisch sein, auf die deutschen Vorlagen zu verweisen und teils ist es auch einfach gar nicht vollständig passend, aber bisher hatten wir noch keine Problem hiermit.
+Das Thema "Vereine" ist bei uns derzeit auch aktuell. Zug ist bereits einer und Zürich wird gerade einer. Einerseits, weil wir natürlich in Deutschland mitlesen und andererseits, weil sich uns neue Kooperationsmöglichkeiten bieten und wir und sogar das Attribut "Gemeinnützigkeit" erhoffen. Vereinsgründung ist hier einfacher als in D. Ein schweizweiter Verein wäre u. U. auch sinnvoll. Aber noch nicht in Arbeit.
 
-### Comparison to Germany
-
-Basically we abide by the same rules. Often there is no need to change anything. We have stricter rules at the food-share points. But we communicate this at the food-share point itself. Also the legal agreement isn’t 100% the same. It happens that referring to the German guidelines gets weird and sometimes it just doesn’t fit but so far there were no problems.   
-Right now associations are a hot topic in Switzerland as well. Zug already is one and Zurich is about to become an association. On the one hand it’s because we know what’s happening in Germany, on the one hand we see new cooperation possibilities arise. Also, we hope to be granted the term “charitable”. Founding an association is a lot easier here than in Germany. An association for the whole of Switzerland could also make sense, but it is not being worked on yet.
-
-### Acceptance in society
-
-Food waste is a topic, that is discussed a lot at the moment, as you probably know. People talk about it and there is a common interest and goodwill. I have the feeling that requests from different public sectors like economy, press and education increase. We can become professional advisers and supporters in this context. Also, a cooperation born from a store asking for help is easier and less stiff, of course.   
-The food-share points are frequently used and there have not been big problems with the authorities so far. But we are quite strict with ourselves.   
-Speaking for Zurich it sometimes is not so easy to get rid of big amounts of food. Charities work effectively but with high standards. They are not so likely to dispatch a lot of staff and luckily in general their demand for food is already covered. So in Zurich we usually have way too much food. This is maybe different in other districts.
+### Akzeptanz in der Gesellschaft
+Das Thema Foodwaste kommt hier, vermutlich wie auch bei Euch, derzeit sehr in Mode. Es wird viel darüber gesprochen und es herrscht allgemein grosses Interesse und Wohlwollen. Anfragen aus Wirtschaft, Presse, Bildungssektor... nehmen (nach meinem Gefühl) zu. Wir können hier tatsächlich als Berater und Unterstützer auftreten. Wenn ein Betrieb unsere Hilfe erbittet, ist die Koop natürlich einfacher und weniger steif.
+Die Fair-Teiler werden gut geleert und es gab noch keine grossen Probleme mit Ämtern. Wir sind aber auch streng mit uns selbst.
+Es ist teils (hier spreche ich insbesondere für Zürich) gar nicht so einfach, grosse Mengen Essen loszuwerden. Die karitativen Einrichtungen arbeiten sehr effektiv, die Standards sind hoch, die Möglichkeiten eines hohen Personaleinsatzes teils nicht so gross und ganz allgemein ist glücklicherweise der Bedarf an Lebensmitteln an vielen Stellen gedeckt. In Zürich haben wir somit oft mit zu viel Lebensmitteln zu tun. Vermutlich ein Unterschied zu anderen Bezirken.
 
 ![Zurich](Zurich.jpg)
 
-### What else
+### Sonst so
+Es gibt derzeit zwei BOTs mit Orga-Rechten in CH. Das sind Tilman P. und ich (Peter T.). Wir holen uns unsere Verstossmeldungen selbst aus dem System. Sehr überschaubar.
 
-At the moment there are two ambassadors with the orga rights in Switzerland *(translator’s note: This refers to specifics of how the German platform is organized. People with orga rights basically can do everything on the platform)*. It’s Tilman P. and me (Peter T.). We take the violation reports directly from the system which is manageable. *(yet another translator’s note: If you’re interested in the functionality of the foodsharing.de platform you can watch [this 5 minute video](https://www.youtube.com/watch?v=8luGiP7cE2c) whith English subtitles.)*
+### Zu mir
+Noch ganz schnell. Ich bin eigentlich Kölner, habe in Aachen studiert. Gucke also immer recht interessiert nach NRW. Seit 5 Jahren in der Schweiz und foodsharing hier bei der Suche nach ner Bohrmaschine in der Nachbarschaft entdeckt. Derzeit Botschafter von fünf Kantonen, Weiterleiter aller D und CH Verstossmeldungen, manchmal Nervensäge im IT-Team...
+Ich muss gestehen, ich bin derzeit stolz, wie unsere Bezirke laufen. Haben ein tolles Team. Ihr seid herzlich eingeladen, einfach mal reinzuspinksen. Stehe für alle Fragen immer zur Verfügung.
 
-### About me
+Lieben Gruss, Peter im Namen Eurer vielen Kollegen in der Schweiz
 
-In short: I’m actually from Cologne and studied in Aachen. So I sometimes still glimpse over to NRW. I’ve been in Switzerland for 5 years and discovered foodsharing while looking for a drill in the neighbourhood. I’m ambassador of 5 cantons right now, transmitter of all the violations in Germany and Switzerland, sometimes a bug the IT-team…   
-I’m really proud of how things are going in our districts. We have a great team. You are hearitly invited to have a glimpse inside. We are open for questions.
-
-Warmest regards,   
-Peter in the name of all the Swiss fellows
-
-<span style="font-size: 70%"><i>Photos by
+<span style="font-size: 70%"><i>Fotos von
 <a href="https://commons.wikimedia.org/wiki/User:Thisisbossi">Andrew Bossi</a>,
 <a href="https://commons.wikimedia.org/wiki/User:Schulerst">Schulerst</a> and
 <a href="https://commons.wikimedia.org/wiki/User:MadGeographer">MadGeographer</a>.</i></span>
