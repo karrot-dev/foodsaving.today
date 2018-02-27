@@ -1,6 +1,6 @@
 ---
-title: Foodsharing Göteborg - Teil 4
-date: '12:00 27-05-2017'
+title: "Foodsharing Göteborg - Teil 4"
+date: 12:00 27-05-2017
 headline: Strategien für die Zukunft
 disqus: richtig
 taxonomy:
