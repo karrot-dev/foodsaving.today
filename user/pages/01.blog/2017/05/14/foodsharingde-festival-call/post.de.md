@@ -1,7 +1,7 @@
 ---
 title: 'Mach mit: foodsharing.de auf kommerziellen Musik Festivals'
 date: '12:00 14.05.2017'
-headline: Essen retten mit Spaß und Musik
+headline: 'Essen retten mit Spaß und Musik'
 disqus: true
 taxonomy:
   category: blog
