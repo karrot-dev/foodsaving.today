@@ -1,6 +1,6 @@
 ---
-title: 'Wir stellen vor: foodsharing Taiwan'
-date: '12:00 07-04-2017'
+title: "Wir stellen vor: foodsharing Taiwan"
+date: 12:00 07-04-2017
 headline: Die Bewegung wächst
 disqus: true
 taxonomy:
