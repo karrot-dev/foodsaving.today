@@ -1,7 +1,7 @@
 ---
-title: Food-Share Points in Poland
+title: Fairteiler in Polen
 date: 13:01 27-02-2018
-headline: We learn not to throw away food!
+headline: Wir lernen Lebensmittel nicht zu verschwenden!
 disqus: true
 taxonomy:
   category: blog
@@ -9,7 +9,7 @@ taxonomy:
     - grav
   author: Magdalena Dubrowska
 ---
-*This article was published on 13-04-2017 by cojestgrane24. [Click here to see the Polish original](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html). All pictures are taken from that article as well. No copyright infringement intended!*
+*Dieser Artikel wurde zuerst am 13.4.2017 von cojestgrane24 veröffentlicht. [Klicke hier um das polische Original zu lesen](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html). Alle Bilder sind ebenfalls dem Artikel entnommen. No copyright infringement intended!*
 
 If you are left with eggs with mayonnaise, salad or cake after Christmas, do not throw it away! Bring products that you can not eat to the Food-Share Points. Such points are in seven cities in Poland.
 
