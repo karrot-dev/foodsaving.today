@@ -13,9 +13,9 @@ taxonomy:
 
 Wenn du nach Weihnachten noch Eier mit Mayo, Salate oder Kuchen übrig haben solltest, wirf sie nicht weg! Bring Lebensmittel, die du nicht selbst essen kannst zu Fairteilern - solche Essens-Verteilstationen gibt es jetzt in sieben Städten in Polen.
 
-Ein Fairteiler (Jadłodzielnia auf Polnisch) ist ein Kühlschrank und/oder Regal auf öffentlich zugänglichem Raum. Hier kann jedeR Essen entnehmen oder für andere hinterlegen. There are no restrictions, besides, not to put spoiled food, raw meat, alcohol and products containing raw eggs, i.e. homemade mayonnaise.
+Ein Fairteiler (Jadłodzielnia auf Polnisch) ist ein Kühlschrank und/oder Regal auf öffentlich zugänglichem Raum. Hier kann jedeR Essen entnehmen oder für andere hinterlegen. Es gibt keine Beschränkungen, außer die, kein verdorbenes Essen abzulegen, sowie kein rohes Fleisch, keinen Alkohol und keine zubereiteten Speisen, die rohes Ei enthalten, wie zB selbstgemachte Mayonnaise.
 
-![](poland1.jpg) *21-03-2017 Szczecin. Volunteer Ania in Jadłodzielnia at ul. Kordeckiego. Picture by Cezary Aszkielowicz / Agencja Gazeta*
+![](poland1.jpg) *21-03-2017 Stettin. Die Freiwillige Ania im Feirteiler an der ul. Kordeckiego. Foto von Cezary Aszkielowicz / Agencja Gazeta*
 
 In Krakow, such a point is located in the Jordan Caffe café, in Szczecin - at the Turzyn Market Square, in Wrocław at the Student House, in Bydgoszcz at the University of Economy, in Grudziądz and Toruń at the fair. In Warsaw, where the first Food-Share Point in Poland was established at the Faculty of Psychology at the University of Warsaw, there are already six of them.
 
