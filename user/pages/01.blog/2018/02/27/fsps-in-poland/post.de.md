@@ -9,11 +9,11 @@ taxonomy:
     - grav
   author: Magdalena Dubrowska
 ---
-*Dieser Artikel wurde zuerst am 13.4.2017 von cojestgrane24 veröffentlicht. [Klicke hier um das polische Original zu lesen](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html). Alle Bilder sind ebenfalls dem Artikel entnommen. No copyright infringement intended!*
+*Dieser Artikel wurde zuerst am 13.4.2017 von cojestgrane24 veröffentlicht. [Klicke hier um das polische Original zu lesen](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html). Alle Bilder sind ebenfalls dem Artikel entnommen. Keine Urheberrechtsverletzung beabsichtigt!*
 
-If you are left with eggs with mayonnaise, salad or cake after Christmas, do not throw it away! Bring products that you can not eat to the Food-Share Points. Such points are in seven cities in Poland.
+Wenn du nach Weihnachten noch Eier mit Mayo, Salate oder Kuchen übrig haben solltest, wirf sie nicht weg! Bring Lebensmittel, die du nicht selbst essen kannst zu Fairteilern - solche Essens-Verteilstationen gibt es jetzt in sieben Städten in Polen.
 
-A Food-Share Point (Jadłodzielnia in Polish) is a refrigerator and/or a cabinet, standing in public places. Everyone can leave food or take it from here. There are no restrictions, besides, not to put spoiled food, raw meat, alcohol and products containing raw eggs, i.e. homemade mayonnaise.
+Ein Fairteiler (Jadłodzielnia auf Polnisch) ist ein Kühlschrank und/oder Regal auf öffentlich zugänglichem Raum. Hier kann jedeR Essen entnehmen oder für andere hinterlegen. There are no restrictions, besides, not to put spoiled food, raw meat, alcohol and products containing raw eggs, i.e. homemade mayonnaise.
 
 ![](poland1.jpg) *21-03-2017 Szczecin. Volunteer Ania in Jadłodzielnia at ul. Kordeckiego. Picture by Cezary Aszkielowicz / Agencja Gazeta*
 
