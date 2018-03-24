@@ -29,7 +29,7 @@ When preparing the film "Taste The Waste", which received a lot of environmental
 
 We suggest you familiarize yourself with the short film "Waste" by Valentin Thurn. In it, in just 6 minutes, it is told what consequences for the whole planet entail the waste of food:
 
-[![Waste by Valentin Thurn](http://img.youtube.com/vi/VaouOWx3Bmo/0.jpg)](http://www.youtube.com/watch?v=VaouOWx3Bmo)
+[plugin:youtube](https://www.youtube.com/watch?v=VaouOWx3Bmo)
 
 In 2012, Thurn with like-minded people launched the first version of the site, where people could post "food baskets" - analogous of the announcements in the groups "I'll give food for free" (“Отдам еду даром”) in Russian social networks.
 
