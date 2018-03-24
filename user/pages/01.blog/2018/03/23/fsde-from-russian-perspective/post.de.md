@@ -15,23 +15,23 @@ taxonomy:
 
 Friends, we want to tell you about the history of the fight against food waste in different countries of the world. We will begin, of course, with Germany, because it was there where our parent project was born.
 
-The majority of Russian-speaking Internet users learned about German foodsharing from the living magazine of Jana Frank - an illustrator and writer living in Berlin and leading a blog in Russian, a member of German foodsharing.
+The majority of Russian-speaking Internet users learned about German foodsharing from the livejournal of Jana Frank - an illustrator and writer living in Berlin and leading a blog in Russian, a member of German foodsharing.
 
 Foodsavers are given food surplus which can not be taken by food banks. Most of the unsold products are taken by food banks and redistributed to needy and socially disadvantaged layers of society. One of the largest food banks in Germany is Die Tafeln. The food banks have rather strict restrictions on products: they can only take large quantities of goods, they can not take expired goods, and so on. Sometimes there are overlays and they just do not have time to arrive at the right time and ensure that the products get picked up. Foodsharing is smaller, but more flexible, and thus able to pick up surplus products, whether it's about 100 kg of vegetables or about 10 kg of bread rolls.
 
 ## How did the German foodsharing start?
 
-One of the founders of the movement in Germany is Valentin Turn, a German researcher, journalist and filmmaker who shoots documentaries on environmental issues.
+One of the founders of the movement in Germany is Valentin Thurn, a German researcher, journalist and filmmaker who shoots documentaries on environmental issues.
 
 ![Valentin Thurn](valentinthurn.jpg)
 
-When preparing the film "Taste The Waste", which received a lot of environmental awards, Valentin Turn held a lot of interviews with various specialists - owners of poultry farms, scientists, farmers and food industry workers. One of the main conclusions to which the researcher came: Despite modern transport, mobile refrigerators, despite food banks and other programs, mankind throws away tons of edible food, both in industry and in households, on a daily basis.
+When preparing the film "Taste The Waste", which received a lot of environmental awards, Valentin Thurn held a lot of interviews with various specialists - owners of poultry farms, scientists, farmers and food industry workers. One of the main conclusions to which the researcher came: Despite modern transport, mobile refrigerators, despite food banks and other programs, mankind throws away tons of edible food, both in industry and in households, on a daily basis.
 
-We suggest you familiarize yourself with the short film "Waste" by Valentin Thurn. In it, in just 6 minutes, it is told what consequences for the whole planet entail the waste of food:
+We suggest you familiarize yourself with the short film "Waste" by Valentin Thurn. In it, in just 6 minutes, the grave consequences food waste holds for the whole planet are made apparent:
 
 [plugin:youtube](https://www.youtube.com/watch?v=VaouOWx3Bmo)
 
-In 2012, Thurn with like-minded people launched the first version of the site, where people could post "food baskets" - analogous of the announcements in the groups "I'll give food for free" (“Отдам еду даром”) in Russian social networks.
+In 2012, Thurn and other like-minded people launched the first version of foodsharing.de, where people could post "food baskets" - analogous of the announcements in the groups "I'll give food for free" (“Отдам еду даром”) in Russian social networks.
 
 The second co-founder of German foodsharing - Raphael Fellmer - is widely known for his experiment "5 years without money." During this time he lived off the excess of society: He dumpster dived in garbage dumps or got stuff from random people who wanted to get rid of unnecessary things. With his extreme experiment, he showed that society throws out so many resources that this amount is quite enough for a comfortable life with all the necessary products: goods, clothes, food.
 
