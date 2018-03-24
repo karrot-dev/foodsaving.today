@@ -15,7 +15,7 @@ _This article was first published in Russian on [foodsharing.ru](https://foodsha
 
 Friends, we want to tell you about the history of the fight against food waste in different countries of the world. We will begin, of course, with Germany, because it was there where our parent project was born.
 
-The majority of Russian-speaking Internet users learned about German foodsharing from the living magazine of Jana Frank - an illustrator and writer living in Berlin and leading a blog in Russian, a member of German foodsharing.
+The majority of Russian-speaking Internet users learned about German foodsharing from the livejournal of Jana Frank - an illustrator and writer living in Berlin and leading a blog in Russian, a member of German foodsharing.
 
 Foodsavers are given food surplus which can not be taken by food banks. Most of the unsold products are taken by food banks and redistributed to needy and socially disadvantaged layers of society. One of the largest food banks in Germany is Die Tafeln. The food banks have rather strict restrictions on products: they can only take large quantities of goods, they can not take expired goods, and so on. Sometimes there are overlays and they just do not have time to arrive at the right time and ensure that the products get picked up. Foodsharing is smaller, but more flexible, and thus able to pick up surplus products, whether it's about 100 kg of vegetables or about 10 kg of bread rolls.
 
