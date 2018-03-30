@@ -3,21 +3,21 @@ title: About
 class: home
 profile: true
 ---
-News, information, stories, announcements, and events related to foodsaving from around the world.
+Noticias, información, historias, anuncios y eventos relacionados al ahorro de alimentos alrededor del mundo.
 
-Created by the **#foodsaving-worldwide** project within [yunity](https://yunity.org) with the help from contributors from around the world :)
+Creado por el proyecto **#foodsaving-worldwide** dentro de [yunity](https://yunity.org) con la ayuda de contribuidores de todas partes el mundo :)
 
-If you want to help you can...
+Si deseas ayudar puedes hacerlo...
 
-## Write a post
+## Escribe un post
 
-We love posts! The best way is to join [slack](http://slackin.yunity.org/) and find us in the **#foodsaving-today** channel.
+¡Amamos los posts! La mejor manera es unirse a [slack](http://slackin.yunity.org/) y encontrarnos en el canal **#foosaving-today**.
 
-## Translate posts
+## Traduce posts
 
-It's really important to share our knowledge around the world and if you can help with translations that would be great!
+Es muy importante compartir nuestro conocimiento alrededor del mundo, ¡y si puedes ayudar con traducciones sería excelente!
 
-You can help out at [crowdin.com/project/foodsavingtoday](https://crowdin.com/project/foodsavingtoday).
+Puedes ayudar en [crowdin.com/project/foodsavingtoday](https://crowdin.com/project/foodsavingtoday).
 
 Currently we're targeting English and German, but happy to add more languages if you can help out with translations.
 
