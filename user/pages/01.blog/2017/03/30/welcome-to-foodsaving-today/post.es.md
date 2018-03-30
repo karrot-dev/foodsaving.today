@@ -1,7 +1,7 @@
 ---
-title: Welcome to Foodsaving Today!
+title: '¡Bienvenido a Foodsaving Today!'
 date: 11:01 30-03-2017
-headline: It begins...
+headline: Así comienza...
 disqus: true
 taxonomy:
   category: blog
@@ -9,7 +9,7 @@ taxonomy:
     - grav
   author: nicksellen
 ---
-Today we launch a new website! The purpose is to share news, information, announcements, events from round the world about foodsaving. To share and inspire.
+¡Hoy lanzamos nuestro sitio! El propósito es compartir noticias, información, anuncios y eventos de alrededor del mundo sobre el ahorro de alimentos. Para compartir e inspirar.
 
 If you don't know anything about foodsaving: the aim is to prevent food from going to waste (try [this introduction](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) from The Guardian).
 
