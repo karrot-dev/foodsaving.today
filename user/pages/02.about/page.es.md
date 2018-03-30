@@ -1,6 +1,6 @@
 ---
-title: About
-class: home
+title: Acerca de
+class: inicio
 profile: true
 ---
 Noticias, información, historias, anuncios y eventos relacionados al ahorro de alimentos alrededor del mundo.
@@ -19,8 +19,8 @@ Es muy importante compartir nuestro conocimiento alrededor del mundo, ¡y si pue
 
 Puedes ayudar en [crowdin.com/project/foodsavingtoday](https://crowdin.com/project/foodsavingtoday).
 
-Currently we're targeting English and German, but happy to add more languages if you can help out with translations.
+En estos momentos nos estamos enfocando en inglés y alemán, pero estaremos felices de agregar más idiomas si puedes ayudarnos con las traducciones.
 
-## Get in touch
+## Contáctanos
 
-You can find us in [slack](http://slackin.yunity.org/) **#foodsaving-today** channel.
+Puedes encontrarnos en [slack](http://slackin.yunity.org/) en el canal **#foodsaving-today**.
