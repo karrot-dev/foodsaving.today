@@ -3,7 +3,6 @@ title: Foodsharing Hong Kong - Part Two
 date: 07-05-2018
 headline: A beginning too smooth to be true...
 disqus: true
-published: false
 taxonomy:
     category: blog
     tag: [grav]
