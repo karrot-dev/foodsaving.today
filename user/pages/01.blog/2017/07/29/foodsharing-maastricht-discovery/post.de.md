@@ -1,7 +1,7 @@
 ---
-title: "Foodsharing Maastricht - A city discovers its love for saving food"
+title: "Foodsharing Maastricht - Eine Stadt entdeckt ihre Liebe zum Lebensmittel-Retten"
 date: 12:00 29-07-2017
-headline: The start and growth of a student initiative
+headline: Der Beginn und das Wachstum einer Studenten-Initiative
 disqus: true
 taxonomy:
   category: blog
@@ -9,7 +9,7 @@ taxonomy:
     - grav
   author: niki
 ---
-The idea to start Foodsharing in Maastricht came up in January 2017. After posting it on Facebook we directly got help from the student-run sustainability department of Maastricht University, the [Green Office](https://www.greenofficemaastricht.nl/), which supports student initiatives to improve the sustainability of the university.
+Die Idee mit Foodsharing in Maastricht anzufangen kam im Januar 2017. After posting it on Facebook we directly got help from the student-run sustainability department of Maastricht University, the [Green Office](https://www.greenofficemaastricht.nl/), which supports student initiatives to improve the sustainability of the university.
 
 The time was right - the university hosted a student idea competition in order to find the best idea to improve university life. We participated with Foodsharing, and after some workshops and two rounds we were happy to win price money and the support of the university.
 
