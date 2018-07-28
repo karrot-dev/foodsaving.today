@@ -11,7 +11,7 @@ content:
     order:
         by: date
         dir: desc
-    limit: 20
+    limit: 100
     pagination: true
 
 feed:
