@@ -1,0 +1,12 @@
+--2018-07-28 15:58:32--  https://d2.alternativeto.net/dist/s/rocket-chat_165155_full.png?format=jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving d2.alternativeto.net (d2.alternativeto.net)... 137.117.84.54
+Connecting to d2.alternativeto.net (d2.alternativeto.net)|137.117.84.54|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141696 (138K) [image/jpeg]
+Saving to: ‘rocket-chat_165155_full.png?format=jpg’
+
+            rocket-chat   0%[                              ]       0  --.-KB/s                          rocket-chat_  39%[==========>                   ]  55.26K   233KB/s               rocket-chat_165155_full 100%[=============================>] 138.38K   384KB/s    in 0.4s    
+
+2018-07-28 15:58:33 (384 KB/s) - ‘rocket-chat_165155_full.png?format=jpg’ saved [141696/141696]
+
