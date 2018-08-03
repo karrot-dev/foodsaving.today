@@ -50,3 +50,5 @@ We had some events to promote Foodsharing:
 - making FSosd a “förening” (official initiative, association) ?? Pros and Cons?
 - getting more people on board to share the responsibilities
 - having regular meetings?
+
+_This article was first published as a forum post on the foodsaving worldwide community forums. The thread includes more statements from Teddy as well as other people and you can find it [here](https://community.foodsaving.world/t/foodsharing-oestersund-se-half-a-year-already/83).
