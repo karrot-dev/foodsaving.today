@@ -1,6 +1,6 @@
 ---
-title: foodsharing Göteborg - Teil zwei
-date: '12:00 21-04-2017'
+title: "foodsharing Göteborg - Teil zwei"
+date: 12:00 21-04-2017
 headline: Aktuelle Schwierigkeiten bei der Umsetzung
 disqus: true
 taxonomy:
