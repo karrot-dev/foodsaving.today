@@ -1,9 +1,8 @@
 ---
 title: Meeting the foodsavers of Warsaw, Łódź and Wrocław
-date: 03-08-2018
+date: 18-10-2018
 headline: Jadłodzelnie and misconceptions
-published: true
-disqus: false
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]
