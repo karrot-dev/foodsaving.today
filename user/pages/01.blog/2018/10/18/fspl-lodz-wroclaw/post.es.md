@@ -1,5 +1,5 @@
 ---
-title: Meeting the foodsavers of Warsaw, Łódź and Wrocław
+title: Meeting the foodsavers of Warszawa, Łódź and Wrocław
 date: 18-10-2018
 headline: Jadłodzielnie and misconceptions
 disqus: true
@@ -11,7 +11,7 @@ taxonomy:
 ---
 *This is a brief summary of Janina and Tilmann's trip to visit some Polish foodsharing groups in September 2018.*
 
-[Foodsharing in Warsaw is big](https://www.facebook.com/FoodsharingWarszawa/) – but as you can see in [this interactive map](https://www.google.com/maps/d/viewer?mid=1vpCSdHuflmBIw4WWV3VFCQ4L2sU) Poland has more active foodsavers than just those in the capital! Cities like [Krakau](https://www.facebook.com/foodsharing.krakow/) and [Toruń](https://www.facebook.com/jadlodzielnia.torun/) apparently have quite some people who dedicate a lot of time and energy to the cause of rescuing edible food from the bin, but also [Łódź](https://www.facebook.com/FoodsharingLodz/), [Wrocław](https://www.facebook.com/foodsharingwroclaw/) and more have their own foodsharing initiatives.
+[Foodsharing in Warszawa is big](https://www.facebook.com/FoodsharingWarszawa/) – but as you can see in [this interactive map](https://www.google.com/maps/d/viewer?mid=1vpCSdHuflmBIw4WWV3VFCQ4L2sU) Poland has more active foodsavers than just those in the capital! Cities like [Kraków](https://www.facebook.com/foodsharing.krakow/) and [Toruń](https://www.facebook.com/jadlodzielnia.torun/) apparently have quite some people who dedicate a lot of time and energy to the cause of rescuing edible food from the bin, but also [Łódź](https://www.facebook.com/FoodsharingLodz/), [Wrocław](https://www.facebook.com/foodsharingwroclaw/) and more have their own foodsharing initiatives.
 
 * * *
 
@@ -21,7 +21,7 @@ Many people associate Food-Share Points with charity and think that it's mainly 
 
 ![](jadlodzelnieWPolsce.jpg) *The Polish foodsavers keep their map of Food-Share Points always up-to-date*
 
-[Foodsharing Polska](https://www.facebook.com/FoodsharingPolska) started in Warsaw more than 3 years ago. Today they have 11 Jadłodzielnia and around 100 pickups every week. They started using [Karrot](https://karrot.world) to manage their activities not too long ago and are now actively contributing to improving our foodsaving administration software.
+[Foodsharing Polska](https://www.facebook.com/FoodsharingPolska) started in Warszawa almost 3 years ago. Today they have 11 Jadłodzielnia and around 100 pickups every week. They started using [Karrot](https://karrot.world) to manage their activities not too long ago and are now actively contributing to improving our foodsaving administration software.
 
 Of course they also participate in public events and raise awareness for the topic of food waste and how foodsharing can help alleviate its consequences. For that purpose they recently made a nice game in which players are given recipe cards and then need to find and share the ingredients in Jadłodzielnia to prepare the meal. The locations roughly match those in reality and the feel of the game is very professional: It's printed on sturdy foil and its cards and coins are exactly as you would expect them in a high-quality board game.
 
