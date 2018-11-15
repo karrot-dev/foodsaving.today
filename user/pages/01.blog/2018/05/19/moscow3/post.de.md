@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part Three
 date: 19-05-2018
 headline: The charitable way
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
