@@ -2,7 +2,7 @@
 title: "foodsharing Bilbao - der Anfang"
 date: 12:00 13-04-2017
 headline: Inspiration, Sprachnachrichten und ein Besuch
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
