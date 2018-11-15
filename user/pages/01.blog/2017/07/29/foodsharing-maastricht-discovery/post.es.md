@@ -2,7 +2,7 @@
 title: "Foodsharing Maastricht - A city discovers its love for saving food"
 date: 12:00 29-07-2017
 headline: The start and growth of a student initiative
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
