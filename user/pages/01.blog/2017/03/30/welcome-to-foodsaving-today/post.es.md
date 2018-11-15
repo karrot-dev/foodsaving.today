@@ -2,7 +2,7 @@
 title: '¡Bienvenido a Foodsaving Today!'
 date: 11:01 30-03-2017
 headline: Así comienza...
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
