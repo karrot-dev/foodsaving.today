@@ -2,7 +2,7 @@
 title: 'Mach mit: foodsharing.de auf kommerziellen Musik Festivals'
 date: '12:00 14.05.2017'
 headline: Essen retten mit Spaß und Musik
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
@@ -17,7 +17,7 @@ Dieses Jahr werden einige Teams größer werden (wir bekommen teilweise 15 bis 2
 
 Wir wollen die entspannte Atmosphäre auf dem Festival nutzen um den Leuten von foodsharing zu erzählen, weil in dieser Umgebung - weit weg vom Arbeitsstress und vom alltäglichen Leben - die Meisten viel offener für neue Ideen sind. Außerdem retten wir immer gigantische Mengen an Proviant, den die Menschen auf das Festival bringen und am Ende nicht mehr nach Hause nehmen wollen. Oftmals können wir auch zubereitetes Essen und Zutaten von den Essensständen retten, wir schwimmen also buchstäblich in einem Meer aus Essen am Ende des Festivals.
 
-Wie du siehst, es gibt eine Menge zu tun! Natürlich gibt es auch noch Zeit um einfach das Festival zu genießen, aber wir wollen einfach betonen, wenn Du mit foodsharing auf ein Festival gehst, der Fokus auf der Freiwilligenarbeit liegt: Zusammen mit einem Team voller motivierter Foodsaver steht ihr am Infostand/Fair-Teiler, erzählt Leuten von der Lebensmittelverschwendung, von unserer Arbeit, wie sie auch helfen können und nachts - wenn die Essensstände schließen - retten wir das ganze schon wunderbar zubereitete Essen auf dem Platz und fair-teilen es vielleicht sogar auch gleich danach schon wieder. Wenn das geschafft ist, fällst Du müde und glücklich in Deinen Schlafsack im foodsharing Camp und am nächsten Morgen gibt es womöglich schon wieder ein kostenloses Frühstück zum Vernaschen.  
+Wie du siehst, es gibt eine Menge zu tun! Natürlich gibt es auch noch Zeit um einfach das Festival zu genießen, aber wir wollen einfach betonen, wenn Du mit foodsharing auf ein Festival gehst, der Fokus auf der Freiwilligenarbeit liegt: Zusammen mit einem Team voller motivierter Foodsaver steht ihr am Infostand/Fair-Teiler, erzählt Leuten von der Lebensmittelverschwendung, von unserer Arbeit, wie sie auch helfen können und nachts - wenn die Essensstände schließen - retten wir das ganze schon wunderbar zubereitete Essen auf dem Platz und fair-teilen es vielleicht sogar auch gleich danach schon wieder. Wenn das geschafft ist, fällst Du müde und glücklich in Deinen Schlafsack im foodsharing Camp und am nächsten Morgen gibt es womöglich schon wieder ein kostenloses Frühstück zum Vernaschen.
 Der Teamgeist ist wahrscheinlich eine der besten Erfahrungen, wenn man mit foodsharing auf dem Festival ist: Ein langes Wochenende voller nützlicher Aktionen zusammen mit einer Gruppe gleichgesinnter Menschen unter manchmal chaotischen Umständen bringt uns definitiv näher!
 
 **Bitte beachte, dass alle Foodsaver zusammen im Crew Camp übernachten!** Wir haben diese generelle Regel eingeführt, weil Festivalgelände oft riesig und unübersichtlich sind. Es ist wichtig für die Gruppe, zusammenzubleiben, um flexibel und rechtzeitig auf Einsätze zu reagieren, wie Essen zu retten, ohne vorher alle zusammenrufen zu müssen - das passiert sogar recht häufig. Außerdem fördert das den schon oben genannten Teamgeist und auf manchem Festivals hat das campen im Crew Camp den Vorteil, dass es dort saubere Porzellantoiletten und Duschen für uns gibt... ;)

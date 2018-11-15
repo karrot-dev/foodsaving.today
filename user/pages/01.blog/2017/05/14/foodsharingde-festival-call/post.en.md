@@ -2,7 +2,7 @@
 title: 'Take part: foodsharing.de on commercial music festivals'
 date: '12:00 14-05-2017'
 headline: 'Saving food with fun and music'
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
@@ -18,7 +18,7 @@ In many cases the teams will be bigger this year (we'll get 15 to 25 tickets per
 
 We want to use the relaxed atmosphere on the festivals to tell people about foodsharing, because in these settings - far away from the stress of work and everyday life - many people are much more open to new ideas. On top of that, we always save huge amounts of provisions, which the people brought to the festival and don't want to carry home with them afterwards. A lot of times we can also save prepared food and ingredients from the food stands, so that we literally swim in a sea of food on the day after the festival.
 
-So you see, there's a lot to do! Of course there's also time to simply enjoy the festival, but we want to put emphasis on the fact, that going to a festival with foodsharing is mainly volunteering: Together with a team of equally motivated foodsavers you (wo)man the info stand/Food-Share Point, talk to people about food waste, our work and how they can help, too, and at night - when the food stands close - you save all the nice ready-made food from the infield and maybe even distribute it directly afterwards. When this is done, you fall tired and happy into your sleeping bag in the foodsharing camp and on the next morning you maybe already serve free breakfast again.  
+So you see, there's a lot to do! Of course there's also time to simply enjoy the festival, but we want to put emphasis on the fact, that going to a festival with foodsharing is mainly volunteering: Together with a team of equally motivated foodsavers you (wo)man the info stand/Food-Share Point, talk to people about food waste, our work and how they can help, too, and at night - when the food stands close - you save all the nice ready-made food from the infield and maybe even distribute it directly afterwards. When this is done, you fall tired and happy into your sleeping bag in the foodsharing camp and on the next morning you maybe already serve free breakfast again.
 The group spirit is probably one of the nicest experiences, while doing foodsharing on a festival: A long weekend full of purposeful action together with a group of likeminded people under sometimes chaotic circumstances definitely brings us closer to each other!
 
 

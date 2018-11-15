@@ -2,7 +2,7 @@
 title: Foodsharing Hong Kong - Part One
 date: 03-05-2018
 headline: A socialist concept in a capitalist city?
-disqus: true
+discourse: true
 taxonomy:
     category: blog
     tag: [grav]
