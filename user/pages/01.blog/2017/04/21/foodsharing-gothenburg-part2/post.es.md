@@ -2,7 +2,7 @@
 title: "Foodsharing Gothenburg - Part Two"
 date: 12:00 21-04-2017
 headline: Main practical challenges
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
