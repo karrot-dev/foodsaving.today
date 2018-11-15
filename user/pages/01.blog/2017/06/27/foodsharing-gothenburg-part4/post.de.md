@@ -2,7 +2,7 @@
 title: "Foodsharing Göteborg - Teil 4"
 date: 12:00 27-05-2017
 headline: Strategien für die Zukunft
-disqus: richtig
+discourse: true
 taxonomy:
   category: Blog
   tag:
