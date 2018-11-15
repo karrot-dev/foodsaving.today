@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part Five
 date: 25-05-2018
 headline: Similar Initiatives and the future of foodsharing Russia
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
@@ -19,8 +19,7 @@ We met the head of Food and Agriculture Organization of the United Nations, Euge
 
 ### [Open School of Sustainable Development](http://www.openshkola.org/open-school-of-sustainable-development/)
 
-This is an initiative to promote the ideas of sustainable development by providing information to the Russian-speaking population through online education. They do monthly free webinars dedicated to the [17 SDGs](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) - a set of goals adopted by UN to end poverty, protect the planet and ensure prosperity for all.  
-I presented a webinar dedicated to goal 2 “Zero hunger” and 12 “Responsible consumption and production”.
+This is an initiative to promote the ideas of sustainable development by providing information to the Russian-speaking population through online education. They do monthly free webinars dedicated to the [17 SDGs](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) - a set of goals adopted by UN to end poverty, protect the planet and ensure prosperity for all. I presented a webinar dedicated to goal 2 “Zero hunger” and 12 “Responsible consumption and production”.
 
 ### [Food Bank Rus](http://foodbankrus.ru/en)
 
