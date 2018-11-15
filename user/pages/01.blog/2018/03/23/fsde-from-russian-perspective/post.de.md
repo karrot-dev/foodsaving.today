@@ -2,7 +2,7 @@
 title: How foodsharing in Germany began
 date: 23-03-2018
 headline: An article from Russia
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
