@@ -2,7 +2,7 @@
 title: Foodsharing Hong Kong - Part Three
 date: 11-05-2018
 headline: The power of media
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
