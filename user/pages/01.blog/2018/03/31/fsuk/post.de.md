@@ -2,7 +2,7 @@
 title: Foodsaving in the United Kingdom
 date: 31-03-2018
 headline: Another article from Russia
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
