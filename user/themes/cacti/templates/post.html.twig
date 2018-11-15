@@ -43,6 +43,13 @@
         {% endif %}
     </nav>
 
+    <!-- Discourse comments -->
+    {% if page.header.discourse %}
+        <div class="archive readmore">
+            <h3>Comments</h3>
+            {% include 'partials/discourse.html.twig' %}
+        </div>
+    {% endif %}
 
     <!-- Disqus comments -->
     {% if page.header.disqus %}
