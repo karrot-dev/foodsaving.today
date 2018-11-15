@@ -2,7 +2,7 @@
 title: "Foodsharing Gothenburg - Part One"
 date: 12:00 13-04-2017
 headline: How foodsharing in Gothenburg began
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
