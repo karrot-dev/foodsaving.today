@@ -2,7 +2,7 @@
 title: Food-Share Points in Poland
 date: 13:01 27-02-2018
 headline: We learn not to throw away food!
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
