@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part Four
 date: 21-05-2018
 headline: How things are now
-disqus: true
+discourse: true
 taxonomy:
   category: blog
   tag:
