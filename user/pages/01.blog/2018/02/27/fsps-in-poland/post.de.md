@@ -2,7 +2,7 @@
 title: Fairteiler in Polen
 date: 13:01 27-02-2018
 headline: Wir lernen Lebensmittel nicht zu verschwenden!
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:
