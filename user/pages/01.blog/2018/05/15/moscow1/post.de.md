@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part One
 date: 15-05-2018
 headline: How foodsharing started in Russia
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:
