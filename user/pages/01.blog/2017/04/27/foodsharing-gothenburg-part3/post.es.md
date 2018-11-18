@@ -2,7 +2,7 @@
 title: "Foodsharing Gothenburg - Part Three"
 date: 12:00 27-04-2017
 headline: Tools to connect and to organize
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:
