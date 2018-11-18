@@ -2,7 +2,7 @@
 title: "Foodsharing Gothenburg - Part Four"
 date: 12:00 27-05-2017
 headline: Strategies for the future
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:
