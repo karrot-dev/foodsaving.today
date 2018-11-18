@@ -2,7 +2,7 @@
 title: "Foodsharing Bilbao - The Beginning"
 date: 12:00 30-06-2017
 headline: Inspiration, voice calls and a visit
-discourse: true
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]

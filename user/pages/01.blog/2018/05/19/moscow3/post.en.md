@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part Three
 date: 19-05-2018
 headline: The charitable way
-discourse: true
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]
@@ -34,4 +34,4 @@ _Large families and old people get food from foodsavers: fruits, vegetables and 
 
 We still don’t collect food being offered as a donation as if a business wants to donate some goods to a charity, they don’t need foodsharing. But employees and volunteers from charitable foundations don’t have the time or availability to come every day to the food pick-up locations to pick up leftovers. They need some kind of “facilitator” like foodsharing. Foodsavers are still allowed to retain some food for themselves but charity also gets its part, and there is no wastage.
 
-Making this change to our way of operating was a really important milestone for us. By becoming a charitable project we began to attract much more attention and, as a consequence, got more organizations interested in cooperating with us.
+Making this change to our way of operating was a really important milestone for us. By becoming a charitable project we began to attract much more attention and, as a consequence, got more organizations interested in cooperating with us.  

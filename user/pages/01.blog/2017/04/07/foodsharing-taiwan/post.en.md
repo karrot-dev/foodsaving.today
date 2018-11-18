@@ -2,7 +2,7 @@
 title: "Introducing: Foodsharing Taiwan"
 date: 12:00 07-04-2017
 headline: The movement spreads
-discourse: true
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]

@@ -2,7 +2,7 @@
 title: Willkommen bei Foodsaving Today!
 date: '11:01 30-03-2017'
 headline: Es beginnt...
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:

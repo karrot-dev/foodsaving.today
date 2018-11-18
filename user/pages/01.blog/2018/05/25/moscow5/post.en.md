@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part Five
 date: 25-05-2018
 headline: Similar Initiatives and the future of foodsharing Russia
-discourse: true
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]
@@ -17,8 +17,8 @@ _Part 5/5_
 We met the head of Food and Agriculture Organization of the United Nations, Eugenia Serova, in her office in Moscow. We discussed problems of food loss and hunger and agreed to cooperate on raising awareness about food waste. We plan to participate in conferences organized by the FAO UN in Russia.
 
 ### [Open School of Sustainable Development](http://www.openshkola.org/open-school-of-sustainable-development/)
-This is an initiative to promote the ideas of sustainable development by providing information to the Russian-speaking population through online education. They do monthly free webinars dedicated to the [17 SDGs](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)  - a set of goals adopted by UN to end poverty, protect the planet and ensure prosperity for all.
-I presented a webinar dedicated to goal 2 “Zero hunger” and 12 “Responsible consumption and production”.
+This is an initiative to promote the ideas of sustainable development by providing information to the Russian-speaking population through online education. They do monthly free webinars dedicated to the [17 SDGs](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)  - a set of goals adopted by UN to end poverty, protect the planet and ensure prosperity for all.  
+I presented a webinar dedicated to goal 2 “Zero hunger” and 12 “Responsible consumption and production”.  
 
 ### [Food Bank Rus](http://foodbankrus.ru/en)
 The first and only foodbank in Russia was established in 2012 and is a member of [Global Foodbanking Network](https://www.foodbanking.org/what-we-do/our-global-reach/).
@@ -31,7 +31,7 @@ _The elderly living in countryside poverty get help from Food Bank Rus_
 We are in touch with them and have some cooperation.
 
 ### Foodsharing in social networks (“I Give Away Food for Free”)
-There are some groups and pages in social network Vkontakte named [Foodsharing: I Give Away Food for Free](https://vk.com/sharingfood) ([also this one](https://vk.com/food_sharing) and some others). Their foodsharing system works like this - if someone wants to give away some food he or she does not need, they post in this VKontakte community. Whoever is the first to post an "I'll take it" comment gets it. There are no social or distance preferences, all that matters is speed of posting a comment. Some of these communities have cooperations with stores, but they have no rules or any sort of quiz for foodsavers. The organizers post something like “A pick-up today, address, time” and whoever is the first to comment is permitted to come and save food. Some of these groups don’t allow meat, fish and seafood to be saved or shared.
+There are some groups and pages in social network Vkontakte named [Foodsharing: I Give Away Food for Free](https://vk.com/sharingfood) ([also this one](https://vk.com/food_sharing) and some others). Their foodsharing system works like this - if someone wants to give away some food he or she does not need, they post in this VKontakte community. Whoever is the first to post an "I'll take it" comment gets it. There are no social or distance preferences, all that matters is speed of posting a comment. Some of these communities have cooperations with stores, but they have no rules or any sort of quiz for foodsavers. The organizers post something like “A pick-up today, address, time” and whoever is the first to comment is permitted to come and save food. Some of these groups don’t allow meat, fish and seafood to be saved or shared.  
 
 ### Fair-Share Points (“Public Fridge”)
 In 2016 the organizers of “I Give Away Food for Free” community in Saint-Petersburg sought to set up a Public Fridge on the front porch of a charity shop as an offline representation of the foodsharing idea. The day after opening it was closed by Rospotrebnadzor (The Federal Service for Supervision of Consumer Rights Protection and Human Well-Being). The organizers had to pay a fine. Fair-Share Points give a great base for sharing food but the European model did not catch on here.

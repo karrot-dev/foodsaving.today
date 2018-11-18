@@ -2,7 +2,7 @@
 title: 'Wir stellen vor: foodsharing Taiwan'
 date: '12:00 07-04-2017'
 headline: Die Bewegung wächst
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:

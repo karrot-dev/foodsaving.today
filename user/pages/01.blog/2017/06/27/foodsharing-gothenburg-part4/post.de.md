@@ -2,7 +2,7 @@
 title: Foodsharing Göteborg - Teil 4
 date: '12:00 27-05-2017'
 headline: Strategien für die Zukunft
-discourse: richtig
+disqus: richtig
 taxonomy:
   category: Blog
   tag:
@@ -19,7 +19,7 @@ Dinge wie z. B. Kühlschränke, benutzt und doch voll funktionsfähig, sind auch
 
 Bis jetzt bekamen wir diese über Facebook-sharing-Gruppen und ähnliche Spenden-Websites. Auch Orte gibt es genügend. Daher ist es nur eineFrage der Vernetzung - die richtigen Orte finden und mit den richtigen Leuten reden die ähnliche Werte teilen. Nun, wie bereiten wir die Grundlage um solche Dinge in größerem Maßstab zu tun?
 
-![](kortedala_solikyl4.jpg) *Solidarische Kühlschränke and Orten aufstellen, die eh schon auf das Teilen eingestellt sind; eine Bibliothek</p>
+![](kortedala_solikyl4.jpg) *Solidarische Kühlschränke and Orten aufstellen, die eh schon auf das Teilen eingestellt sind; eine Bibliothek</p> 
 
 Eine besondere Strategie ist, dass wir in Partnerschaft mit der Stadt arbeiten. Wir diskutieren die Möglichkeit die ausrangierten, noch funktionsfähigen Kuhlschränke von den Abfallstationen zu bekommen und diese an öffentliche Orte, wie Bibliotheken zu stellen. Einige legale Fragen scheinen nun geklärt zu sein.
 

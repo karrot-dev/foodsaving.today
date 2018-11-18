@@ -2,7 +2,7 @@
 title: Foodsharing i Östersund
 date: 03-08-2018
 headline: Half a year already!
-discourse: false
+disqus: false
 taxonomy:
     category: blog
     tag: [grav]

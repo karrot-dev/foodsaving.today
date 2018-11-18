@@ -2,7 +2,7 @@
 title: foodsharing Göteborg - Teil eins
 date: '12:00 13-04-2017'
 headline: Der Beginn von foodsharing Göteborg
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:

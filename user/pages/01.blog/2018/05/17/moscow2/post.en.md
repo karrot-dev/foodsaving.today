@@ -2,7 +2,7 @@
 title: Foodsharing Moscow - Part Two
 date: 17-05-2018
 headline: Tools and Technology
-discourse: true
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]
@@ -41,10 +41,10 @@ In Moscow, the districts are too large, and the subdistricts are too small, to b
 ![](moscow.jpg)
 _Moscow with its 9 districts and 125 subdistricts_
 
-The tool that we use is based on Google Maps Directions and allows us to be flexible. It allows us to invite only as many foodsavers as we need and thereby allows us to avoid creating disappointment. It also allows us to ensure that the foodsavers’ route to the pick-up point is as short as possible.
+The tool that we use is based on Google Maps Directions and allows us to be flexible. It allows us to invite only as many foodsavers as we need and thereby allows us to avoid creating disappointment. It also allows us to ensure that the foodsavers’ route to the pick-up point is as short as possible.  
 
 We now have about 1000 registered foodsavers, although fewer than half of them are actively involved in fetching food from our partners. Sometimes those who have never received any invitations to be part of a team become frustrated. In such circumstances we have to explain to them that some distant subdistricts don’t have yet any partners in cooperation, and propose other options that they could explore such as talking to cafes and stores nearby or other activities that they could become engaged in depending upon the volunteer’s skills. If a registered volunteer helps us we always try to give him or her options when free positions appear.
 
 People from [yunity](https://yunity.org) advice to never use the promise of "free food" as an incentive and, instead, to promote the idea that foodsaving isn't about free food but rather about fighting a wasteful-system of food mismanagement
 ([“How to build a foodsaving community”](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/91665893/How+to+build+a+foodsaving+community#Howtobuildafoodsavingcommunity-RaisingAwareness)).
-I don’t know about how things are in other countries but in our country it’s impossible, now, to genuinely get people to see things in these terms. Obtaining free food is a more powerful motivator than fighting food mismanagement for most people. However, I don’t think we have a critical problem here. There are both advantages and risks to having this high demand for foodsaving opportunities. There certainly are some benefits as we never have problems with getting enough volunteers for food pickups.
+I don’t know about how things are in other countries but in our country it’s impossible, now, to genuinely get people to see things in these terms. Obtaining free food is a more powerful motivator than fighting food mismanagement for most people. However, I don’t think we have a critical problem here. There are both advantages and risks to having this high demand for foodsaving opportunities. There certainly are some benefits as we never have problems with getting enough volunteers for food pickups.  

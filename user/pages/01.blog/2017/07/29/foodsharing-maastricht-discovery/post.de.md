@@ -2,7 +2,7 @@
 title: Foodsharing Maastricht - Eine Stadt entdeckt die Liebe zum Lebensmittelretten
 date: '12:00 29-07-2017'
 headline: Beginn und Wachstum einer Studierendeninitiative
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:

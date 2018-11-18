@@ -2,7 +2,7 @@
 title: "Foodsharing Switzerland - Der aktuelle Status Quo"
 date: 12:00 15-09-2017
 headline: Repost aus der foodsharing International AG auf foodsharing.de
-discourse: true
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]
