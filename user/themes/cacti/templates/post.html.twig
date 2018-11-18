@@ -16,13 +16,11 @@
         </section>
     </article>
     <footer id="post-meta" class="clearfix">
-        <a href="http://twitter.com/{{ theme_config.social.twitter|trim('@') }}">
-            <img class="avatar" src="{{ avatar_url }}">
-            <div>
-                <span class="dark">{{ theme_config.author }}</span>
-                <span>{{ 'SITE.DESCRIPTION'|t }}</span>
-            </div>
-        </a>
+        <img class="avatar" src="{{ avatar_url }}">
+        <div>
+            <span class="dark">{{ theme_config.author }}</span>
+            <span>{{ 'SITE.DESCRIPTION'|t }}</span>
+        </div>
 
         <section id="sharing">
             {% include 'partials/share.html.twig' %}
