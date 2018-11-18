@@ -2,7 +2,7 @@
 title: "Foodsharing Switzerland - The current Status Quo"
 date: 12:00 15-09-2017
 headline: As posted in the international working group on foodsharing.de
-discourse: true
+disqus: true
 taxonomy:
   category: blog
   tag:
