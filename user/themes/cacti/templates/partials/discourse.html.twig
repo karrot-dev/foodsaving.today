@@ -1,9 +1,9 @@
-{% if uri.environment == site.production_uri_environment %}
+{% if true %}
 <div id='discourse-comments'></div>
 
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://community.foodsaving.world/',
-                     discourseEmbedUrl: '{{ page.permalink }}' };
+                     discourseEmbedUrl: '{{ page.canonical(false) }}' };
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
