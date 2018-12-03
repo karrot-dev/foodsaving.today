@@ -1,8 +1,8 @@
 ---
 title: Foodsharing Łódź - Radio Interview
 date: 23-11-2018
-headline: One year anniversary 
-disqus: true
+headline: One year anniversary
+discourse: true
 taxonomy:
    category: blog
    tag: [grav]
