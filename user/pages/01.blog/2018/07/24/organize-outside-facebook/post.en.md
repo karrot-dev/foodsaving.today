@@ -2,14 +2,14 @@
 title: Organize outside Facebook
 date: 24-07-2018
 headline: The Why and the How
-disqus: false
+disqus: true
 taxonomy:
     category: blog
     tag: [grav]
     author: Bruno
 ---
 
-## The Why and the How      
+## The Why and the How
 
 If you’re getting started with your foodsaving group or if you established one already, the most natural option is/was a Facebook group or page. Facebook is possibly the online platform where you can reach out to the greatest number of people living in your region who might care about food waste, so I won’t deny its power in regards to outreach and campaigning.
 
@@ -41,9 +41,9 @@ If not on Facebook, then where? And how to get people there? Well, it always dep
 [Karrot](https://karrot.world) is made specifically for the purpose of saving food and it’s being developed on a voluntary basis by people with the knowledge and years of experience from saving food. For the time being, it works perfectly fine for coordinating pickups and giving feedback on them, particularly when you have regular pickups and pickups that you know of in advance.
 
 It is still not suited for long and organized communication, but the great thing about it is that it the developers are constantly seeking feedback from the foodsaving communities worldwide and developing the tool in a direction that will cover most, if not all, of the needs of a foodsaving community. It should be a natural choice for any growing or well-established foodsaving project.
-        
+
 [![](Screenshot-from-Karrot-2018-05-29.png)](https://karrot.world)
-        
+
 A forum is also very useful, based on my personal experience, and if you have someone who can set up one for your project I recommend a [Discourse](https://www.discourse.org/) or a [Vanilla](https://vanillaforums.com/en/software/) forum. A forum is designed to be a place where you can have discussions on topics, organized in categories or by tags and which will work in the long run as a knowledge bank when in need of searching relevant information (something that is quite troublesome on Facebook groups). Other interesting tools for teamwork are [Rocket Chat](https://rocket.chat/) and [Mattermost](https://mattermost.com/), alternatives to Slack which is a proprietary platform growing in popularity.
 
 [Riot](https://riot.im/app/) deserves a mention too because, unlike these other options, it is built upon a protocol that allows for federated decentralization (think about how we communicate by e-mail through different service providers, but this time with chats), but unfortunately I don't find it very user-friendly. These tools provide a more dynamic interaction between participants because they are basically tools allowing you to create different chat rooms for different purposes and topics of discussions. The downside is that older information might also get easily lost in the flow.
