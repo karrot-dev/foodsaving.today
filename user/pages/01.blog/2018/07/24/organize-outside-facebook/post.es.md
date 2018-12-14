@@ -2,7 +2,7 @@
 title: Organize outside Facebook
 date: 24-07-2018
 headline: The Why and the How
-disqus: false
+disqus: true
 taxonomy:
   category: blog
   tag:
