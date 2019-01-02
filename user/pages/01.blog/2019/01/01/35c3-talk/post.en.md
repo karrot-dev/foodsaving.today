@@ -18,7 +18,7 @@ Nick, Tilmann and I (Janina) prepared a 30 minutes bit about the following topic
 - The method and success of foodsharing.de
 - How it's spreading further and further
 - The idea and basic features of Karrot
-- How abd why Karrot is made the way it is
+- How and why Karrot is made the way it is
 
 You can watch it in the original English version or in a translated German one. Enjoy!
 
