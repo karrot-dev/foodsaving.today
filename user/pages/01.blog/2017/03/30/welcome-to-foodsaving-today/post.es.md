@@ -13,6 +13,6 @@ taxonomy:
 
 Por si no conoces nada sobre el ahorro de alimentos: el objetivo es prevenir que comida sea desperdiciada (puede leer [esta introducción](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) de The Guardian).
 
-There are many people and projects trying to solve this now, with many different approaches - non-profit or profit, software or not, open source or proprietary, formal or informal, custom software or a patchwork of tools, community or business.
+Hay muchas personas y proyectos que intentan resolver esto ahora, con muchos enfoques diferentes: sin ánimo de lucro o como negocio, programa de ordenador o no, código abierto o propietario, formal o informal, software personalizado o un conjunto de herramientas, comunidad o negocio.
 
-That's all for now, but stay tuned...
+Eso es todo por ahora, pero permaneced conectados...
