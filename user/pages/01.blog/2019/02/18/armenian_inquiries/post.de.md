@@ -1,19 +1,19 @@
 ---
-title: Can foodsharing work in Armenia?
+title: Kann Foodsharing in Armenien funktionieren?
 date: 18-02-2019
-headline: Mediamax investigates!
-discourse: true
+headline: Mediamax recherchiert!
+discourse: richtig
 taxonomy:
-  category: blog
+  category: Blog
   tag:
     - grav
   author: Janina
 ---
-*This article was published first on November 15, 2018 by Mediamax. [Click here](https://mediamax.am/am/news/special-report/31179/) to read the Armenian original. All pictures are taken from that article. Translation and republication with kind permission of the author Amalie Khachatryan. No copyright infringement intended!*
+*Dieser Artikel wurde am 15. November 2018 von Mediamax veröffentlicht. [Hier Klicken](https://mediamax.am/am/news/special-report/31179/) um das armenische Original zu lesen. Alle Bilder sind dem Artikel entnommen. Übersetzung und Wiederveröffentlichung mit freundlicher Genehmigung des Autors Amalie Khachatryan. Es wurde keine Urheberrechtsverletzung beabsichtigt!*
 
-# The wasting of food and the idea of foodsharing
+# Die Lebensmittelverschwendung und die Idee von Foodsharing
 
-*Have you ever wondered what happens to the leftover food we order at a restaurant or cafe? Or where to find the product that disappears from the supermarket shelf after a few days without being consumed? Mediamax tried to find out what the Armenian food-producing, processing or retailing centers offer with regards to surplus food and what solutions there are to still make use of the food.*
+*Haben Sie sich jemals gefragt, was mit den Essensresten passiert, die wir in einem Restaurant oder Café bestellen? Oder wo man die Produkte findet, die aus dem Supermarktregal nach ein paar Tagen verschwinden, ohne verbraucht zu werden? Mediamax tried to find out what the Armenian food-producing, processing or retailing centers offer with regards to surplus food and what solutions there are to still make use of the food.*
 
 Before investigating the Armenian situation, let's have a look at the international one. 7 years ago the foodsharing movement in Berlin started redistributing non-fresh, but also non-old food to save it from being wasted. To compare the European and Armenian experience, we talked with members of foodsharing and several Armenian companies to find out if alternative solutions are available in Armenia.
 
