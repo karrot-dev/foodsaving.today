@@ -13,9 +13,9 @@ taxonomy:
 
 # Die Lebensmittelverschwendung und die Idee von Foodsharing
 
-*Haben Sie sich jemals gefragt, was mit den Essensresten passiert, die wir in einem Restaurant oder Café bestellen? Oder wo man die Produkte findet, die aus dem Supermarktregal nach ein paar Tagen verschwinden, ohne verbraucht zu werden? Mediamax tried to find out what the Armenian food-producing, processing or retailing centers offer with regards to surplus food and what solutions there are to still make use of the food.*
+*Haben Sie sich jemals gefragt, was mit den Essensresten passiert, die wir in einem Restaurant oder Café bestellen? Oder wo man die Produkte findet, die aus dem Supermarktregal nach ein paar Tagen verschwinden, ohne verbraucht zu werden? Mediamax versuchte herauszufinden, was die armenischen Lebensmittelerzeugung-, Verarbeitungs- oder Einkaufszentren zu bieten haben in Bezug auf Lebensmittelüberschüße, und welche Möglichkeiten es gibt die Lebensmittel noch zu nutzen.*
 
-Before investigating the Armenian situation, let's have a look at the international one. 7 years ago the foodsharing movement in Berlin started redistributing non-fresh, but also non-old food to save it from being wasted. To compare the European and Armenian experience, we talked with members of foodsharing and several Armenian companies to find out if alternative solutions are available in Armenia.
+Bevor wir die Lage in Armenien untersuchen, sollten wir uns die internationale ansehen. Vor 7 Jahren begann die Foodsharing-Bewegung in Berlin nicht frische, aber auch nicht alte, Lebensmittel weiter zu verteilen, um zu verhindern das sie verschwendet werden. To compare the European and Armenian experience, we talked with members of foodsharing and several Armenian companies to find out if alternative solutions are available in Armenia.
 
 ## In Germany
 
