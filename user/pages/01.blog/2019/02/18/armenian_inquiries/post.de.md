@@ -15,9 +15,9 @@ taxonomy:
 
 *Haben Sie sich jemals gefragt, was mit den Essensresten passiert, die wir in einem Restaurant oder Café bestellen? Oder wo man die Produkte findet, die aus dem Supermarktregal nach ein paar Tagen verschwinden, ohne verbraucht zu werden? Mediamax versuchte herauszufinden, was die armenischen Lebensmittelerzeugung-, Verarbeitungs- oder Einkaufszentren zu bieten haben in Bezug auf Lebensmittelüberschüße, und welche Möglichkeiten es gibt die Lebensmittel noch zu nutzen.*
 
-Bevor wir die Lage in Armenien untersuchen, sollten wir uns die internationale ansehen. Vor 7 Jahren begann die Foodsharing-Bewegung in Berlin nicht frische, aber auch nicht alte, Lebensmittel weiter zu verteilen, um zu verhindern das sie verschwendet werden. To compare the European and Armenian experience, we talked with members of foodsharing and several Armenian companies to find out if alternative solutions are available in Armenia.
+Bevor wir die Lage in Armenien untersuchen, sollten wir uns die internationale ansehen. Vor 7 Jahren begann die Foodsharing-Bewegung in Berlin nicht frische, aber auch nicht alte, Lebensmittel weiter zu verteilen, um zu verhindern das sie verschwendet werden. Um die Erfahrungen in Europa und Armenien zu vergleichen, sprachen wir mit den Mitgliedern von Foodsharing und mehreren armenischen Unternehmen, um herauszufinden, ob in Armenien alternative Lösungen verfügbar sind.
 
-## In Germany
+## In Deutschland
 
 We had a meeting with 20-year-old Max Fioravanti, a volunteer of the foodsharing movement in Berlin. Before telling us about the movement, Max proudly points out that he joined foodsharing in the beginning of this year and already saved over 200 kg of food. The food he saved got redistributed to friends and needy people. Max is a student and lives alone in Berlin. He almost always eats the surplus food from special occasions and does pickups at cafes and shops. In the morning, we are greeted with free croissants from yesterday. They are not fresh, but they are not old enough to count as trash. Still, the café would throw them out in the morning and prepare new ones.
 
