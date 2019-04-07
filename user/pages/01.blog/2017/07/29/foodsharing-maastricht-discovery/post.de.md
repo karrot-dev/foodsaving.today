@@ -11,7 +11,7 @@ taxonomy:
 ---
 Die Idee mit Foodsharing in Maastricht anzufangen kam im Januar 2017. Nachdem wir es auf Facebook veröffentlicht haben, haben wir direkt Hilfe von der studentischen Nachhaltigkeitsabteilung der Maastricht University, dem [Green Office](https://www.greenofficemaastricht.nl/), erhalten, das Studenten-Initiativen unterstützt, um die Nachhaltigkeit der Universität zu verbessern.
 
-The time was right - the university hosted a student idea competition in order to find the best idea to improve university life. We participated with Foodsharing, and after some workshops and two rounds we were happy to win price money and the support of the university.
+Die Zeit war reif - die Universität hat einen Wettbewerb für die Studenten veranstaltet, um die beste Idee zur Verbesserung des Lebens in der Universität zu finden. Wir haben mit Foodsharing teilgenommen, und nach einigen Workshops und zwei runden waren wir die glücklichen Gewinner vom Preisgeld und der Unterstützung der Universität.
 
 ![Our logo](fsmaastricht_foodsavers.jpg)
 
