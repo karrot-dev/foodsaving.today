@@ -15,13 +15,13 @@ Die Zeit war reif - die Universität hat einen Wettbewerb für die Studenten ver
 
 ![Our logo](fsmaastricht_foodsavers.jpg)
 
-This contest gave us the amazing possibility to secure a room, in which we can store the saved food, and to be able to generally cooperate with the university. After the finals, everything went very quick. Two weeks later we got a small room in a university building in the center of Maastricht. Via Facebook we got several donations of second-hand fridges and of a shelf.
+Dieser Wettbewerb gab uns die unglaubliche Möglichkeit, einen Raum zu haben in dem wir die geretteten Lebensmittel lagern können, und generell in der Lage zu sein mit der Universität zu kooperieren. Nach dem Finale ging alles sehr schnell. Zwei Wochen später bekamen wir einen kleinen Raum in einem Universitätsgebäude im Zentrum von Maastricht. Über Facebook haben wir mehrere Spenden gebrauchter Kühlschränke und einem Regal bekommen.
 
-The second part, building up a team, showed how many interested and motivated students live in Maastricht. Together with the Green Office, we organized an information evening to gather interested people and to raise awareness of the initative in Maastricht. Through this event, we met our first great team members who are now - half a year later - still an important part of our team.
+Der zweite Teil, ein Team aufzubauen, zeigte wie viele interessierte und motivierte Studenten in Maastricht leben. Gemeinsam mit dem Green Office haben wir einen Informationsabend organisiert um interessierte Menschen zu versammeln und die Initiative in Maastricht bekannter zu machen. Durch diese Veranstaltung trafen wir unsere ersten großartigen Teammitglieder, die jetzt, ein halbes Jahr später, noch ein wichtiger Teil unseres Teams sind.
 
 ![Parts of the team](fsmaastricht_fsp2.jpg)
 
-We created a [Facebook group](https://www.facebook.com/FoodSharingMaastricht/) and later a page where step by step, new people texted us to become foodsavers. However, until that point we did not have any cooperations with supermarkets. We decided to first organize the room and a team in order to really be able to manage pick-ups.
+Wir haben eine [Facebook Gruppe](https://www.facebook.com/FoodSharingMaastricht/) und später eine Seite erstellt, auf der sich neue Leute nach und nach bei uns meldeten um foodsaver zu werden. Bis dahin hatten wir jedoch keine Kooperationen mit Supermärkten. Wir hatten uns entschieden zuerst den Raum und ein Team zu organisieren, um wirklich in der Lage zu sein Abholungen zu bewältigen.
 
 It was not as easy as we thought to convince supermarkets to cooperate with us. The first ones all denied. Smaller supermarkets always argued that they do not have any food waste at all (which is hard to believe) or that they use it already for other purposes (which is great). However, the biggest fish, large supermarkets, do not yet cooperate at all. They fear about their image, about additional work they have to do and are in general not open to a small student initiative and their activities. It is very frustrating to see that many people and companies in the Netherlands are not yet ready to fight against food waste.
 
