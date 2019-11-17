@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Janina
 ---
+
 2018 ended with a great opportunity for the [foodsaving worldwide team](https://foodsaving.world/team): We got accepted to hold a talk about what we do and why on the 35th annual [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress) - the biggest European hacker event with 16.000 people participating!
 
 Nick, Tilmann and I (Janina) prepared a 30 minutes bit about the following topics:
