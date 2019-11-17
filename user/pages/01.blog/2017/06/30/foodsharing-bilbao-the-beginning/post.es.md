@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: unai
 ---
+
 Leire and I (Unai) had seen the power of Foodsharing Copenhagen and we wanted to give it a try here in Bilbao. Around the end of 2016 we set up a meeting at [Sarean](https://www.facebook.com/sareangunea/) that attracted two more people: Ione and Laura.
 
 We agreed to create a [Facebook group](https://www.facebook.com/groups/1853289058224368/?ref=bookmarks), to invite people and to host a second meeting when more people were available. The second meeting never took place; instead, luckily enough Laura knew Joachim (from [yunity](https://www.yunity.org)) and he proposed us to join a series of [online meetings](https://drive.google.com/open?id=0B0c-rM4MZX0XdERVTy1IVUN0aVU&noprocess) where we got to know the basics about Foodsharing.
