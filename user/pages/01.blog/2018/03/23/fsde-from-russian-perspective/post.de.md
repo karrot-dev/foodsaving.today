@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Anna Uspenskaya
 ---
+
 *This article was first published in Russian on [foodsharing.ru](https://foodsharing.ru/blog/fudshering-v-germanii/) in June 2017. We repost it here in translated versions with friendly permission from the original author.*
 
 ![foodsharing.de flyers](fsde_flyers.jpg)
