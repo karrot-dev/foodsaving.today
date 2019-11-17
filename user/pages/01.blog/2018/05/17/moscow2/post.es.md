@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Anna Uspenskaya
 ---
+
 *Part 2/5*
 
 # Foodsharing taking off
