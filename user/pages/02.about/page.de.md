@@ -3,6 +3,7 @@ title: Über uns
 class: home
 profile: true
 ---
+
 Neuigkeiten, Informationen, Geschichten, Ankündigungen und Events über foodsharing aus der ganzen Welt.
 
 Erstellt von dem **#foodsaving-worldwide** Projekt von [yunity](https://yunity.org) mit Hilfe von Menschen aus der ganzen Welt. :)
