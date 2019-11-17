@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Janina, Bodhi
 ---
+
 As you may know, [foodsharing.de](https://foodsharing.de) is present on many commercial festivals to save food and raise awareness for the topic of food waste. The upcoming festival season will again hold many possibilities for enthusiastic foodsavers to come with us, spread the word and save a lot of food. We're looking forward to your application for various music festivals throughout Germany!
 
 ![](/images/summerstale_booth.JPG)
