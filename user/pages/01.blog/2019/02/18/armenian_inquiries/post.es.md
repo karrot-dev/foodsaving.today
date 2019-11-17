@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Janina
 ---
+
 *This article was published first on November 15, 2018 by Mediamax. [Click here](https://mediamax.am/am/news/special-report/31179/) to read the Armenian original. All pictures are taken from that article. Translation and republication with kind permission of the author Amalie Khachatryan. No copyright infringement intended!*
 
 # The wasting of food and the idea of foodsharing
