@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Hang-Shuen Lee
 ---
+
 *This is part 2/3.*
 
 When I told my brother about the idea to start a food share point in Hong Kong, he was excited. I remember him saying that this is something completely new to Hong Kongers. Judging from our habit to be easily attracted by the new, the experiment might even become popular.
