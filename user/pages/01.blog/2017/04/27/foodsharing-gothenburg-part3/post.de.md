@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Bruno
 ---
+
 Das ist wahrscheinlich der eher theoretische Teil, verglichen verglichen mit den praktischen Aktivitäten des Essenrettens und -teilens, aber trotzdem mag ich diesen Teil am Liebsten. Ich war schon immer sehr enthusiastisch was die Art und Menge der Organisation angeht, die, ohne formelle Hierarchien, Verbindung schafft durch die digitale Plattform.
 
 Es ist besonders wichtig, dass wir eine Plattform haben, die nicht von einer Profit-Unternehmen kontrolliert wird und die keine Bedingungen stellt, wie die Leute miteinander interagieren, was normalerweise der Fall bei Technologie Unternehmen der sogenannten Sharing Economy ist.
