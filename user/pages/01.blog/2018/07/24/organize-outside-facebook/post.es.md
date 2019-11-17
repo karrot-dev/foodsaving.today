@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Bruno
 ---
+
 ## The Why and the How
 
 If you’re getting started with your foodsaving group or if you established one already, the most natural option is/was a Facebook group or page. Facebook is possibly the online platform where you can reach out to the greatest number of people living in your region who might care about food waste, so I won’t deny its power in regards to outreach and campaigning.
