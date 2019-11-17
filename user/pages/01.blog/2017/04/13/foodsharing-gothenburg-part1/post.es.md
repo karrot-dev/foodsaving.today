@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: bruno
 ---
+
 In this four-part series of blogposts I will describe:
 
 - how foodsharing in Gothenburg began
