@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: bruno
 ---
+
 Am schwierigsten ist momentan wahrscheinlich der Aufbau weiterer Kooperationen mit Supermärkten bzw. Lebensmittelläden. Entweder haben sie zu viel Angst wegen der Lebensmittelrichtlinien, oder es gibt für sie keinen Anreiz ihre Lebensmittelverschwendung zu reduzieren bzw. ist das für sie keine Priorität.
 
 Das betrifft natürlich nicht alle Läden (sonst gäbe es die bestehenden Kooperationen nicht) und kleinere Läden sind der Sache eher positiv eingestellt, aber an die großen Ketten muss man sehr sachte rangehen. Was alle gemeinsam haben ist, dass sie ignorieren und ausweichen und ab und an wird man auch direkt angelogen: "Bei uns wird nichts weggeschmissen". Das ist jedoch unmöglich für einen Supermarkt, egal wie sehr er es zu verhindern versucht.
