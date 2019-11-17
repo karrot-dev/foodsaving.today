@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: bruno
 ---
+
 On the previous posts I wrote about Solikyl, the foodsharing initiative in Gothenburg, about the challenges we face and the tools we use to connect and organize ourselves. This final post is all about the strategies and visions we have for the future.
 
 The vision is obviously to spread solidarity fridges across the city, to get more food shops to cooperate and ultimately to minimize food waste considerably. But there are ways and ways to do it. There is neither a need to make a business out of it, nor to make it as a charity that targets the poorest, creating stigmatization barriers.
