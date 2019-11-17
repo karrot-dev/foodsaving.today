@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Teddy
 ---
+
 A few things about Foodsharing in Östersund (Sweden), how I started and what kind of challenges, ideas and projects we had so far. I’ll start and try to get some information together.
 
 ![](oestersund_logo.jpg)
