@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: nicksellen
 ---
+
 ¡Hoy lanzamos nuestra página web! El propósito es compartir noticias, información, anuncios y eventos de alrededor del mundo sobre Foodsaving. Compartir e inspirar.
 
 Por si no conoces nada sobre Foodsaving: el objetivo es prevenir que comida sea desperdiciada (puede leer [esta introducción](https://www.theguardian.com/sustainable-business/free-food-sharing-leftovers-surplus-local-popular) de The Guardian).
