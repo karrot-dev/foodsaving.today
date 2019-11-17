@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: peter
 ---
+
 Dear all, I’ve been asked to tell about the situation in Switzerland which I’ll gladly do. I’m not so sure what could be interesting, so [feel free to ask](mailto:peter.toennies@gmail.com) for more info.
 
 ### First of all some random numbers
