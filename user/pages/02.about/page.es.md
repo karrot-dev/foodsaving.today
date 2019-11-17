@@ -3,6 +3,7 @@ title: Acerca de
 class: inicio
 profile: true
 ---
+
 Noticias, información, historias, anuncios y eventos relacionados al ahorro de alimentos alrededor del mundo.
 
 Creado por el proyecto **#foodsaving-worldwide** dentro de [yunity](https://yunity.org) con la ayuda de contribuidores de todas partes el mundo :)
