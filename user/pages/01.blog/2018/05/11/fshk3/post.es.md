@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Hang-Shuen Lee
 ---
+
 *This is part 3/3.*
 
 „You gotta cheat a little bit. Why don't you buy something and put it there?“ A sharp, pragmatic tip from my father.
