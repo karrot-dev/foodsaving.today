@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Janina
 ---
+
 *Dieser Artikel wurde am 15. November 2018 von Mediamax veröffentlicht. [Hier Klicken](https://mediamax.am/am/news/special-report/31179/) um das armenische Original zu lesen. Alle Bilder sind dem Artikel entnommen. Übersetzung und Wiederveröffentlichung mit freundlicher Genehmigung des Autors Amalie Khachatryan. Es wurde keine Urheberrechtsverletzung beabsichtigt!*
 
 # Die Lebensmittelverschwendung und die Idee von Foodsharing
