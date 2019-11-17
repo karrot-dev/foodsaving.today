@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Hang-Shuen Lee
 ---
+
 *This is part 1/3.*
 
 It was February 2016. I was sorting out some excess stuff: shampoo that I used once but never really liked; my bicycle seat that is in good condition but could never be resold; a book that made me fall asleep once I’d start reading it. I packed all of them in a tote bag and left my home in Düsseldorf, a German city.
