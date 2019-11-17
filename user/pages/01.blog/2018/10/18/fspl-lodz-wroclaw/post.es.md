@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Janina
 ---
+
 *This is a brief summary of Janina and Tilmann's trip to visit some Polish foodsharing groups in September 2018.*
 
 [Foodsharing in Warszawa is big](https://www.facebook.com/FoodsharingWarszawa/) – but as you can see in [this interactive map](https://www.google.com/maps/d/viewer?mid=1vpCSdHuflmBIw4WWV3VFCQ4L2sU) Poland has more active foodsavers than just those in the capital! Cities like [Kraków](https://www.facebook.com/foodsharing.krakow/) and [Toruń](https://www.facebook.com/jadlodzielnia.torun/) apparently have quite some people who dedicate a lot of time and energy to the cause of rescuing edible food from the bin, but also [Łódź](https://www.facebook.com/FoodsharingLodz/), [Wrocław](https://www.facebook.com/foodsharingwroclaw/) and more have their own foodsharing initiatives.
