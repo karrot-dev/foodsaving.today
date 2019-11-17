@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Stefan
 ---
+
 ![](/images/fstaiwan.jpg)
 
 foodsharing Taiwan wurde Ende 2015 gegründet. Inspiriert von [foodsharing](https://foodsharing.de) in Deutschland dachten wir uns, dass das auch ähnlich in Taiwan funktionieren könnte.
