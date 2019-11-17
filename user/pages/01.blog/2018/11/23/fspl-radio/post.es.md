@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Nathalie
 ---
+
 A great event took place on November 10 because of the first anniversary of the food share point in Łódź. Agnieszka Laskowska and Anna Dolinska promote the event and give us a look behind the scenes of [foodsharing Łódź](https://www.facebook.com/FoodsharingLodz) in their [radio interview](https://www.radiolodz.pl/broadcast_posts/48304-pierwsze-urodziny-lodzkiej-jadlodzielni-jestem-eko).
 
 Last Saturday you could join different workshops, lectures or live cooking classes to learn about foodsharing and how to prevent food waste. Not only children, also grown-ups had fun with different educational games. One of the many highlights was the concert in the evening. The most impressive fact probably is that this all-day event was organized voluntarily besides a full-time job - just as the whole foodsharing movement in Łódź. Thanks to the student initiative and a lot of work that was put in, one year go the food share point could open in the university building.
