@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: bruno
 ---
+
 Perhaps the greatest challenge at the moment is to get more stores and supermarkets to cooperate. Either they are too afraid because of food safety regulations, or they simply do not have incentives and do not prioritize reducing their waste.
 
 This is obviously not true in all cases (otherwise we would not have the cooperations we have today), and small stores are more positive, but dealing with big commercial chains is more sensitive. Their most common strategy is to ignore and avoid, and sometimes we even heard outright lies, like “we don’t have any food waste”, an impossibility for any supermarket regardless how good they are at preventing it.
