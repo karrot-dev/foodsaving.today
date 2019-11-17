@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Magdalena Dubrowska
 ---
+
 *Dieser Artikel wurde zuerst am 13.4.2017 von cojestgrane24 veröffentlicht. [Klicke hier um das polische Original zu lesen](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html). Alle Bilder sind ebenfalls dem Artikel entnommen. Keine Urheberrechtsverletzung beabsichtigt!*
 
 Wenn du nach Weihnachten noch Eier mit Mayo, Salate oder Kuchen übrig haben solltest, wirf sie nicht weg! Bring Lebensmittel, die du nicht selbst essen kannst zu Fairteilern - solche Essens-Verteilstationen gibt es jetzt in sieben Städten in Polen.
