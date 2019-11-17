@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Janina, Bodhi
 ---
+
 Ihr wisst vielleicht schon, dass [foodsharing.de](https://foodsharing.de) auf vielen kommerziellen Festivals ist um dort Essen zu retten und um das Thema Lebensmittelverschwendung ins Bewusstsein zu rufen. Die kommende Festival Saison bietet viele Möglichkeiten für enthusiastische Foodsaver um mit uns zu kommen, um foodsharing bekanntzumachen und um jede Menge Essen zu retten. Wir freuen uns auf Deine Bewerbung für die verschiedenen Musik Festivals in ganz Deutschland!
 
 ![](/images/summerstale_booth.JPG)
