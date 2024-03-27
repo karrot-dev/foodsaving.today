@@ -1,9 +1,9 @@
-vendor
-tmp
-cache
-backup
-logs/*
+/vendor
+/tmp
+/cache
+/backup
+/logs/*
 
 !*/KEEP_THIS_DIRECTORY
-composer.phar
-.phan
+/composer.phar
+/.phan
