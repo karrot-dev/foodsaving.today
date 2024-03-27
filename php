@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -eu
+
+docker run \
+  --network host \
+  --rm -it \
+  -v $(pwd):/app \
+  --workdir /app \
+  foodsaving-today \
+  php "$@"
