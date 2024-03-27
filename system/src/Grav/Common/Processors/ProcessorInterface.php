@@ -1,14 +1,20 @@
 <?php
+
 /**
- * @package    Grav.Common.Processors
+ * @package    Grav\Common\Processors
  *
- * @copyright  Copyright (C) 2014 - 2016 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
 namespace Grav\Common\Processors;
 
-interface ProcessorInterface
+use Psr\Http\Server\MiddlewareInterface;
+
+/**
+ * Interface ProcessorInterface
+ * @package Grav\Common\Processors
+ */
+interface ProcessorInterface extends MiddlewareInterface
 {
-    public function process();
 }

@@ -1,3 +1,54 @@
+# v1.4.6
+## 02/05/2024
+
+1. [](#bugfix)
+   * Reverted fixes for an error in pagination URLs with system level Absolute URLs enabled. Will investigate [#60](https://github.com/getgrav/grav-plugin-pagination/issues/60) further
+
+# v1.4.5
+## 02/03/2024
+
+1. [](#bugfix)
+   * Fixed an error in pagination URLs with system level Absolute URLs enabled [#60](https://github.com/getgrav/grav-plugin-pagination/issues/60)
+
+# v1.4.4
+## 05/10/2023
+
+1. [](#improved)
+   * Fixed a deprecation error message for PHP 8.2+
+
+# v1.4.3
+## 08/26/2022
+
+1. [](#new)
+    * Pass phpstan level 1 tests
+    * Require Grav v1.6
+    * Moved pagination classes under `Grav\Plugin\Pagination` namespace
+    * Removed extension to bring Twig function into Plugin class
+
+# v1.4.2
+## 05/09/2019
+
+1. [](#new)
+    * Add active class for active page [#37](https://github.com/getgrav/grav-plugin-pagination/pull/37)
+    * Added `ru` and `uk` translations [#38](https://github.com/getgrav/grav-plugin-pagination/pull/38)
+
+# v1.4.1
+## 08/28/2018
+
+1. [](#bugfix)
+    * Reverted Twig fix to address broken `url` in Twig [#34](https://github.com/getgrav/grav-plugin-pagination/issues/34)
+    * Removed duplicate README text [#30](https://github.com/getgrav/grav-plugin-pagination/issues/30)
+
+# v1.4.0
+## 08/20/2018
+
+1. [](#new)
+    * Added Twig pagination function [#22](https://github.com/getgrav/grav-plugin-pagination/pull/22)
+1. [](#improved)
+    * Removed Grav trait in favor of `Grav::instance()`
+    * Changed delta blueprint type from `text` to `number`
+    * Code cleanup
+    
 # v1.3.2
 ## 05/03/2016
 

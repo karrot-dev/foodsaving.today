@@ -4,7 +4,11 @@
 
 `feed` is a [Grav](http://github.com/getgrav/grav) plugin and allows Grav to generate feeds of your pages.
 
-This plugin supports both __Atom 1.0__ and __RSS__ feed types. Enabling is very simple. just install this plugin in the `/user/plugins/`` folder in your Grav install. By default, the plugin is enabled and provides some default values.
+This plugin supports __Atom 1.0__, __RSS__ and __JSON__ feed types. Enabling is very simple. just install this plugin in the `/user/plugins/` folder in your Grav install. By default, the plugin is enabled and provides some default values.
+
+| NOTE: JSON feeds must be enabled manually in the plugin configuration as the `.json` extension is commonly used and this can conflict with other plugins.
+
+If you do enable the JSON feed, you will want to edit `feed.json.twig`. Replace the placeholder data on lines 2 and 3 (`feed_url` and `author:url`) with your own data. You may also want to change the formatting of the date on lines 8 and 9.
 
 # Installation
 
@@ -30,7 +34,7 @@ You should now have all the plugin files under
 
 # Usage
 
-The feeds work for pages that have sub-pages, for example a blog list view. If your page has a `content`, then the RSS plugin will automatically be enabled. Simply append either `.atom` or `.rss` to the url.  For example, if you have a blog page that defines a `content` header to display a list of blog pages in a list, and the URL is `http://www.mysite.com/blog` then the feed would simply be:
+The feeds work for pages that have sub-pages, for example a blog list view. If your page has a `content`, then the RSS plugin will automatically be enabled. Simply append either `.atom`, `.rss` or `.json` to the url.  For example, if you have a blog page that defines a `content` header to display a list of blog pages in a list, and the URL is `http://www.mysite.com/blog` then the feed would simply be:
 
 ```
 http://www.mysite.com/blog.atom
@@ -40,6 +44,22 @@ or
 
 ```
 http://www.mysite.com/blog.rss
+```
+
+or
+
+```
+http://www.mysite.com/blog.json
+```
+
+## Autodiscovery
+
+To let feed readers discover the feed automatically, add a link to your HTML `<head>` tag:
+
+```
+<link rel="alternate" type="application/atom+xml" title="My Feed" href="{{ base_url }}.atom" />
+<link rel="alternate" type="application/rss+xml" title="My Feed" href="{{ base_url }}.rss" />
+<link rel="alternate" type="application/json" title="My Feed" href="{{ base_url }}.json" />
 ```
 
 ## Creating Feed Buttons in Your Pages
@@ -58,10 +78,13 @@ The first line adds the **Atom** feed by simply adding `.atom` to the base URL o
 # Config Defaults
 
 ```
+enabled: true
 limit: 10
-description: My Feed Description
-lang: en-us
+title: 'My Feed Title'
+description: 'My Feed Description'
 length: 500
+enable_json_feed: false
+show_last_modified: false
 ```
 
 You can override any of the default values by setting one or more of these in your blog list page where `sub_pages` is defined. For example:
@@ -108,3 +131,27 @@ Manually updating Feed is pretty simple. Here is what you will need to do to get
 
 > Note: Any changes you have made to any of the files listed under this directory will also be removed and replaced by the new set. Any files located elsewhere (for example a YAML settings file placed in `user/config/plugins`) will remain intact.
 
+## Overriding the default feed template:
+
+Sometimes, you may wish to use a different template for an RSS/ ATOM/ JSON feed.  To override a feed's template, place the following in the page header:
+``` yaml
+feed:
+    template:
+        rss: my-override
+```
+
+Create the `my-override.rss.twig` in your theme/ plugin's `templates` folder and add it to your [twig template paths](https://learn.getgrav.org/17/cookbook/plugin-recipes#custom-twig-templates-plu).  Change `*.rss.*` to `*.atom.*` or `*.json.*` to override those page types.
+
+## Nginx Note:
+
+If you are having trouble with 404s with Nginx, it might be related to your configuration. You may need to remove the feed extensions from the list of types to cache as static files: `.xml`, `.rss`, and `.atom`. For example:
+
+```nginx
+# Cache static files
+location ~* \.(ogg|ogv|svg|svgz|eot|otf|woff|mp4|ttf|css|js|jpg|jpeg|gif|png|ico|zip|tgz|gz|rar|bz2|doc|xls|exe|ppt|tar|mid|midi|wav|bmp|rtf|swf)$ {
+  add_header "Access-Control-Allow-Origin" "*";
+  access_log off;
+  log_not_found off;
+  expires max;
+}
+```

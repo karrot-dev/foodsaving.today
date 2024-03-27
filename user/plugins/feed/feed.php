@@ -1,11 +1,12 @@
 <?php
 namespace Grav\Plugin;
 
+use Composer\Autoload\ClassLoader;
 use Grav\Common\Data;
 use Grav\Common\Page\Collection;
+use Grav\Common\Page\Interfaces\PageInterface;
 use Grav\Common\Plugin;
 use Grav\Common\Uri;
-use Grav\Common\Page\Page;
 use RocketTheme\Toolbox\Event\Event;
 
 class FeedPlugin extends Plugin
@@ -36,9 +37,23 @@ class FeedPlugin extends Plugin
     public static function getSubscribedEvents()
     {
         return [
-            'onPluginsInitialized' => ['onPluginsInitialized', 0],
-            'onBlueprintCreated' => ['onBlueprintCreated', 0]
+            'onPluginsInitialized' => [
+                ['autoload', 100000],
+                ['onPluginsInitialized', 0],
+            ],
+            'onBlueprintCreated' => ['onBlueprintCreated', 0],
+            'onPageHeaders' => ['onPageHeaders', 0]
         ];
+    }
+
+    /**
+     * [onPluginsInitialized:100000] Composer autoload.
+     *
+     * @return ClassLoader
+     */
+    public function autoload()
+    {
+        return require __DIR__ . '/vendor/autoload.php';
     }
 
     /**
@@ -49,24 +64,23 @@ class FeedPlugin extends Plugin
     public function onPluginsInitialized()
     {
         if ($this->isAdmin()) {
-            $this->active = false;
             return;
         }
 
         $this->feed_config = (array) $this->config->get('plugins.feed');
+
+        if ($this->feed_config['enable_json_feed']) {
+            $this->valid_types[] = 'json';
+        }
 
         /** @var Uri $uri */
         $uri = $this->grav['uri'];
         $this->type = $uri->extension();
 
         if ($this->type && in_array($this->type, $this->valid_types)) {
-            $this->active = true;
-
             $this->enable([
                 'onPageInitialized' => ['onPageInitialized', 0],
-                'onCollectionProcessed' => ['onCollectionProcessed', 0],
                 'onTwigTemplatePaths' => ['onTwigTemplatePaths', 0],
-                'onTwigSiteVariables' => ['onTwigSiteVariables', 0]
             ]);
         }
     }
@@ -76,16 +90,31 @@ class FeedPlugin extends Plugin
      */
     public function onPageInitialized()
     {
-        /** @var Page $page */
         $page = $this->grav['page'];
-        if (isset($page->header()->feed)) {
-            $this->feed_config = array_merge($this->feed_config, $page->header()->feed);
-        }
 
         // Overwrite regular content with feed config, so you can influence the collection processing with feed config
         if (property_exists($page->header(), 'content')) {
+            // Set default template.
+            $template = "feed";
+
+            if (isset($page->header()->feed)) {
+                $this->feed_config = array_merge($this->feed_config, $page->header()->feed);
+
+                // Look for feed type override,
+                if (isset($this->feed_config['template']) && isset($this->feed_config['template'][$this->type])) {
+                    $template = $this->feed_config['template'][$this->type];
+                }
+            }
+
             $page->header()->content = array_merge($page->header()->content, $this->feed_config);
-        }    
+
+            // Set page template.
+            $this->grav['twig']->template = $template . "." . $this->type . '.twig';
+
+            $this->enable([
+                'onCollectionProcessed' => ['onCollectionProcessed', 0],
+            ]);
+        }
     }
 
     /**
@@ -96,7 +125,7 @@ class FeedPlugin extends Plugin
     public function onCollectionProcessed(Event $event)
     {
         /** @var Collection $collection */
-        $collection = $event['collection'];
+        $collection = $event['collection']->nonModular();
 
         foreach ($collection as $slug => $page) {
             $header = $page->header();
@@ -114,14 +143,6 @@ class FeedPlugin extends Plugin
         $this->grav['twig']->twig_paths[] = __DIR__ . '/templates';
     }
 
-    /**
-     * Set needed variables to display the feed.
-     */
-    public function onTwigSiteVariables()
-    {
-        $twig = $this->grav['twig'];
-        $twig->template = 'feed.' . $this->type . '.twig';
-    }
 
     /**
      * Extend page blueprints with feed configuration options.
@@ -134,12 +155,31 @@ class FeedPlugin extends Plugin
 
         /** @var Data\Blueprint $blueprint */
         $blueprint = $event['blueprint'];
-        if (!$inEvent && $blueprint->name == 'blog_list') {
+        $form = $blueprint->form();
+
+        $blog_tab_exists = isset($form['fields']['tabs']['fields']['blog']);
+
+        if (!$inEvent && $blog_tab_exists) {
             $inEvent = true;
             $blueprints = new Data\Blueprints(__DIR__ . '/blueprints/');
             $extends = $blueprints->get('feed');
             $blueprint->extend($extends, true);
             $inEvent = false;
+        }
+    }
+
+    /**
+     * Force UTF-8 char-set encoding via `Content-Type` header
+     *
+     * @param Event $e
+     * @return void
+     */
+    public function onPageHeaders(Event $e)
+    {
+        $headers = $e['headers'];
+        $content_type = $headers->{'Content-Type'} ?? null;
+        if ($content_type) {
+            $headers->{'Content-Type'} = "$content_type; charset=utf-8";
         }
     }
 }

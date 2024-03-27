@@ -1,34 +1,24 @@
 <?php
+
 /**
- * @package    Grav.Common.Page
+ * @package    Grav\Common\Page
  *
- * @copyright  Copyright (C) 2014 - 2016 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
 namespace Grav\Common\Page\Medium;
 
-class AudioMedium extends Medium
+use Grav\Common\Media\Interfaces\AudioMediaInterface;
+use Grav\Common\Media\Traits\AudioMediaTrait;
+
+/**
+ * Class AudioMedium
+ * @package Grav\Common\Page\Medium
+ */
+class AudioMedium extends Medium implements AudioMediaInterface
 {
-    use StaticResizeTrait;
-
-    /**
-     * Parsedown element for source display mode
-     *
-     * @param  array $attributes
-     * @param  boolean $reset
-     * @return array
-     */
-    protected function sourceParsedownElement(array $attributes, $reset = true)
-    {
-        $location = $this->url($reset);
-
-        return [
-            'name' => 'audio',
-            'text' => '<source src="' . $location . '">Your browser does not support the audio tag.',
-            'attributes' => $attributes
-        ];
-    }
+    use AudioMediaTrait;
 
     /**
      * Reset medium.
@@ -39,7 +29,8 @@ class AudioMedium extends Medium
     {
         parent::reset();
 
-        $this->attributes['controls'] = true;
+        $this->resetPlayer();
+
         return $this;
     }
 }

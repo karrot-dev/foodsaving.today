@@ -1,8 +1,9 @@
 <?php
+
 /**
- * @package    Grav.Common.GPM
+ * @package    Grav\Common\GPM
  *
- * @copyright  Copyright (C) 2014 - 2016 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -10,18 +11,30 @@ namespace Grav\Common\GPM\Remote;
 
 use Grav\Common\Grav;
 use \Doctrine\Common\Cache\FilesystemCache;
+use InvalidArgumentException;
 
+/**
+ * Class GravCore
+ * @package Grav\Common\GPM\Remote
+ */
 class GravCore extends AbstractPackageCollection
 {
+    /** @var string */
     protected $repository = 'https://getgrav.org/downloads/grav.json';
-    private $data;
 
+    /** @var array */
+    private $data;
+    /** @var string */
     private $version;
+    /** @var string */
     private $date;
+    /** @var string|null */
+    private $min_php;
 
     /**
      * @param bool $refresh
-     * @param null $callback
+     * @param callable|null $callback
+     * @throws InvalidArgumentException
      */
     public function __construct($refresh = false, $callback = null)
     {
@@ -34,11 +47,12 @@ class GravCore extends AbstractPackageCollection
         $this->fetch($refresh, $callback);
 
         $this->data    = json_decode($this->raw, true);
-        $this->version = isset($this->data['version']) ? $this->data['version'] : '-';
-        $this->date    = isset($this->data['date']) ? $this->data['date'] : '-';
+        $this->version = $this->data['version'] ?? '-';
+        $this->date    = $this->data['date'] ?? '-';
+        $this->min_php = $this->data['min_php'] ?? null;
 
         if (isset($this->data['assets'])) {
-            foreach ($this->data['assets'] as $slug => $data) {
+            foreach ((array)$this->data['assets'] as $slug => $data) {
                 $this->items[$slug] = new Package($data);
             }
         }
@@ -57,8 +71,7 @@ class GravCore extends AbstractPackageCollection
     /**
      * Returns the changelog list for each version of Grav
      *
-     * @param string $diff the version number to start the diff from
-     *
+     * @param string|null $diff the version number to start the diff from
      * @return array changelog list for each version
      */
     public function getChangelog($diff = null)
@@ -68,10 +81,10 @@ class GravCore extends AbstractPackageCollection
         }
 
         $diffLog = [];
-        foreach ($this->data['changelog'] as $version => $changelog) {
-            preg_match("/[\w-\.]+/", $version, $cleanVersion);
+        foreach ((array)$this->data['changelog'] as $version => $changelog) {
+            preg_match("/[\w\-\.]+/", $version, $cleanVersion);
 
-            if (!$cleanVersion || version_compare($diff, $cleanVersion[0], ">=")) {
+            if (!$cleanVersion || version_compare($diff, $cleanVersion[0], '>=')) {
                 continue;
             }
 
@@ -91,6 +104,11 @@ class GravCore extends AbstractPackageCollection
         return $this->date;
     }
 
+    /**
+     * Determine if this version of Grav is eligible to be updated
+     *
+     * @return mixed
+     */
     public function isUpdatable()
     {
         return version_compare(GRAV_VERSION, $this->getVersion(), '<');
@@ -106,6 +124,26 @@ class GravCore extends AbstractPackageCollection
         return $this->version;
     }
 
+    /**
+     * Returns the minimum PHP version
+     *
+     * @return string
+     */
+    public function getMinPHPVersion()
+    {
+        // If non min set, assume current PHP version
+        if (null === $this->min_php) {
+            $this->min_php = PHP_VERSION;
+        }
+
+        return $this->min_php;
+    }
+
+    /**
+     * Is this installation symlinked?
+     *
+     * @return bool
+     */
     public function isSymlink()
     {
         return is_link(GRAV_ROOT . DS . 'index.php');

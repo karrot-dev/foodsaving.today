@@ -1,24 +1,29 @@
 <?php
+
 /**
- * @package    Grav.Console
+ * @package    Grav\Console\Cli
  *
- * @copyright  Copyright (C) 2014 - 2016 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
 namespace Grav\Console\Cli;
 
-use Grav\Console\ConsoleCommand;
+use Grav\Console\GravCommand;
 use Symfony\Component\Console\Input\ArrayInput;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
 
-class NewProjectCommand extends ConsoleCommand
+/**
+ * Class NewProjectCommand
+ * @package Grav\Console\Cli
+ */
+class NewProjectCommand extends GravCommand
 {
     /**
-     *
+     * @return void
      */
-    protected function configure()
+    protected function configure(): void
     {
         $this
             ->setName('new-project')
@@ -35,14 +40,16 @@ class NewProjectCommand extends ConsoleCommand
                 'Symlink the required bits'
             )
             ->setDescription('Creates a new Grav project with all the dependencies installed')
-            ->setHelp('The <info>new-project</info> command is a combination of the `setup` and `install` commands.\nCreates a new Grav instance and performs the installation of all the required dependencies.');
+            ->setHelp("The <info>new-project</info> command is a combination of the `setup` and `install` commands.\nCreates a new Grav instance and performs the installation of all the required dependencies.");
     }
 
     /**
-     * @return int|null|void
+     * @return int
      */
-    protected function serve()
+    protected function serve(): int
     {
+        $io = $this->getIO();
+
         $sandboxCommand = $this->getApplication()->find('sandbox');
         $installCommand = $this->getApplication()->find('install');
 
@@ -58,8 +65,11 @@ class NewProjectCommand extends ConsoleCommand
             '-s'          => $this->input->getOption('symlink')
         ]);
 
-        $sandboxCommand->run($sandboxArguments, $this->output);
-        $installCommand->run($installArguments, $this->output);
+        $error = $sandboxCommand->run($sandboxArguments, $io);
+        if ($error === 0) {
+            $error = $installCommand->run($installArguments, $io);
+        }
 
+        return $error;
     }
 }

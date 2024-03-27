@@ -1,8 +1,9 @@
 <?php
+
 /**
- * @package    Grav.Common.File
+ * @package    Grav\Common\File
  *
- * @copyright  Copyright (C) 2014 - 2016 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -10,6 +11,10 @@ namespace Grav\Common\File;
 
 use RocketTheme\Toolbox\File\YamlFile;
 
+/**
+ * Class CompiledYamlFile
+ * @package Grav\Common\File
+ */
 class CompiledYamlFile extends YamlFile
 {
     use CompiledFile;

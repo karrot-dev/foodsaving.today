@@ -1,10 +1,10 @@
 enabled: true
-author: Foodsaving Today
+author: Wilberforce Humphries
 title_header: false
 home_profile: true
 infinite_scroll: true
-analytics: UA-96483707-1
+analytics: UA-YOURCODE
 social:
-    twitter: true
-    facebook: true
+    twitter: '@getgrav'
+    facebook: rockettheme
 

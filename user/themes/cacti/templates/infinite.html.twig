@@ -4,9 +4,7 @@
 {% if pagination|length > 1 %}
 
     {% for item in collection %}
-      {% if post.file() %}
         {% include 'partials/post-item.html.twig' with {'post': item} %}
-      {% endif %}
     {% endfor %}
 
     {% include 'partials/load-more.html.twig' %}

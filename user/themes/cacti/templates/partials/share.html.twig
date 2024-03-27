@@ -1,7 +1,5 @@
-{% if uri.environment == site.production_uri_environment %}
-
 {% if theme_config.social.twitter %}
-<a class="twitter" href="https://twitter.com/intent/tweet?text={{page.title}} - {{ page.url(true) }}"><span class="icon-twitter"> {{ 'TWEET'|t }}</span></a>
+<a class="twitter" href="https://twitter.com/intent/tweet?text={{page.title}} by {{ theme_config.social.twitter }} - {{ page.url(true) }}"><span class="icon-twitter"> {{ 'TWEET'|t }}</span></a>
 {% endif %}
 {% if theme_config.social.facebook %}
 <a class="facebook" href="#" onclick="
@@ -11,6 +9,4 @@
       'width=626,height=436');
     return false;"><span class="icon-facebook-rect"> {{ 'SHARE'|t }}</span>
 </a>
-{% endif %}
-
 {% endif %}

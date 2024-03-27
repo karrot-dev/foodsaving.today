@@ -42,7 +42,6 @@ player_parameters:
   origin: ''
   playsinline: 0
   rel: 1
-  showinfo: 1
   vq: default
 privacy_enhanced_mode: false
 ```
@@ -55,12 +54,14 @@ You can also set any of these settings on a per-page basis by adding them under 
     title: YouTube Video
     youtube:
         player_parameters:
-            autoplay: true
+            autoplay: 1
     ---
     
     [plugin:youtube](https://www.youtube.com/watch?v=BK8guP9ov2U)
 
 This will display a video and auto-play it.
+
+For more details on the `player_parameters`, please check out the [YouTube official documentation](https://developers.google.com/youtube/player_parameters)
 
 # Usage
 
@@ -77,5 +78,22 @@ Will be converted into the following embeded HTML:
 ```
 
 CSS is also loaded to provide the appropriate responsive layout.
+
+# Shortcode Syntax
+
+As of version `3.0` you can now use an alternative _shortcode_ syntax that supports passing in the player parameter values inline.
+
+**NOTE: `shortcode-core` plugin is required and must be installed and enabled for Shortcode Syntax to work.**  
+
+```
+[youtube color=white autoplay=1]https://www.youtube.com/watch?v=BK8guP9ov2U[/youtube]
+```
+
+Using the shortcode syntax it is also possible to set a custom thumbnail picture when using lazy_load. 
+
+```
+[youtube lazy_load=true thumbnail="name of media.jpg"]https://www.youtube.com/watch?v=BK8guP9ov2U[/youtube]
+```
+
 
 [grav]: http://github.com/getgrav/grav

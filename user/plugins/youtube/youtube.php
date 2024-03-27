@@ -18,7 +18,7 @@ use RocketTheme\Toolbox\Event\Event;
 
 class YoutubePlugin extends Plugin
 {
-    const YOUTUBE_REGEX = '(?:https?:\/{2}(?:(?:www.youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=))|(?:youtu\.be\/)))([a-zA-Z0-9_-]{11})';
+    const YOUTUBE_REGEX = '(?:https?:\/{2}(?:(?:www.youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=))|(?:youtu\.be\/)))([a-zA-Z0-9_-]{11})(?:\?size=(\d+),(\d+))?';
 
     /**
      * Return a list of subscribed events.
@@ -30,6 +30,7 @@ class YoutubePlugin extends Plugin
     {
         return [
             'onPluginsInitialized' => ['onPluginsInitialized', 0],
+            'registerNextGenEditorPlugin' => ['registerNextGenEditorPluginShortcodes', 0],
         ];
     }
 
@@ -50,6 +51,7 @@ class YoutubePlugin extends Plugin
             'onTwigExtensions' => ['onTwigExtensions', 0],
             'onTwigSiteVariables' => ['onTwigSiteVariables', 0],
             'onTwigTemplatePaths' => ['onTwigTemplatePaths', 0],
+            'onShortcodeHandlers' => ['onShortcodeHandlers', 0],
         ]);
     }
 
@@ -80,12 +82,23 @@ class YoutubePlugin extends Plugin
                     return $search;
                 }
 
-                // build the replacement embed HTML string
-                $replace = $twig->processTemplate('partials/youtube.html.twig', array(
+                $options = array(
                     'player_parameters' => $config->get('player_parameters'),
                     'privacy_enhanced_mode' => $config->get('privacy_enhanced_mode'),
-                    'video_id' => $matches[1],
-                ));
+                    'lazy_load' => $config->get('lazy_load'),
+                    'video_id' => $matches[1]
+                );
+
+                
+                // check if size was given
+                if (isset($matches[2]) && isset($matches[3])) {
+                    $options['video_size'] = true;
+                    $options['video_height'] = $matches[2];
+                    $options['video_width'] = $matches[3];
+                }
+
+                // build the replacement embed HTML string
+                $replace = $twig->processTemplate('partials/youtube.html.twig', $options);
 
                 // do the replacement
                 return str_replace($search, $replace, $search);
@@ -114,6 +127,10 @@ class YoutubePlugin extends Plugin
             $this->grav['assets']->add('plugin://youtube/css/youtube.css');
         }
 
+        if (!$this->isAdmin() && $this->config->get('plugins.youtube.built_in_js')) {
+            $this->grav['assets']->add('plugin://youtube/js/youtube.js');
+        }
+
         if ($this->isAdmin() && $this->config->get('plugins.youtube.add_editor_button')) {
             $this->grav['assets']->add('plugin://youtube/admin/editor-button/js/button.js');
         }
@@ -125,5 +142,23 @@ class YoutubePlugin extends Plugin
     public function onTwigTemplatePaths()
     {
         $this->grav['twig']->twig_paths[] = __DIR__ . '/templates';
+    }
+
+    /**
+     * Initialize shortcodes
+     */
+    public function onShortcodeHandlers()
+    {
+        $this->grav['shortcode']->registerAllShortcodes(__DIR__.'/shortcodes');
+    }
+
+    public function registerNextGenEditorPluginShortcodes($event) {
+        $plugins = $event['plugins'];
+
+        // youtube
+        $plugins['js'][] = 'plugin://youtube/nextgen-editor/shortcodes/youtube/youtube.js';
+
+        $event['plugins']  = $plugins;
+        return $event;
     }
 }

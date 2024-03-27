@@ -4,30 +4,27 @@
     <article class="post">
         <header>
             <h1>{{ page.title }}</h1>
-            <h2 class="headline">
-              {{ 'MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date("d, Y") }}
-              {% for author in page.taxonomy.author %}
-                <span class="author">{{ author }}</span>
-              {% endfor %}
-            </h2>
+            <h2 class="headline">{{ 'MONTHS_OF_THE_YEAR'|ta(page.date|date('n') - 1) }} {{ page.date|date("d, Y") }}</h2>
         </header>
         <section id="post-body">
-            {{ page.content }}
+            {{ page.content|raw }}
         </section>
     </article>
     <footer id="post-meta" class="clearfix">
-        <img class="avatar" src="{{ avatar_url }}">
-        <div>
-            <span class="dark">{{ theme_config.author }}</span>
-            <span>{{ 'SITE.DESCRIPTION'|t }}</span>
-        </div>
+        <a href="http://twitter.com/{{ theme_config.social.twitter|trim('@') }}">
+            <img class="avatar" src="{{ avatar_url }}">
+            <div>
+                <span class="dark">{{ theme_config.author }}</span>
+                <span>{{ 'SITE.DESCRIPTION'|t }}</span>
+            </div>
+        </a>
 
         <section id="sharing">
             {% include 'partials/share.html.twig' %}
         </section>
     </footer>
 
-    <nav id="post-nav">
+    <nav id="post-nav" class="clearfix">
         {% if not page.isFirst %}
         <span class="prev">
             <a href="{{ page.nextSibling.url }}"><span class="arrow">←</span> {{ page.nextSibling.title }}</a>
@@ -41,13 +38,6 @@
         {% endif %}
     </nav>
 
-    <!-- Discourse comments -->
-    {% if page.header.discourse %}
-        <div class="archive readmore">
-            <h3>Comments</h3>
-            {% include 'partials/discourse.html.twig' %}
-        </div>
-    {% endif %}
 
     <!-- Disqus comments -->
     {% if page.header.disqus %}

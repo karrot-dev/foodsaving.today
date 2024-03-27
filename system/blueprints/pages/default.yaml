@@ -21,6 +21,9 @@ form:
           title: PLUGIN_ADMIN.CONTENT
 
           fields:
+            xss_check:
+              type: xss
+
             header.title:
               type: text
               autofocus: true
@@ -32,7 +35,7 @@ form:
                 validate:
                   type: textarea
 
-            uploads:
+            header.media_order:
               type: pagemedia
               label: PLUGIN_ADMIN.PAGE_MEDIA
 
@@ -118,19 +121,15 @@ form:
                       underline: true
 
                     folder:
-                      type: text
+                      type: folder-slug
                       label: PLUGIN_ADMIN.FOLDER_NAME
                       validate:
                         rule: slug
 
                     route:
-                      type: select
+                      type: parents
                       label: PLUGIN_ADMIN.PARENT
                       classes: fancy
-                      data-options@: '\Grav\Common\Page\Pages::parentsRawRoutes'
-                      data-default@: '\Grav\Plugin\Admin\Admin::rawRoute'
-                      options:
-                        '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
 
                     name:
                       type: select
@@ -313,6 +312,43 @@ form:
                   label: PLUGIN_ADMIN.APPEND_URL_EXT
                   toggleable: true
                   help: PLUGIN_ADMIN.APPEND_URL_EXT_HELP
+
+            routes_only:
+              type: section
+              title: PLUGIN_ADMIN.ROUTE_OVERRIDES
+              underline: true
+
+              fields:
+
+                header.redirect_default_route:
+                  type: toggle
+                  toggleable: true
+                  label: PLUGIN_ADMIN.REDIRECT_DEFAULT_ROUTE
+                  help: PLUGIN_ADMIN.REDIRECT_DEFAULT_ROUTE_HELP
+                  config-highlight@: system.pages.redirect_default_route
+                  options:
+                    1: PLUGIN_ADMIN.YES
+                    0: PLUGIN_ADMIN.NO
+                  validate:
+                    type: bool
+
+                header.routes.default:
+                  type: text
+                  toggleable: true
+                  label: PLUGIN_ADMIN.ROUTE_DEFAULT
+
+                header.routes.canonical:
+                  type: text
+                  toggleable: true
+                  label: PLUGIN_ADMIN.ROUTE_CANONICAL
+
+                header.routes.aliases:
+                  type: array
+                  toggleable: true
+                  value_only: true
+                  size: large
+                  label: PLUGIN_ADMIN.ROUTE_ALIASES
+
 
             admin_only:
               type: section

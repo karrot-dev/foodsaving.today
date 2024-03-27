@@ -1,4 +1,4 @@
-{% if site.disqus_shortname and uri.environment == site.production_uri_environment %}
+{% if site.disqus_shortname %}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         var disqus_shortname = "{{ site.disqus_shortname }}";

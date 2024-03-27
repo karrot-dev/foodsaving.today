@@ -28,9 +28,7 @@
     {% block content %}
     <ul id="post-list" class="infinite-scroll">
         {% for post in collection %}
-          {% if post.file() %}
-            {% include 'partials/post-item.html.twig' %}
-          {% endif %}
+        {% include 'partials/post-item.html.twig' %}
         {% endfor %}
         {% if config.plugins.pagination.enabled and collection.params.pagination %}
             {% include 'partials/load-more.html.twig' %}

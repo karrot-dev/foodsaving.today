@@ -1,6 +1,8 @@
 name: YouTube
-version: 2.0.4
-description: "**YouTube** is a simple plugin that converts markdown links into responsive embeds."
+slug: youtube
+type: plugin
+version: 4.2.0
+description: "**YouTube** is a simple plugin that converts markdown links or shortcodes into responsive embeds."
 icon: youtube
 author:
   name: Team Grav
@@ -36,6 +38,17 @@ form:
       validate:
         type: bool
 
+    built_in_js:
+      type: toggle
+      label: Use built in JS
+      highlight: 0
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
+
     add_editor_button:
       type: toggle
       label: Add editor button
@@ -53,6 +66,18 @@ form:
       label: Privacy-enhanced mode
       help: If enabled, YouTube won’t store information about visitors on your web page unless they play the video.
       highlight: 0
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
+
+    lazy_load:
+      type: toggle
+      label: Lazy load iframes
+      help: If enabled, only the preview thumbnail will be loaded. When clicked, the iframe will be loaded. Improves page load speed.
+      hightlight: 0
       default: 0
       options:
         1: Enabled
@@ -101,18 +126,6 @@ form:
           help: If enabled, the player will play the initial video again and again.
           highlight: 0
           default: 0
-          options:
-            1: Enabled
-            0: Disabled
-          validate:
-            type: int
-
-        player_parameters.showinfo:
-          type: toggle
-          label: Show information
-          help: If enabled, the player will display information like the video title and uploader before the video starts playing.
-          highlight: 1
-          default: 1
           options:
             1: Enabled
             0: Disabled

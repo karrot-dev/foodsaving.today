@@ -1,27 +1,36 @@
 <?php
+
 /**
- * @package    Grav.Common.Config
+ * @package    Grav\Common\Config
  *
- * @copyright  Copyright (C) 2014 - 2016 RocketTheme, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
+
 namespace Grav\Common\Config;
 
 use Grav\Common\Data\Blueprint;
 use Grav\Common\Data\BlueprintSchema;
 use Grav\Common\Grav;
 
+/**
+ * Class CompiledBlueprints
+ * @package Grav\Common\Config
+ */
 class CompiledBlueprints extends CompiledBase
 {
     /**
-     * @var int Version number for the compiled file.
+     * CompiledBlueprints constructor.
+     * @param string $cacheFolder
+     * @param array $files
+     * @param string $path
      */
-    public $version = 2;
+    public function __construct($cacheFolder, array $files, $path)
+    {
+        parent::__construct($cacheFolder, $files, $path);
 
-    /**
-     * @var BlueprintSchema  Blueprints object.
-     */
-    protected $object;
+        $this->version = 2;
+    }
 
     /**
      * Returns checksum from the configuration files.
@@ -32,7 +41,7 @@ class CompiledBlueprints extends CompiledBase
      */
     public function checksum()
     {
-        if (!isset($this->checksum)) {
+        if (null === $this->checksum) {
             $this->checksum = md5(json_encode($this->files) . json_encode($this->getTypes()) . $this->version);
         }
 
@@ -42,7 +51,7 @@ class CompiledBlueprints extends CompiledBase
     /**
      * Create configuration object.
      *
-     * @param array  $data
+     * @param array $data
      */
     protected function createObject(array $data = [])
     {
@@ -61,6 +70,8 @@ class CompiledBlueprints extends CompiledBase
 
     /**
      * Finalize configuration object.
+     *
+     * @return void
      */
     protected function finalizeObject()
     {
@@ -71,6 +82,7 @@ class CompiledBlueprints extends CompiledBase
      *
      * @param  string  $name  Name of the position.
      * @param  array   $files  Files to be loaded.
+     * @return void
      */
     protected function loadFile($name, $files)
     {
@@ -92,6 +104,7 @@ class CompiledBlueprints extends CompiledBase
 
         // Convert file list into parent list.
         $list = [];
+        /** @var array $files */
         foreach ($this->files as $files) {
             foreach ($files as $name => $item) {
                 $list[$name][] = $this->path . $item['file'];
@@ -108,6 +121,9 @@ class CompiledBlueprints extends CompiledBase
         return true;
     }
 
+    /**
+     * @return array
+     */
     protected function getState()
     {
         return $this->object->getState();
