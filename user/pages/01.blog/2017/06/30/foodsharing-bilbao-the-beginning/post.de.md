@@ -1,6 +1,6 @@
 ---
-title: foodsharing Bilbao - der Anfang
-date: '12:00 30-06-2017'
+title: "foodsharing Bilbao - der Anfang"
+date: 12:00 13-04-2017
 headline: Inspiration, Sprachnachrichten und ein Besuch
 disqus: true
 taxonomy:
@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Unai
 ---
+
 Leire und ich (Unai) haben die Energie von foodsharing Kopenhagen gesehen und wollten das auch hier in Bilbao ausprobieren. Etwa Ende 2016 haben wir ein Meeting bei [Sarean](https://www.facebook.com/sareangunea/) arrangiert, das zwei weitere Leute angezogen hat: Ione und Laura.
 
 Wir haben beschlossen eine [Facebook Gruppe](https://www.facebook.com/groups/1853289058224368/?ref=bookmarks) zu gründen, um Leute einzuladen und ein weiteres Meeting zu halten, sobald mehr Leute erreichbar sind. Das zweite Treffen hat nie stattgefunden; zum Glück aber kannte Laura Joachim (von [yunity](https://www.yunity.org)) und er hat vorgeschlagen, dass wir bei ein paar [Online Meetings](https://drive.google.com/open?id=0B0c-rM4MZX0XdERVTy1IVUN0aVU&noprocess) teilnehmen, wo wir die Basics von foodsharing kennenlernten.

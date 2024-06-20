@@ -1,6 +1,6 @@
 ---
-title: 'Wir stellen vor: foodsharing Taiwan'
-date: '12:00 07-04-2017'
+title: "Wir stellen vor: foodsharing Taiwan"
+date: 12:00 07-04-2017
 headline: Die Bewegung wächst
 disqus: true
 taxonomy:
@@ -9,6 +9,7 @@ taxonomy:
     - grav
   author: Stefan
 ---
+
 ![](/images/fstaiwan.jpg)
 
 foodsharing Taiwan wurde Ende 2015 gegründet. Inspiriert von [foodsharing](https://foodsharing.de) in Deutschland dachten wir uns, dass das auch ähnlich in Taiwan funktionieren könnte.

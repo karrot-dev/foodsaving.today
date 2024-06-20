@@ -1,14 +1,15 @@
 ---
-title: Foodsharing Göteborg - Teil 4
-date: '12:00 27-05-2017'
+title: "Foodsharing Göteborg - Teil 4"
+date: 12:00 27-05-2017
 headline: Strategien für die Zukunft
-disqus: richtig
+disqus: true
 taxonomy:
   category: Blog
   tag:
     - grav
   author: Bruno
 ---
+
 In den vergangenen Beiträgen schrieb ich über Solikyl, die foodsharing Initiative in Gotheburg, über Schwierigkeiten und über die Computerprogramme, die wir nutzen um uns zu organisieren und auszutauschen. Dieser letzte Beitrag behandelt die Strategien und Visionen, die wir für die Zukunft haben.
 
 Die Vision ist natürlich solidarische Kühlschränke in der Stadt zu verteilen um mehr Betriebe dazu zu bringen mit uns zu kooperieren und letzendlich die Lebensmittelverschwendung sichtbar einzudämmen. Doch es gibt Wege und Wege dies zu tun. Es gibt weder den Bedarf ein Geschäft daraus zu machen, noch es als Wohltätigkeitsorganisation für die Ärmsten aufzuziehen, dies zieht nur stigmatisierende Grenzen mit sich.
